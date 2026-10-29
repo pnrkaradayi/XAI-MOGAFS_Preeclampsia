@@ -1,0 +1,17 @@
+######## GSE168788  (491 örnek)
+!Series_title = Extracellular vesicle-enriched miRNA profiles across pregnancy in the MADRES cohort
+!Series_pubmed_id = 33979365
+!Series_pubmed_id = 39292753
+!Series_overall_design = Profiling of miRNA in early and late pregnancy from the MADRES cohort of primarily low-income Hispanic women based in Los Angeles, CA. miRNA derived from extracellular-vesicles (EVs) were isolated from maternal blood plasma samples collected in early and late pregnancy.
+!Series_overall_design = sample-specific positive and negative controls included in RCC files. 6 duplicated samples.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE168nnn/GSE168788/suppl/GSE168788_RAW.tar
+!Series_platform_id = GPL29841
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA713990
+!Sample_source_name_ch1: {'Maternal plasma': 491}
+!Sample_platform_id: {'GPL29841': 491}
+!Sample_molecule_ch1: {'total RNA': 491}
+!Sample_title örnek: plasma-pregnancy-AA58724 | plasma-pregnancy-AB80632 | plasma-pregnancy-AD03083 | plasma-pregnancy-AE42240 | plasma-pregnancy-AF65082 | plasma-pregnancy-AM24834
+  [weeks gestation] n_değer=452: {'34.066': 3, '32.198': 3, '32.196': 3, '34.624': 2, '33.908': 2, '30.055': 2, '31.764': 2, '9.5079': 2, '32.056': 2, '30.91': 2, '32.059': 2, '31.772': 2} … (+440 değer)
+  [race/ethnicity] n_değer=5: {'white_hisp_Foreign': 215, 'white_hisp_USborn': 165, 'black_non_hisp': 49, 'non_hisp': 34, 'other_hisp': 28}
+  [tissue] n_değer=1: {'Maternal plasma': 491}
+  [geographical location] n_değer=1: {'Los Angeles': 491}

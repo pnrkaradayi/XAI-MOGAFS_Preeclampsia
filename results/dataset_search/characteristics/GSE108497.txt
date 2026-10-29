@@ -1,0 +1,53 @@
+######## GSE108497  (512 örnek)
+!Series_title = Blood immunomonitoring uncovers pregnancy-induced immune programs and their dysregulation in lupus pregnancy destined for complications
+!Series_overall_design = 512 total samples; 325 SLE samples; 187 without SLE. Samples were taken under the following conditions: not pregnant or NP, <16 wks pregnant, 16-23 weeks pregnant, 24-31 weeks pregnant, 32-40 weeks pregnant, post-partum or PP.
+!Series_overall_design = 
+!Series_overall_design = Description of sample characteristics:
+!Series_overall_design = GRP_P_TP; Disease group, Pregnancy/non-pregnancy, timepoint, a variable used for mixed model
+!Series_overall_design = GA_AT_COLLECTION; Gestational age at collection (week)
+!Series_overall_design = GA_at_end_of_Pregnancy; Gestational age at the end of pregnancy (week)
+!Series_overall_design = SLE; yes=1, no=0
+!Series_overall_design = aPL; Antiphospholipid antibodies yes=1, no=0
+!Series_overall_design = LAC; Lupus Anticoagulant yes=1, no=0
+!Series_overall_design = TP; time point [1: <16 weeks of gestation (WG); 2: 16-23 WG; 3: 24-31 WG; 4: 32-40 WG, and between 8 and 20 weeks postpartum (5)]
+!Series_overall_design = PE; Preeclampsia yes=1, no=0
+!Series_overall_design = If_PE_before_or_after_36_weeks; If the patient had preeclampsia, before or after 36 WG
+!Series_overall_design = FD; Fetal death
+!Series_overall_design = NND; Neonatal death
+!Series_overall_design = PL_Insuff; preterm delivery <36 weeks because of placental insufficiency
+!Series_overall_design = IUGR; Intrauterine growth restriction
+!Series_overall_design = SGA; small-for-gestational-age neonate
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108497/suppl/GSE108497_9269325029_J_and_K_non-normalized.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108497/suppl/GSE108497_9269325029_J_and_K_normalized.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108497/suppl/GSE108497_RAW.tar
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108497/suppl/GSE108497_non-normalized_data.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE108nnn/GSE108497/suppl/GSE108497_normalized_data.txt.gz
+!Series_platform_id = GPL10558
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA427443
+!Sample_source_name_ch1: {'whole_blood-SLE_P_NC_1': 45, 'whole_blood-SLE_P_NC_3': 44, 'whole_blood-SLE_P_NC_4': 42, 'whole_blood-SLE_P_NC_2': 39, 'whole_blood-HC_P_1': 38, 'whole_blood-HC_P_2': 37, 'whole_blood-HC_P_3': 37, 'whole_blood-HC_P_4': 35}
+!Sample_platform_id: {'GPL10558': 512}
+!Sample_molecule_ch1: {'total RNA': 512}
+!Sample_title örnek: whole_blood-HC_NP_5-rep1 | whole_blood-HC_NP_5-rep2 | whole_blood-HC_NP_5-rep3 | whole_blood-HC_NP_5-rep4 | whole_blood-HC_NP_5-rep5 | whole_blood-HC_NP_5-rep6
+  [tissue] n_değer=1: {'whole blood': 512}
+  [grp_p_tp] n_değer=21: {'SLE_P_NC_1': 45, 'SLE_P_NC_3': 44, 'SLE_P_NC_4': 42, 'SLE_P_NC_2': 39, 'HC_P_1': 38, 'HC_P_2': 37, 'HC_P_3': 37, 'HC_P_4': 35, 'SLE_P_NC_5': 25, 'HC_NP_5': 23, 'SLE_P_PE_1': 21, 'SLE_P_OC_1': 18} … (+9 değer)
+  [sample_name] n_değer=512: {'HC2013_1': 1, 'HC2013-15': 1, 'HC-85': 1, 'HC2013-10': 1, 'HC2013-9': 1, 'HC2013-7': 1, 'HC2013-6': 1, 'HC-92': 1, 'HC-94': 1, 'HC2013-14': 1, 'HC-82': 1, 'HC-89': 1} … (+500 değer)
+  [donor_id] n_değer=158: {'JC13': 5, 'JC2': 5, 'TC122': 5, 'TC124': 5, 'TC128': 5, 'UC15': 5, 'UC27': 5, 'UC35': 5, 'UC36': 5, 'UC37': 5, 'UC38': 5, 'UC39': 5} … (+146 değer)
+  [age] n_değer=23: {'29': 53, '30': 51, '31': 44, '27': 40, '26': 35, '32': 35, '28': 33, '35': 31, '38': 31, '33': 29, '25': 24, '34': 19} … (+11 değer)
+  [gender] n_değer=1: {'Female': 512}
+  [race] n_değer=5: {'C': 330, 'AA': 66, 'As': 54, 'H': 16, 'Other': 13}
+  [ethnicity] n_değer=2: {'Not Hispanic or Latino': 429, 'Hispanic or Latino': 83}
+  [sle] n_değer=2: {'1': 325, '0': 187}
+  [apl] n_değer=2: {'0': 437, '1': 75}
+  [lac] n_değer=2: {'0': 464, '1': 48}
+  [tp] n_değer=5: {'1': 122, '2': 112, '3': 107, '4': 90, '5': 81}
+  [pe] n_değer=2: {'0': 443, '1': 69}
+  [fd] n_değer=2: {'0': 490, '1': 22}
+  [nnd] n_değer=2: {'0': 506, '1': 6}
+  [pl_insuff] n_değer=2: {'0': 504, '1': 8}
+  [iugr] n_değer=2: {'0': 495, '1': 17}
+  [sga] n_değer=2: {'0': 463, '1': 49}
+  [batch] n_değer=4: {'4': 325, '1': 86, '2': 56, '3': 45}
+  [time_point] n_değer=5: {'<16 weeks': 122, '16-23 weeks': 112, '24-31 weeks': 107, '32-40 weeks': 90, 'PP': 58}
+  [ga_at_collection] n_değer=208: {'20': 8, '11.1': 7, '11.6': 7, '36.5': 7, '36.3': 7, '19': 6, '28.1': 6, '37.3': 6, '12': 5, '12.1': 5, '20.4': 5, '18.2': 5} … (+196 değer)
+  [ga_at_end_of_pregnancy] n_değer=61: {'39.3': 48, '39': 40, '39.1': 28, '39.2': 26, '38.2': 24, '40.1': 24, '37': 20, '38.5': 18, '40.2': 13, '38': 12, '37.4': 12, '37.5': 12} … (+49 değer)
+  [if_pe_before_or_after_36_weeks] n_değer=2: {'Before': 53, 'After': 16}

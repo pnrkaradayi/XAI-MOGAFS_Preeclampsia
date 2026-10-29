@@ -1,0 +1,64 @@
+26 imza değerlendirildi (250 hücre; bağımsız 228).
+Kapsamı < 0.5 olduğu için hiç değerlendirilemeyen imzalar: CastilloMarco2025_LOPE_T1, CastilloMarco2025_LOPE_T2, DelVecchio2021_APO_LR10, DelVecchio2021_PreX_gHTN_LR5, Froystad2026_NOTCH2NL_qPCR, Gunaydin2025_LOPE_12gene, Lekva2023_MT_TA_leukocytes, Munchel2020_cfRNA_49, Nakano2025_LOPE_recurrent3, Zhou2023_cfRNA_13
+
+ÖZET (bağımsız hücreler): PE AUC ortalaması, alarm AUC'si (sPTD/PPROM/FGR vs kontrol)
+  Lekva2021_TERC_PBMC                      PBMC/leukocyte PE 0.57 (n=3, GA>0.5: 0) | alarm 0.46 (n=6, GA>0.5: 0) | özgüllük +0.11  [published]
+  Tarca2021_untargeted16_wholeblood        whole_blood    PE 0.56 (n=3, GA>0.5: 0) | alarm 0.49 (n=6, GA>0.5: 0) | özgüllük +0.06  [published]
+  Moufarrej2022_cfRNA_LR18_logOR           plasma_cfRNA   PE 0.55 (n=4, GA>0.5: 0) | alarm 0.51 (n=6, GA>0.5: 0) | özgüllük +0.04  [published+logOR]
+  Moufarrej2022_cfRNA_LR18                 plasma_cfRNA   PE 0.55 (n=4, GA>0.5: 0) | alarm 0.51 (n=6, GA>0.5: 0) | özgüllük +0.04  [published]
+  Elovitz2025_placentalHDP_6gene           plasma_cfRNA   PE 0.55 (n=3, GA>0.5: 0) | alarm 0.47 (n=6, GA>0.5: 0) | özgüllük +0.08  [published]
+  Tarca2021_EVT20_wholeblood               whole_blood    PE 0.55 (n=3, GA>0.5: 0) | alarm 0.54 (n=6, GA>0.5: 0) | özgüllük +0.00  [published]
+  Hong2019_SLE_PE_P1_58probe               whole_blood    PE 0.53 (n=1, GA>0.5: 0) | alarm 0.50 (n=5, GA>0.5: 0) | özgüllük +0.03  [calibrated:GSE85307+GSE192902_disc]
+  Elovitz2025_PE_vs_all_top2               plasma_cfRNA   PE 0.53 (n=5, GA>0.5: 0) | alarm 0.49 (n=6, GA>0.5: 1) | özgüllük +0.04  [published]
+  Tarca2021_LDA4_H19_FN1_TUBB6_FPR3        whole_blood    PE 0.52 (n=4, GA>0.5: 0) | alarm 0.50 (n=4, GA>0.5: 1) | özgüllük +0.02  [published]
+  Elovitz2025_placental_vs_immune_6gene    plasma_cfRNA   PE 0.51 (n=3, GA>0.5: 0) | alarm 0.49 (n=6, GA>0.5: 0) | özgüllük +0.02  [published]
+  Tarca2021_LDA3_MMP11_SLC6A2_IL18BP       whole_blood    PE 0.51 (n=2, GA>0.5: 0) | alarm 0.53 (n=4, GA>0.5: 0) | özgüllük -0.01  [published]
+  Chaiworapongsa2013_EOPE_atDx             whole_blood    PE 0.51 (n=3, GA>0.5: 0) | alarm 0.50 (n=6, GA>0.5: 0) | özgüllük +0.01  [published]
+  Yadama2020_VDAART_overlap238             whole_blood    PE 0.50 (n=2, GA>0.5: 0) | alarm 0.43 (n=6, GA>0.5: 0) | özgüllük +0.07  [calibrated:GSE85307+GSE192902_disc]
+  Mirzakhani2016_VDAART_348                whole_blood    PE 0.50 (n=2, GA>0.5: 0) | alarm 0.43 (n=6, GA>0.5: 0) | özgüllük +0.06  [calibrated:GSE85307+GSE192902_disc]
+  Froystad2026_PBMC_up10_22_24wk           PBMC/leukocyte PE 0.49 (n=3, GA>0.5: 0) | alarm 0.50 (n=6, GA>0.5: 0) | özgüllük -0.01  [published]
+  Rasmussen2022_cfRNA_7gene                plasma_cfRNA   PE 0.49 (n=2, GA>0.5: 0) | alarm 0.44 (n=6, GA>0.5: 0) | özgüllük +0.05  [calibrated:GSE85307]
+  Carter2025_inflammatory_cfRNA8           plasma_cfRNA   PE 0.49 (n=2, GA>0.5: 0) | alarm 0.50 (n=6, GA>0.5: 1) | özgüllük -0.01  [calibrated:GSE192902_disc+GSE85307]
+  Tarca2021_LDA3_MMP11_SLC6A2_AIF1L        whole_blood    PE 0.49 (n=2, GA>0.5: 0) | alarm 0.57 (n=4, GA>0.5: 0) | özgüllük -0.08  [published]
+  CastilloMarco2025_EOPE_T2                plasma_cfRNA   PE 0.49 (n=2, GA>0.5: 0) | alarm 0.47 (n=6, GA>0.5: 0) | özgüllük +0.01  [calibrated:GSE192902_disc+GSE85307]
+  Chaiworapongsa2013_LOPE_atDx             whole_blood    PE 0.49 (n=3, GA>0.5: 0) | alarm 0.51 (n=6, GA>0.5: 1) | özgüllük -0.02  [published]
+  Hong2019_M5.15_neutrophil_module         whole_blood    PE 0.48 (n=2, GA>0.5: 0) | alarm 0.50 (n=5, GA>0.5: 1) | özgüllük -0.02  [published]
+  Weiner2026_EOP_NAMPT                     plasma_cfRNA   PE 0.47 (n=5, GA>0.5: 0) | alarm 0.48 (n=6, GA>0.5: 0) | özgüllük -0.01  [published]
+  Lekva2021_PBMC_pilotarray_top20          PBMC/leukocyte PE 0.45 (n=5, GA>0.5: 0) | alarm 0.47 (n=6, GA>0.5: 0) | özgüllük -0.02  [published]
+  Weiner2022_EOP_NAMPT_APOA1               plasma_cfRNA   PE 0.44 (n=5, GA>0.5: 0) | alarm 0.49 (n=6, GA>0.5: 0) | özgüllük -0.05  [published]
+  Myhrer2024_RPPH1_leukocytes              PBMC/leukocyte PE 0.41 (n=5, GA>0.5: 0) | alarm 0.46 (n=6, GA>0.5: 0) | özgüllük -0.05  [published]
+  CastilloMarco2025_EOPE_T1                plasma_cfRNA   PE 0.40 (n=2, GA>0.5: 0) | alarm 0.51 (n=6, GA>0.5: 1) | özgüllük -0.11  [calibrated:GSE192902_disc+GSE85307]
+
+%95 GA'sı 0.5'in üzerinde olan bağımsız hücreler (6):
+  Tarca2021_LDA4_H19_FN1_TUBB6_FPR3        GSE108497       FGR_SGA_FD AUC 0.70 [0.55–0.82] n=21/46  p=0.0096 q=0.733
+  CastilloMarco2025_EOPE_T1                GSE149440       PPROM      AUC 0.68 [0.56–0.80] n=33/50  p=0.0053 q=0.607
+  Hong2019_M5.15_neutrophil_module         GSE59491        PPROM      AUC 0.62 [0.51–0.72] n=36/114  p=0.0306 q=0.744
+  Chaiworapongsa2013_LOPE_atDx             GSE142974       sPTD       AUC 0.75 [0.56–0.93] n=8/16  p=0.0523 q=0.744
+  Carter2025_inflammatory_cfRNA8           GSE142974       sPTD       AUC 0.73 [0.55–0.91] n=8/16  p=0.0702 q=0.788
+  Elovitz2025_PE_vs_all_top2               GSE59491        sPTD       AUC 0.65 [0.52–0.77] n=15/114  p=0.0556 q=0.744
+
+Bağımsız hücrelerde FDR q<0.10: 0; q<0.20: 0 (toplam 228 test)
+
+Moufarrej 2022 — aynı kohortlarda yeniden puanlama (yayımlanmış: Val-1 0.71, Val-2 0.72; örnek tanımı farklı):
+  Moufarrej2022_cfRNA_LR18         GSE85307        PE         AUC 0.49 [0.40–0.58] n=47/110
+  Moufarrej2022_cfRNA_LR18         GSE149440       PE         AUC 0.55 [0.38–0.71] n=12/50
+  Moufarrej2022_cfRNA_LR18         GSE149440       sPTD       AUC 0.46 [0.36–0.58] n=28/50
+  Moufarrej2022_cfRNA_LR18         GSE149440       PPROM      AUC 0.56 [0.42–0.68] n=33/50
+  Moufarrej2022_cfRNA_LR18         GSE59491        sPTD       AUC 0.51 [0.34–0.69] n=15/114
+  Moufarrej2022_cfRNA_LR18         GSE59491        PPROM      AUC 0.42 [0.31–0.53] n=36/114
+  Moufarrej2022_cfRNA_LR18         GSE142974       sPTD       AUC 0.50 [0.25–0.77] n=8/16
+  Moufarrej2022_cfRNA_LR18         GSE108497       PE         AUC 0.50 [0.36–0.64] n=23/46
+  Moufarrej2022_cfRNA_LR18         GSE108497       FGR_SGA_FD AUC 0.59 [0.43–0.73] n=21/46
+  Moufarrej2022_cfRNA_LR18         GSE192902_disc  PE         AUC 0.81 [0.70–0.90] n=23/45  (eğitim kohortu)
+  Moufarrej2022_cfRNA_LR18         GSE192902_val1  PE         AUC 0.66 [0.38–0.93] n=6/27
+  Moufarrej2022_cfRNA_LR18_logOR   GSE85307        PE         AUC 0.51 [0.42–0.61] n=47/110
+  Moufarrej2022_cfRNA_LR18_logOR   GSE149440       PE         AUC 0.55 [0.39–0.73] n=12/50
+  Moufarrej2022_cfRNA_LR18_logOR   GSE149440       sPTD       AUC 0.45 [0.34–0.58] n=28/50
+  Moufarrej2022_cfRNA_LR18_logOR   GSE149440       PPROM      AUC 0.56 [0.43–0.68] n=33/50
+  Moufarrej2022_cfRNA_LR18_logOR   GSE59491        sPTD       AUC 0.45 [0.26–0.65] n=15/114
+  Moufarrej2022_cfRNA_LR18_logOR   GSE59491        PPROM      AUC 0.41 [0.29–0.53] n=36/114
+  Moufarrej2022_cfRNA_LR18_logOR   GSE142974       sPTD       AUC 0.55 [0.30–0.81] n=8/16
+  Moufarrej2022_cfRNA_LR18_logOR   GSE108497       PE         AUC 0.50 [0.36–0.64] n=23/46
+  Moufarrej2022_cfRNA_LR18_logOR   GSE108497       FGR_SGA_FD AUC 0.63 [0.47–0.76] n=21/46
+  Moufarrej2022_cfRNA_LR18_logOR   GSE192902_disc  PE         AUC 0.82 [0.72–0.91] n=23/45  (eğitim kohortu)
+  Moufarrej2022_cfRNA_LR18_logOR   GSE192902_val1  PE         AUC 0.64 [0.36–0.90] n=6/27

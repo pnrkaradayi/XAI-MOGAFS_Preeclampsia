@@ -1,0 +1,15 @@
+######## GSE192813  (24 örnek)
+!Series_title = Plasma exosomal microRNAs associated with metabolism as early predictor of gestational diabetes mellitus
+!Series_pubmed_id = 35926094
+!Series_overall_design = miRNA profiles in plasma exosomes derived from gestationla diabetes mellitus and normal glucose tolerance
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE192nnn/GSE192813/suppl/GSE192813_Raw_gene_counts_matrix.csv.gz
+!Series_platform_id = GPL16791
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA793254
+!Sample_source_name_ch1: {'plasma sEVs': 24}
+!Sample_platform_id: {'GPL16791': 24}
+!Sample_molecule_ch1: {'total RNA': 24}
+!Sample_title örnek: NGT rep1 | NGT rep2 | NGT rep3 | NGT rep4 | NGT rep5 | NGT rep6
+  [condition] n_değer=2: {'normal glucose tolerance': 12, 'gestational diabetes mellitus': 12}
+  [gestational age] n_değer=1: {'24-28 weeks of gestation': 24}
+  [tissue] n_değer=1: {'plasma sEVs': 24}
+  [molecule subtype] n_değer=1: {'microRNA': 24}

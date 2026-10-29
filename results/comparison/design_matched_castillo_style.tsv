@@ -1,0 +1,6 @@
+gen_kumesi	n_gen	tasarım	auc	ci_lo	ci_hi
+XAI-MOGAFS V7 (birincil)	4/4	Castillo-Marco tarzı: Val-2 içinde LOOCV yeniden ayar	0.5718789407313998	0.42686002522068095	0.710592686002522
+XAI-MOGAFS V0	4/4	Castillo-Marco tarzı: Val-2 içinde LOOCV yeniden ayar	0.5838587641866331	0.45208070617906687	0.7156683480453971
+XAI-MOGAFS V0pc (protein kodlayan)	4/4	Castillo-Marco tarzı: Val-2 içinde LOOCV yeniden ayar	0.5970996216897857	0.4684426229508197	0.7206967213114753
+XAI-MOGAFS-SI (Val-2'siz eğitilmiş genler)	5/5	Castillo-Marco tarzı: Val-2 içinde LOOCV yeniden ayar	0.7345523329129886	0.6122162673392181	0.8467843631778058
+Moufarrej 2022 (18 gen)	16/16	Castillo-Marco tarzı: Val-2 içinde LOOCV yeniden ayar	0.7150063051702396	0.5977143757881462	0.8279003783102142

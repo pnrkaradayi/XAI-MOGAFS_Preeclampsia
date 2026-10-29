@@ -1,0 +1,23 @@
+Discovery: 103 örnek / 68 kadın; PE örnek 30 / kadın 23; kadın başına örnek ort. 1.51
+Validation-1: 57 örnek / 33 kadın; PE örnek 11 / kadın 6; kadın başına örnek ort. 1.73
+Varyant V7: tüm genler + bileşim, ≤5 özellik, tekrarlı-örnek eğitimi, kadın gruplu CV
+Süre: 285 sn
+
+A. DISCOVERY İÇ İÇE CV (kadın gruplu, 5 kat x 3 tekrar)
+  MOGAFS  kadın düzeyi AUC 0.786 (0.777, 0.774, 0.809) | örnek düzeyi 0.793 | eğitim (apparent) 0.974
+  LASSO   kadın düzeyi AUC 0.754 (0.729, 0.748, 0.784) | örnek düzeyi 0.778 | eğitim (apparent) 0.953
+  TTEST   kadın düzeyi AUC 0.840 (0.834, 0.846, 0.839) | örnek düzeyi 0.843 | eğitim (apparent) 0.881
+
+B. VAL-1 (Discovery'de kurulan modeller; aynı örneklerde rakipler)
+  MOGAFS  RN7SL230P;IGHG1;HSPA6                                        kadın 0.821 [0.64–0.96] | örnek 0.777 [0.65–0.90]
+  LASSO   RN7SL230P;RN7SL753P;USF2;PDZD8;SNORD89                       kadın 0.802 [0.62–0.96] | örnek 0.753 [0.59–0.89]
+  TTEST   RN7SL230P;RN7SL736P;RN7SL128P;RN7SL674P;RN7SL753P            kadın 0.889 [0.76–0.98] | örnek 0.856 [0.74–0.95]
+  V0 paneli (RN7SL230P, HIP1R, KIF13B)                                 kadın 0.877 [0.72–0.98] | örnek 0.826 [0.69–0.93]
+  Moufarrej 18 gen (16/18 mevcut, log OR)                              kadın 0.648 [0.33–0.91] | örnek 0.605 [0.39–0.81]
+  (Val-1: 33 kadın (6 PE) / 57 örnek (11 PE örneği); Moufarrej yayımlanmış Val-1 AUC 0.71, ≤16 hf örnekleri)
+
+C. KİLİT (Discovery + Val-1, 160 örnek / 101 kadın)
+  MOGAFS  eğitim (apparent) AUC 0.945 | RN7SL736P (+1.78), RIOK3 (-1.00), HIP1R (+1.11), FHIP2A (-0.86)
+  LASSO   eğitim (apparent) AUC 0.885 | RN7SL230P (+0.66), RN7SL753P (+0.27), RN7SL493P (+0.28), STAG2 (-0.69), RN7SL564P (+0.49)
+  TTEST   eğitim (apparent) AUC 0.866 | RN7SL230P (+0.95), RN7SL674P (+0.36), RN7SL736P (+0.47), RN7SL128P (-0.34), RN7SL564P (+0.48)
+  kilit SHA-256: 6dca6bf65908ec8c… (4565 küme; Pareto 35)

@@ -1,0 +1,32 @@
+cohort	step	n	note
+GSE85307	örnek (mRNA / miRNA)	316	miRNA'da 2 kadının teknik tekrarı
+GSE85307	kadın	157	
+GSE85307	seçilen (kadın başına 1)	157	
+GSE142974	örnek	24	
+GSE142974	kadın	24	
+GSE142974	seçilen (kadın başına 1)	24	
+GSE149440	örnek	735	
+GSE149440	kadın	149	
+GSE149440	dışlanan: < 20 hf örneği yok	26	
+GSE149440	seçilen (en erken < 20 hf)	123	
+GSE59491	örnek	326	
+GSE59491	kadın	165	
+GSE59491	dışlanan: zaman noktası 2 örnekleri (27–33 hf)	161	örnek
+GSE59491	seçilen (zaman noktası 1)	165	
+GSE108497	örnek	512	
+GSE108497	kadın	158	
+GSE108497	dışlanan: gebe olmayan kontrol (HC_NP)	23	
+GSE108497	dışlanan: < 24 hf örneği yok	3	
+GSE108497	seçilen (en erken < 24 hf)	132	
+GSE192902 Discovery	örnek	209	
+GSE192902 Discovery	kadın	73	
+GSE192902 Discovery	dışlanan: ≤20 hf örneği yok	5	
+GSE192902 Discovery	seçilen (en erken ≤20 hf)	68	35 ek erken örnek (sonraki dilim/tekrar) kullanılmadı
+GSE192902 Validation 1	örnek	106	
+GSE192902 Validation 1	kadın	39	
+GSE192902 Validation 1	dışlanan: ≤20 hf örneği yok	6	
+GSE192902 Validation 1	seçilen (en erken ≤20 hf)	33	24 ek erken örnek (sonraki dilim/tekrar) kullanılmadı
+GSE192902 Validation 2	örnek	89	
+GSE192902 Validation 2	kadın	87	
+GSE192902 Validation 2	dışlanan: ≤20 hf örneği yok	0	
+GSE192902 Validation 2	seçilen (en erken ≤20 hf)	87	2 ek erken örnek (sonraki dilim/tekrar) kullanılmadı

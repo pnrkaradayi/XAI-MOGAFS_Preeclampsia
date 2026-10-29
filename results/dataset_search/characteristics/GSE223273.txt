@@ -1,0 +1,17 @@
+######## GSE223273  (59 örnek)
+!Series_title = Extracellular Vesicle and Particle miRNAs in Maternal Plasma
+!Series_pubmed_id = 38338815
+!Series_pubmed_id = 39891736
+!Series_overall_design = 54 plasma samples
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223273/suppl/GSE223273_RAW.tar
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE223nnn/GSE223273/suppl/GSE223273_full_data_matrix.txt.gz
+!Series_platform_id = GPL26945
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA925502
+!Sample_source_name_ch1: {'Plasma': 59}
+!Sample_platform_id: {'GPL26945': 59}
+!Sample_molecule_ch1: {'total RNA': 59}
+!Sample_title örnek: Plasma 1 | Plasma 2 | Plasma 3 | Plasma 4 | Plasma 5 | Plasma 6
+  [gender] n_değer=1: {'Female': 59}
+  [life stage] n_değer=1: {'Prenatal': 59}
+  [days gestation at sample collection] n_değer=27: {'197': 7, '198': 5, '200': 4, '190': 4, '196': 4, '202': 3, '195': 3, '199': 3, '211': 2, '189': 2, '210': 2, '188': 2} … (+15 değer)
+  [molecule subtype] n_değer=1: {'miRNA': 59}

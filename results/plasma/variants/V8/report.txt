@@ -1,0 +1,23 @@
+Discovery: 103 örnek / 68 kadın; PE örnek 30 / kadın 23; kadın başına örnek ort. 1.51
+Validation-1: 57 örnek / 33 kadın; PE örnek 11 / kadın 6; kadın başına örnek ort. 1.73
+Varyant V8: tüm genler + bileşim, ≤18 özellik, tekrarlı-örnek eğitimi, kadın gruplu CV
+Süre: 327 sn
+
+A. DISCOVERY İÇ İÇE CV (kadın gruplu, 5 kat x 3 tekrar)
+  MOGAFS  kadın düzeyi AUC 0.778 (0.836, 0.729, 0.770) | örnek düzeyi 0.786 | eğitim (apparent) 0.981
+  LASSO   kadın düzeyi AUC 0.796 (0.778, 0.750, 0.860) | örnek düzeyi 0.820 | eğitim (apparent) 0.998
+  TTEST   kadın düzeyi AUC 0.770 (0.767, 0.761, 0.782) | örnek düzeyi 0.780 | eğitim (apparent) 0.918
+
+B. VAL-1 (Discovery'de kurulan modeller; aynı örneklerde rakipler)
+  MOGAFS  RN7SL230P;RPGR;TRAC;IGHG1;RBPMS2                             kadın 0.753 [0.53–0.93] | örnek 0.735 [0.57–0.88]
+  LASSO   RN7SL753P;RN7SL230P;USF2;RPGR;SFMBT1;IGHG1;MKLN1;HECTD1;HBM; kadın 0.840 [0.66–0.98] | örnek 0.806 [0.65–0.93]
+  TTEST   RN7SL230P;RN7SL736P;RN7SL128P;RN7SL674P;RN7SL753P;RN7SL767P; kadın 0.877 [0.74–0.98] | örnek 0.822 [0.69–0.94]
+  V0 paneli (RN7SL230P, HIP1R, KIF13B)                                 kadın 0.877 [0.72–0.98] | örnek 0.826 [0.69–0.93]
+  Moufarrej 18 gen (16/18 mevcut, log OR)                              kadın 0.648 [0.33–0.91] | örnek 0.605 [0.39–0.81]
+  (Val-1: 33 kadın (6 PE) / 57 örnek (11 PE örneği); Moufarrej yayımlanmış Val-1 AUC 0.71, ≤16 hf örnekleri)
+
+C. KİLİT (Discovery + Val-1, 160 örnek / 101 kadın)
+  MOGAFS  eğitim (apparent) AUC 0.977 | RN7SL230P (+1.55), RIOK3 (-1.01), HIP1R (+1.13), USP20 (+1.01), FHIP2A (-0.86), TRAC (-1.36)
+  LASSO   eğitim (apparent) AUC 0.991 | RN7SL230P (+0.82), LAT2 (-0.48), STAG2 (-0.61), HBM (-0.72), RN7SL753P (+0.40), RIOK3 (-0.62), RN7SL564P (+0.66), HIP1R (+1.50), CUL4B (-0.98), RN7SL493P (-0.06), POMT1 (+0.02), HEMGN (-0.37), TRAC (-0.63), TMOD1 (-0.33), CAMK2G (-0.63), RALB (-0.27), FHIP2A (-0.52), LRRC58 (-0.60)
+  TTEST   eğitim (apparent) AUC 0.890 | RN7SL230P (+0.80), RN7SL674P (+0.69), RN7SL736P (+0.63), RN7SL128P (-0.29), RN7SL564P (+0.55), RN7SL767P (-0.54), RN7SL630P (+0.05), RN7SL753P (+0.48), RN7SL752P (-0.23), RN7SL493P (+0.44), RN7SL381P (-0.24), RN7SL396P (+0.12), RN7SL5P (-0.50), RN7SL573P (-0.03), RNA5-8SP6 (+0.07), RN7SL665P (-0.09), RN7SL151P (-0.11), RNA5-8SP2 (+0.33)
+  kilit SHA-256: eda7317beacda60f… (5527 küme; Pareto 78)

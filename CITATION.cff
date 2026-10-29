@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article (reference to be added on publication)."
+title: "XAI-MOGAFS and the syndrome-specificity benchmark of early-pregnancy blood RNA signatures for preeclampsia"
+type: software
+authors:
+  - family-names: "Karadayı Ataş"
+    given-names: "Pınar"
+    affiliation: "Istanbul Arel University"
+    email: "pinaratas@arel.edu.tr"
+  - family-names: "Vanneschi"
+    given-names: "Leonardo"
+    affiliation: "NOVA Information Management School (NOVA IMS), Universidade Nova de Lisboa"
+date-released: "2026-10-29"
+keywords:
+  - preeclampsia
+  - cell-free RNA
+  - multi-objective feature selection
+  - NSGA-II
+  - SHAP
+  - explainable artificial intelligence

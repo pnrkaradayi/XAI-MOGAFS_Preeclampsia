@@ -1,0 +1,16 @@
+######## GSE259360  (50 örnek)
+!Series_title = Potential Epigenetic Biomarkers for Preeclampsia Preterm Birth and Preventative Medicine
+!Series_pubmed_id = 39606093
+!Series_overall_design = Buccal samples were collected from mother-infant pairs following delivery. Methylated DNA immunoprecipitation (MeDIP) was performed on the buccal cell DNA samples. The MeDIP was followed by DNA sequencing (MeDIP-Seq). Differential DNA methylation regions (DMRs) were identified between preeclampsia and control samples. The samples used in this study are a combination of newly acquired samples and samples from a previous related study (PMID: 35232984).
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE259nnn/GSE259360/suppl/GSE259360_pt_npe.vs.pt_pe.results.csv.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE259nnn/GSE259360/suppl/GSE259360_t_npe.vs.pt_pe.results.csv.gz
+!Series_platform_id = GPL16791
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1081361
+!Sample_source_name_ch1: {'buccal': 50}
+!Sample_platform_id: {'GPL16791': 50}
+!Sample_molecule_ch1: {'genomic DNA': 50}
+!Sample_title örnek: PE458M | PE459M | PE460M | PE461M | PE462M | PE463M
+  [sample number] n_değer=50: {'458': 1, '459': 1, '460': 1, '461': 1, '462': 1, '463': 1, '464': 1, '465': 1, '467': 1, '469': 1, '470': 1, '471': 1} … (+38 değer)
+  [birth timing] n_değer=2: {'preterm': 36, 'term': 14}
+  [preeclampsia status] n_değer=2: {'non-preeclampsia': 37, 'preeclampsia': 13}
+  [cell type] n_değer=1: {'buccal': 50}

@@ -1,0 +1,21 @@
+Geliştirme GSE149440 (17–23 hf): 118 kadın, 68 sPTB (sPTD 32, PPROM 36) / 50 kontrol; hafta medyan 19.7
+Dış test GSE59491 (TP1): 165 kadın, 51 sPTB / 114 term; ortak gen 17621
+Süre 334 sn
+
+A. GELİŞTİRME — iç içe CV (GSE149440)
+  XAI-MOGAFS  AUC 0.404 (0.405, 0.391, 0.416)
+  LASSO5      AUC 0.394 (0.367, 0.397, 0.417)
+  TTEST5      AUC 0.369 (0.333, 0.384, 0.390)
+  ridge (tüm genler, referans) AUC 0.448
+
+B. KİLİT (GSE149440 tamamı) SHA-256 d2ef61bc3aeabac9…
+  XAI-MOGAFS  OR52I1 (+0.78), PFKFB2 (+0.59), SEPTIN7P11 (+0.75), IL12A (-0.76), KRTAP20-3 (+0.66)
+  LASSO5      ERCC6L (-0.59), OR52I1 (+0.78), SLC36A1 (+0.46), SEPTIN7P11 (+0.78), PFKFB2 (+0.36)
+  TTEST5      OR52I1 (+0.65), ERCC6L (-0.51), PFKFB2 (+0.25), SLC36A1 (+0.38), WIPI1 (+0.43)
+
+C. DIŞ TEST — GSE59491 (bir kez)
+  XAI-MOGAFS  AUC 0.571 [%95 GA 0.477–0.661] | sPTD 0.504 | PPROM 0.598
+  LASSO5      AUC 0.568 [%95 GA 0.474–0.656] | sPTD 0.507 | PPROM 0.594
+  TTEST5      AUC 0.596 [%95 GA 0.503–0.682] | sPTD 0.513 | PPROM 0.631
+  DeLong XAI-MOGAFS vs LASSO5: 0.571 vs 0.568, fark +0.002, p = 0.948
+  DeLong XAI-MOGAFS vs TTEST5: 0.571 vs 0.596, fark -0.026, p = 0.587

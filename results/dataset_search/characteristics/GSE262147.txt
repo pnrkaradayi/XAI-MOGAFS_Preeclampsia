@@ -1,0 +1,15 @@
+######## GSE262147  (53 örnek)
+!Series_title = Dual specificity phosphate 1 (DUSP1) has a key non-invasive predictive marker in preeclampsia
+!Series_pubmed_id = 41019346
+!Series_overall_design = Here, we aim to identify new early predictive biomarkers based on a transcriptional signature of PE using RNAseq at the time of the event and the disappearance of expression of these markers at a distance from the event in the postpartum
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262147/suppl/GSE262147_tableannot.csv.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262147/suppl/GSE262147_tablecounts_raw.csv.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE262nnn/GSE262147/suppl/GSE262147_tablecounts_tpm.csv.gz
+!Series_platform_id = GPL24676
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1090471
+!Sample_source_name_ch1: {'PE = Preeclampsia event during pregnancy; V1 = Blood sample at detection of preeclampsia': 11, 'PE = Preeclampsia event during pregnancy; V2 = Blood sample between 30-60 days after birth': 10, 'T = Control patient with normal pregnancy; V1 = Blood sample at detection of preeclampsia': 9, 'PE_BP = Placental biopsy of a preeclampsia patient during delivery': 9, 'T = Control patient with normal pregnancy; V2 = Blood sample between 30-60 days after birth': 8, 'T_BP = Placental biopsy of a control patient during delivery': 6}
+!Sample_platform_id: {'GPL24676': 53}
+!Sample_molecule_ch1: {'total RNA': 53}
+!Sample_title örnek: PE_02_V1 | PE_04_V1 | PE_06bis_V1 | PE_07_V1 | PE_08_V1 | PE_09_V1
+  [tissue] n_değer=2: {'Whole blood + serum': 38, 'Placental biopsy taken from the umbilical cord axis': 15}
+  [experimental group] n_değer=6: {'PE = Preeclampsia event during pregnancy; V1 = Blood sample at detection of preeclampsia': 11, 'PE = Preeclampsia event during pregnancy; V2 = Blood sample between 30-60 days after birth': 10, 'T = Control patient with normal pregnancy; V1 = Blood sample at detection of preeclampsia': 9, 'PE_BP = Placental biopsy of a preeclampsia patient during delivery': 9, 'T = Control patient with normal pregnancy; V2 = Blood sample between 30-60 days after birth': 8, 'T_BP = Placental biopsy of a control patient during delivery': 6}

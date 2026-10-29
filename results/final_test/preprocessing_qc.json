@@ -1,0 +1,15 @@
+{
+  "val2": {
+    "genes_rows": 7160,
+    "samples": 89
+  },
+  "delvecchio": {
+    "strand_column": 1,
+    "assigned_by_column": {
+      "1": "37596651"
+    },
+    "genes_rows": 57736,
+    "mapped_entrez": 33806,
+    "samples": 25
+  }
+}

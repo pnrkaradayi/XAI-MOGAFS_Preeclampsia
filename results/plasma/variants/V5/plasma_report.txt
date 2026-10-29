@@ -1,0 +1,23 @@
+Discovery: 68 kadın (23 PE), Validation-1: 33 (6 PE); 7032 özellik (7 bileşim)
+Gen evreni: all; varyant: bileşim=True, kararlılık=True, hafta eşlik=False, tol=0.0; Ayarlar: {'K': 200, 'max_k': 5, 'pop_size': 100, 'n_gen': 60, 'tol': 0.03, 'outer_folds': 5, 'outer_repeats': 3, 'seed': 2026, 'min_expr': 1.0, 'min_frac': 0.5}
+Hafta dilimi 13–20 oranı: Discovery PE 0.43 / kontrol 0.20; Val-1 PE 0.50 / kontrol 0.30
+Süre: 395 sn
+
+A. DISCOVERY İÇ İÇE CV (dış 5 kat x 3 tekrar) — PE vs kontrol
+  MOGAFS   havuzlanmış dış AUC 0.740 (tekrarlar 0.724, 0.757, 0.739; 1. tekrar %95 GA 0.589–0.844); ort. 4.9 özellik
+           en sık seçilenler: IGHG1×7, HIP1R×7, RN7SL230P×6, RN7SL736P×5, MAGI2-AS3×3, RN7SL128P×2, STAG2×2, SFMBT1×2
+  LASSO5   havuzlanmış dış AUC 0.710 (tekrarlar 0.705, 0.699, 0.728; 1. tekrar %95 GA 0.576–0.832); ort. 5.0 özellik
+           en sık seçilenler: RN7SL230P×12, STAG2×9, DYM×5, SMARCAD1×3, AASDHPPT×3, OSBPL1A×3, MKLN1×3, RN7SL753P×3
+  TTEST5   havuzlanmış dış AUC 0.827 (tekrarlar 0.827, 0.834, 0.821; 1. tekrar %95 GA 0.712–0.926); ort. 5.0 özellik
+           en sık seçilenler: RN7SL230P×15, RN7SL736P×12, RN7SL128P×12, RN7SL674P×10, RN7SL767P×8, RN7SL5P×3, RN7SL752P×3, RN7SL753P×3
+
+B. İÇ DOĞRULAMA — Discovery'de kurulan model, Validation-1'de
+  MOGAFS   RN7SL630P;IGHG1;NEK6;GGA1;ORAI1               Val-1 AUC 0.759 [%95 GA 0.568–0.920] (n=6/27)
+  LASSO5   RN7SL230P;STAG2;RNA5-8SP6;SMARCAD1;RN7SL736P  Val-1 AUC 0.914 [%95 GA 0.796–0.994] (n=6/27)
+  TTEST5   RN7SL230P;RN7SL736P;RN7SL128P;RN7SL674P;RN7SL767P Val-1 AUC 0.895 [%95 GA 0.765–0.981] (n=6/27)
+
+C. KİLİTLİ MODELLER (Discovery + Validation-1, 101 kadın; filtre sonrası 7032 özellik)
+  MOGAFS   RN7SL230P (+1.86), CMTM5 (+1.15), MYLIP (-1.29), HIP1R (+1.41), NIBAN3 (+0.78)
+  LASSO5   RN7SL230P (+0.78), RN7SL493P (+0.41), STAG2 (-0.70), OSBPL8 (-0.66), RN7SL564P (+0.40)
+  TTEST5   RN7SL230P (+0.81), RN7SL674P (+0.26), RN7SL736P (+0.49), RN7SL128P (+0.03), RN7SL573P (+0.42)
+  kilit dosyası SHA-256: c1812ef68ef05df2…  (4382 küme değerlendirildi; Pareto 190 çözüm)

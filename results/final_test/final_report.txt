@@ -1,0 +1,149 @@
+Mühür GSE192902_counts_Validation2_postQC.csv.gz: SHA-256 AYNI (69d289cc20548533…)
+Mühür GSE154377_RAW.tar: SHA-256 AYNI (b64daddb01e2d0c2…)
+Tüm kilit dosyalarının SHA-256'sı kayıtla aynı.
+Val-2 ön-işleme (etiketsiz): {'genes_rows': 7160, 'samples': 89}; özellik 7032
+Del Vecchio ön-işleme (etiketsiz): {'strand_column': 1, 'assigned_by_column': {1: np.int64(37596651)}, 'genes_rows': 57736, 'mapped_entrez': 33806, 'samples': 25}; özellik 33812
+
+=== ETİKETLER BİRLEŞTİRİLDİ ===
+
+BİRİNCİL SONUÇ
+  V7 MOGAFS, Val-2 kadın düzeyi: AUC 0.418 [%95 GA 0.292–0.548] (n=26/61; özellik 4/4)
+  DeLong V7 vs Moufarrej2022_cfRNA_LR18_logOR: 0.418 vs 0.730, fark -0.311, p = 0.005
+  DeLong V7 vs Moufarrej2022_cfRNA_LR18: 0.418 vs 0.734, fark -0.316, p = 0.004
+
+TÜM SONUÇLAR (kadın düzeyi; örnek düzeyi V7/V8 için ayrıca)
+  DelVecchio_GDM     kadın LIT_Weiner2026_EOP_NAMPT                   AUC 0.786 [0.50–1.00] n=7/8 özellik 1/1 | ≤12: 0.79
+  DelVecchio_GDM     kadın RN7SL_fraction                             AUC 0.786 [0.54–1.00] n=7/8 özellik 1/1 | ≤12: 0.79
+  DelVecchio_GDM     kadın LIT_Tarca2021_LDA4_H19_FN1_TUBB6_FPR3      AUC 0.732 [0.45–0.95] n=7/8 özellik 4/4 | ≤12: 0.73
+  DelVecchio_GDM     kadın LIT_Elovitz2025_PE_vs_all_top2             AUC 0.679 [0.36–0.93] n=7/8 özellik 2/2 | ≤12: 0.68
+  DelVecchio_GDM     kadın LIT_Lekva2021_PBMC_pilotarray_top20        AUC 0.679 [0.37–0.95] n=7/8 özellik 14/20 | ≤12: 0.68
+  DelVecchio_GDM     kadın V8_TTEST                                   AUC 0.643 [0.32–0.91] n=7/8 özellik 10/18 | ≤12: 0.64
+  DelVecchio_GDM     kadın LIT_Weiner2022_EOP_NAMPT_APOA1             AUC 0.589 [0.29–0.88] n=7/8 özellik 2/2 | ≤12: 0.59
+  DelVecchio_GDM     kadın V7_LASSO                                   AUC 0.536 [0.23–0.84] n=7/8 özellik 5/5 | ≤12: 0.54
+  DelVecchio_GDM     kadın LIT_Moufarrej2022_cfRNA_LR18               AUC 0.518 [0.21–0.88] n=7/8 özellik 16/18 | ≤12: 0.52
+  DelVecchio_GDM     kadın V0_TTEST5                                  AUC 0.500 [0.50–0.50] n=7/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_GDM     kadın V1_TTEST5                                  AUC 0.500 [0.50–0.50] n=7/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_GDM     kadın V2_TTEST5                                  AUC 0.500 [0.50–0.50] n=7/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_GDM     kadın V3_TTEST5                                  AUC 0.500 [0.50–0.50] n=7/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_GDM     kadın V5_TTEST5                                  AUC 0.500 [0.50–0.50] n=7/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_GDM     kadın V7_TTEST                                   AUC 0.438 [0.31–0.50] n=7/8 özellik 2/5 | ≤12: 0.44
+  DelVecchio_GDM     kadın V0pc_MOGAFS                                AUC 0.429 [0.12–0.73] n=7/8 özellik 4/4 | ≤12: 0.43
+  DelVecchio_GDM     kadın V7_MOGAFS                                  AUC 0.393 [0.12–0.70] n=7/8 özellik 3/4 | ≤12: 0.39
+  DelVecchio_GDM     kadın V0_LASSO5                                  AUC 0.393 [0.11–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V0pc_LASSO5                                AUC 0.393 [0.12–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V0pc_TTEST5                                AUC 0.393 [0.11–0.70] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V1_LASSO5                                  AUC 0.393 [0.11–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V2_LASSO5                                  AUC 0.393 [0.11–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V4_LASSO5                                  AUC 0.393 [0.12–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V5_LASSO5                                  AUC 0.393 [0.11–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V6_LASSO5                                  AUC 0.393 [0.12–0.73] n=7/8 özellik 5/5 | ≤12: 0.39
+  DelVecchio_GDM     kadın V3_LASSO5                                  AUC 0.375 [0.11–0.70] n=7/8 özellik 5/5 | ≤12: 0.38
+  DelVecchio_GDM     kadın V6_MOGAFS                                  AUC 0.375 [0.11–0.71] n=7/8 özellik 5/5 | ≤12: 0.38
+  DelVecchio_GDM     kadın LIT_Moufarrej2022_cfRNA_LR18_logOR         AUC 0.375 [0.11–0.70] n=7/8 özellik 16/18 | ≤12: 0.38
+  DelVecchio_GDM     kadın V3_MOGAFS                                  AUC 0.339 [0.05–0.64] n=7/8 özellik 4/5 | ≤12: 0.34
+  DelVecchio_GDM     kadın V2_MOGAFS                                  AUC 0.321 [0.04–0.62] n=7/8 özellik 3/5 | ≤12: 0.32
+  DelVecchio_GDM     kadın V4_MOGAFS                                  AUC 0.321 [0.05–0.62] n=7/8 özellik 5/5 | ≤12: 0.32
+  DelVecchio_GDM     kadın V4_TTEST5                                  AUC 0.321 [0.07–0.61] n=7/8 özellik 5/5 | ≤12: 0.32
+  DelVecchio_GDM     kadın V6_TTEST5                                  AUC 0.321 [0.07–0.61] n=7/8 özellik 5/5 | ≤12: 0.32
+  DelVecchio_GDM     kadın V8_MOGAFS                                  AUC 0.304 [0.07–0.61] n=7/8 özellik 5/6 | ≤12: 0.30
+  DelVecchio_GDM     kadın V8_LASSO                                   AUC 0.286 [0.05–0.57] n=7/8 özellik 17/18 | ≤12: 0.29
+  DelVecchio_GDM     kadın V5_MOGAFS                                  AUC 0.179 [0.00–0.45] n=7/8 özellik 5/5 | ≤12: 0.18
+  DelVecchio_GDM     kadın V0_MOGAFS                                  AUC 0.161 [0.00–0.39] n=7/8 özellik 3/4 | ≤12: 0.16
+  DelVecchio_GDM     kadın V1_MOGAFS                                  AUC 0.161 [0.00–0.39] n=7/8 özellik 3/4 | ≤12: 0.16
+  DelVecchio_GDM     kadın LIT_Myhrer2024_RPPH1_leukocytes            kapsam yetersiz (0/1)
+  DelVecchio_GDM     örnek V8_TTEST                                   AUC 0.643 [0.32–0.91] n=7/8 özellik 10/18 | ≤12: 0.64
+  DelVecchio_GDM     örnek V7_LASSO                                   AUC 0.536 [0.23–0.84] n=7/8 özellik 5/5 | ≤12: 0.54
+  DelVecchio_GDM     örnek V7_TTEST                                   AUC 0.438 [0.31–0.50] n=7/8 özellik 2/5 | ≤12: 0.44
+  DelVecchio_GDM     örnek V7_MOGAFS                                  AUC 0.393 [0.12–0.70] n=7/8 özellik 3/4 | ≤12: 0.39
+  DelVecchio_GDM     örnek V8_MOGAFS                                  AUC 0.304 [0.07–0.61] n=7/8 özellik 5/6 | ≤12: 0.30
+  DelVecchio_GDM     örnek V8_LASSO                                   AUC 0.286 [0.05–0.57] n=7/8 özellik 17/18 | ≤12: 0.29
+  DelVecchio_PE_GH   kadın LIT_Weiner2026_EOP_NAMPT                   AUC 0.891 [0.69–1.00] n=8/8 özellik 1/1 | ≤12: 0.89
+  DelVecchio_PE_GH   kadın LIT_Lekva2021_PBMC_pilotarray_top20        AUC 0.844 [0.59–1.00] n=8/8 özellik 14/20 | ≤12: 0.84
+  DelVecchio_PE_GH   kadın LIT_Weiner2022_EOP_NAMPT_APOA1             AUC 0.797 [0.50–1.00] n=8/8 özellik 2/2 | ≤12: 0.80
+  DelVecchio_PE_GH   kadın V8_TTEST                                   AUC 0.781 [0.50–1.00] n=8/8 özellik 10/18 | ≤12: 0.78
+  DelVecchio_PE_GH   kadın RN7SL_fraction                             AUC 0.781 [0.52–0.97] n=8/8 özellik 1/1 | ≤12: 0.78
+  DelVecchio_PE_GH   kadın LIT_Tarca2021_LDA4_H19_FN1_TUBB6_FPR3      AUC 0.688 [0.38–0.95] n=8/8 özellik 4/4 | ≤12: 0.69
+  DelVecchio_PE_GH   kadın V7_TTEST                                   AUC 0.508 [0.37–0.69] n=8/8 özellik 2/5 | ≤12: 0.51
+  DelVecchio_PE_GH   kadın LIT_Elovitz2025_PE_vs_all_top2             AUC 0.508 [0.22–0.80] n=8/8 özellik 2/2 | ≤12: 0.51
+  DelVecchio_PE_GH   kadın V0_TTEST5                                  AUC 0.500 [0.50–0.50] n=8/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_PE_GH   kadın V1_TTEST5                                  AUC 0.500 [0.50–0.50] n=8/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_PE_GH   kadın V2_TTEST5                                  AUC 0.500 [0.50–0.50] n=8/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_PE_GH   kadın V3_TTEST5                                  AUC 0.500 [0.50–0.50] n=8/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_PE_GH   kadın V5_TTEST5                                  AUC 0.500 [0.50–0.50] n=8/8 özellik 1/5 | ≤12: 0.50
+  DelVecchio_PE_GH   kadın V7_LASSO                                   AUC 0.469 [0.19–0.75] n=8/8 özellik 5/5 | ≤12: 0.47
+  DelVecchio_PE_GH   kadın LIT_Moufarrej2022_cfRNA_LR18               AUC 0.453 [0.17–0.75] n=8/8 özellik 16/18 | ≤12: 0.45
+  DelVecchio_PE_GH   kadın V7_MOGAFS                                  AUC 0.406 [0.12–0.69] n=8/8 özellik 3/4 | ≤12: 0.41
+  DelVecchio_PE_GH   kadın LIT_Moufarrej2022_cfRNA_LR18_logOR         AUC 0.359 [0.11–0.66] n=8/8 özellik 16/18 | ≤12: 0.36
+  DelVecchio_PE_GH   kadın V8_MOGAFS                                  AUC 0.344 [0.09–0.64] n=8/8 özellik 5/6 | ≤12: 0.34
+  DelVecchio_PE_GH   kadın V0_LASSO5                                  AUC 0.344 [0.06–0.63] n=8/8 özellik 5/5 | ≤12: 0.34
+  DelVecchio_PE_GH   kadın V1_LASSO5                                  AUC 0.344 [0.06–0.63] n=8/8 özellik 5/5 | ≤12: 0.34
+  DelVecchio_PE_GH   kadın V2_LASSO5                                  AUC 0.344 [0.06–0.63] n=8/8 özellik 5/5 | ≤12: 0.34
+  DelVecchio_PE_GH   kadın V5_LASSO5                                  AUC 0.344 [0.06–0.63] n=8/8 özellik 5/5 | ≤12: 0.34
+  DelVecchio_PE_GH   kadın V3_LASSO5                                  AUC 0.328 [0.06–0.62] n=8/8 özellik 5/5 | ≤12: 0.33
+  DelVecchio_PE_GH   kadın V8_LASSO                                   AUC 0.297 [0.05–0.56] n=8/8 özellik 17/18 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V0pc_MOGAFS                                AUC 0.297 [0.06–0.59] n=8/8 özellik 4/4 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V0pc_LASSO5                                AUC 0.297 [0.06–0.56] n=8/8 özellik 5/5 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V4_MOGAFS                                  AUC 0.297 [0.00–0.62] n=8/8 özellik 5/5 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V4_LASSO5                                  AUC 0.297 [0.06–0.56] n=8/8 özellik 5/5 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V6_LASSO5                                  AUC 0.297 [0.06–0.56] n=8/8 özellik 5/5 | ≤12: 0.30
+  DelVecchio_PE_GH   kadın V6_MOGAFS                                  AUC 0.281 [0.03–0.59] n=8/8 özellik 5/5 | ≤12: 0.28
+  DelVecchio_PE_GH   kadın V0_MOGAFS                                  AUC 0.266 [0.00–0.56] n=8/8 özellik 3/4 | ≤12: 0.27
+  DelVecchio_PE_GH   kadın V1_MOGAFS                                  AUC 0.266 [0.00–0.56] n=8/8 özellik 3/4 | ≤12: 0.27
+  DelVecchio_PE_GH   kadın V3_MOGAFS                                  AUC 0.250 [0.00–0.62] n=8/8 özellik 4/5 | ≤12: 0.25
+  DelVecchio_PE_GH   kadın V4_TTEST5                                  AUC 0.250 [0.03–0.52] n=8/8 özellik 5/5 | ≤12: 0.25
+  DelVecchio_PE_GH   kadın V6_TTEST5                                  AUC 0.250 [0.03–0.52] n=8/8 özellik 5/5 | ≤12: 0.25
+  DelVecchio_PE_GH   kadın V2_MOGAFS                                  AUC 0.234 [0.00–0.53] n=8/8 özellik 3/5 | ≤12: 0.23
+  DelVecchio_PE_GH   kadın V0pc_TTEST5                                AUC 0.188 [0.00–0.42] n=8/8 özellik 5/5 | ≤12: 0.19
+  DelVecchio_PE_GH   kadın V5_MOGAFS                                  AUC 0.141 [0.00–0.38] n=8/8 özellik 5/5 | ≤12: 0.14
+  DelVecchio_PE_GH   kadın LIT_Myhrer2024_RPPH1_leukocytes            kapsam yetersiz (0/1)
+  DelVecchio_PE_GH   örnek V8_TTEST                                   AUC 0.781 [0.50–1.00] n=8/8 özellik 10/18 | ≤12: 0.78
+  DelVecchio_PE_GH   örnek V7_TTEST                                   AUC 0.508 [0.37–0.69] n=8/8 özellik 2/5 | ≤12: 0.51
+  DelVecchio_PE_GH   örnek V7_LASSO                                   AUC 0.469 [0.19–0.75] n=8/8 özellik 5/5 | ≤12: 0.47
+  DelVecchio_PE_GH   örnek V7_MOGAFS                                  AUC 0.406 [0.12–0.69] n=8/8 özellik 3/4 | ≤12: 0.41
+  DelVecchio_PE_GH   örnek V8_MOGAFS                                  AUC 0.344 [0.09–0.64] n=8/8 özellik 5/6 | ≤12: 0.34
+  DelVecchio_PE_GH   örnek V8_LASSO                                   AUC 0.297 [0.05–0.56] n=8/8 özellik 17/18 | ≤12: 0.30
+  Val2               kadın LIT_Moufarrej2022_cfRNA_LR18               AUC 0.734 [0.61–0.85] n=26/61 özellik 16/18 | ≤12: 0.64 | 13–20: 0.90
+  Val2               kadın LIT_Moufarrej2022_cfRNA_LR18_logOR         AUC 0.730 [0.60–0.84] n=26/61 özellik 16/18 | ≤12: 0.64 | 13–20: 0.89
+  Val2               kadın V4_LASSO5                                  AUC 0.628 [0.51–0.74] n=26/61 özellik 5/5 | ≤12: 0.61 | 13–20: 0.65
+  Val2               kadın V6_LASSO5                                  AUC 0.628 [0.51–0.74] n=26/61 özellik 5/5 | ≤12: 0.61 | 13–20: 0.65
+  Val2               kadın V0pc_LASSO5                                AUC 0.624 [0.51–0.74] n=26/61 özellik 5/5 | ≤12: 0.61 | 13–20: 0.66
+  Val2               kadın V0pc_MOGAFS                                AUC 0.601 [0.47–0.73] n=26/61 özellik 4/4 | ≤12: 0.57 | 13–20: 0.67
+  Val2               kadın V0pc_TTEST5                                AUC 0.576 [0.46–0.70] n=26/61 özellik 5/5 | ≤12: 0.54 | 13–20: 0.62
+  Val2               kadın V6_MOGAFS                                  AUC 0.535 [0.41–0.67] n=26/61 özellik 5/5 | ≤12: 0.50 | 13–20: 0.58
+  Val2               kadın V8_LASSO                                   AUC 0.532 [0.41–0.66] n=26/61 özellik 18/18 | ≤12: 0.47 | 13–20: 0.65
+  Val2               kadın V3_TTEST5                                  AUC 0.525 [0.40–0.66] n=26/61 özellik 5/5 | ≤12: 0.49 | 13–20: 0.56
+  Val2               kadın V4_MOGAFS                                  AUC 0.525 [0.39–0.66] n=26/61 özellik 5/5 | ≤12: 0.53 | 13–20: 0.50
+  Val2               kadın V0_TTEST5                                  AUC 0.523 [0.40–0.65] n=26/61 özellik 5/5 | ≤12: 0.49 | 13–20: 0.56
+  Val2               kadın V1_TTEST5                                  AUC 0.523 [0.40–0.65] n=26/61 özellik 5/5 | ≤12: 0.49 | 13–20: 0.56
+  Val2               kadın V2_TTEST5                                  AUC 0.523 [0.40–0.65] n=26/61 özellik 5/5 | ≤12: 0.49 | 13–20: 0.56
+  Val2               kadın V5_TTEST5                                  AUC 0.523 [0.40–0.65] n=26/61 özellik 5/5 | ≤12: 0.49 | 13–20: 0.56
+  Val2               kadın V4_TTEST5                                  AUC 0.519 [0.40–0.64] n=26/61 özellik 5/5 | ≤12: 0.52 | 13–20: 0.51
+  Val2               kadın V6_TTEST5                                  AUC 0.519 [0.40–0.64] n=26/61 özellik 5/5 | ≤12: 0.52 | 13–20: 0.51
+  Val2               kadın V7_LASSO                                   AUC 0.514 [0.39–0.64] n=26/61 özellik 5/5 | ≤12: 0.48 | 13–20: 0.60
+  Val2               kadın V3_LASSO5                                  AUC 0.503 [0.38–0.63] n=26/61 özellik 5/5 | ≤12: 0.46 | 13–20: 0.62
+  Val2               kadın V0_LASSO5                                  AUC 0.501 [0.38–0.62] n=26/61 özellik 5/5 | ≤12: 0.46 | 13–20: 0.62
+  Val2               kadın V1_LASSO5                                  AUC 0.501 [0.38–0.62] n=26/61 özellik 5/5 | ≤12: 0.46 | 13–20: 0.62
+  Val2               kadın V2_LASSO5                                  AUC 0.501 [0.38–0.62] n=26/61 özellik 5/5 | ≤12: 0.46 | 13–20: 0.62
+  Val2               kadın V5_LASSO5                                  AUC 0.501 [0.38–0.62] n=26/61 özellik 5/5 | ≤12: 0.46 | 13–20: 0.62
+  Val2               kadın V5_MOGAFS                                  AUC 0.497 [0.37–0.62] n=26/61 özellik 5/5 | ≤12: 0.43 | 13–20: 0.62
+  Val2               kadın V3_MOGAFS                                  AUC 0.497 [0.37–0.62] n=26/61 özellik 5/5 | ≤12: 0.48 | 13–20: 0.54
+  Val2               kadın LIT_Myhrer2024_RPPH1_leukocytes            AUC 0.497 [0.38–0.62] n=26/61 özellik 1/1 | ≤12: 0.53 | 13–20: 0.47
+  Val2               kadın V7_TTEST                                   AUC 0.491 [0.36–0.62] n=26/61 özellik 5/5 | ≤12: 0.45 | 13–20: 0.55
+  Val2               kadın V8_TTEST                                   AUC 0.480 [0.35–0.60] n=26/61 özellik 18/18 | ≤12: 0.42 | 13–20: 0.56
+  Val2               kadın V2_MOGAFS                                  AUC 0.477 [0.35–0.60] n=26/61 özellik 5/5 | ≤12: 0.50 | 13–20: 0.43
+  Val2               kadın V8_MOGAFS                                  AUC 0.456 [0.33–0.59] n=26/61 özellik 6/6 | ≤12: 0.44 | 13–20: 0.46
+  Val2               kadın V0_MOGAFS                                  AUC 0.436 [0.31–0.57] n=26/61 özellik 4/4 | ≤12: 0.44 | 13–20: 0.40
+  Val2               kadın V1_MOGAFS                                  AUC 0.436 [0.31–0.57] n=26/61 özellik 4/4 | ≤12: 0.44 | 13–20: 0.40
+  Val2               kadın LIT_Tarca2021_LDA4_H19_FN1_TUBB6_FPR3      AUC 0.430 [0.30–0.56] n=26/61 özellik 2/4 | ≤12: 0.46 | 13–20: 0.37
+  Val2               kadın RN7SL_fraction                             AUC 0.429 [0.31–0.55] n=26/61 özellik 1/1 | ≤12: 0.47 | 13–20: 0.38
+  Val2               kadın V7_MOGAFS                                  AUC 0.418 [0.29–0.55] n=26/61 özellik 4/4 | ≤12: 0.47 | 13–20: 0.33
+  Val2               kadın LIT_Weiner2022_EOP_NAMPT_APOA1             AUC 0.407 [0.27–0.55] n=26/61 özellik 1/2 | ≤12: 0.50 | 13–20: 0.23
+  Val2               kadın LIT_Weiner2026_EOP_NAMPT                   AUC 0.407 [0.27–0.55] n=26/61 özellik 1/1 | ≤12: 0.50 | 13–20: 0.23
+  Val2               kadın LIT_Elovitz2025_PE_vs_all_top2             AUC 0.346 [0.22–0.47] n=26/61 özellik 1/2 | ≤12: 0.41 | 13–20: 0.19
+  Val2               kadın LIT_Lekva2021_PBMC_pilotarray_top20        kapsam yetersiz (9/20)
+  Val2               örnek V8_LASSO                                   AUC 0.511 [0.39–0.63] n=28/61 özellik 18/18 | ≤12: 0.47 | 13–20: 0.58
+  Val2               örnek V7_LASSO                                   AUC 0.503 [0.39–0.63] n=28/61 özellik 5/5 | ≤12: 0.48 | 13–20: 0.54
+  Val2               örnek V7_TTEST                                   AUC 0.475 [0.35–0.60] n=28/61 özellik 5/5 | ≤12: 0.45 | 13–20: 0.50
+  Val2               örnek V8_TTEST                                   AUC 0.468 [0.34–0.60] n=28/61 özellik 18/18 | ≤12: 0.42 | 13–20: 0.51
+  Val2               örnek V8_MOGAFS                                  AUC 0.446 [0.32–0.57] n=28/61 özellik 6/6 | ≤12: 0.44 | 13–20: 0.43
+  Val2               örnek V7_MOGAFS                                  AUC 0.430 [0.32–0.56] n=28/61 özellik 4/4 | ≤12: 0.47 | 13–20: 0.35

@@ -1,0 +1,21 @@
+######## GSE216275  (386 örnek)
+!Series_title = Characterization of human plasma pregnancy-associated miRNAs at first trimester and their association with pregnancy complications [cohort 1]
+!Series_pubmed_id = 36440215
+!Series_pubmed_id = 40057749
+!Series_pubmed_id = 40122564
+!Series_overall_design = Complete microtransciptome from 456 plasma samples colletected between the 4th and the 16th weeks of pregnancy in women (444 biological replicates, 12 technical replicates) was assess by next-generation sequencing. Women were from European descent and plasma samples were collected 1 hour post a 50g glucose challenge test. Out of the 444 pregnant women, 377 (corresponding to 386 samples combining biological and technical replicates) consented to data sharing.
+!Series_overall_design = The 'Pregnancy Status 1' sample characteristics field contains the pregnancy status of the women. If a second pregnancy status was also present, it is recorded in the 'Pregnancy Status 2'.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216275/suppl/GSE216275_Gen3G_Plasma_miRNA_v1_geo_rawcounts.txt.gz
+!Series_platform_id = GPL16791
+!Series_platform_id = GPL20301
+!Series_relation = SubSeries of: GSE216998
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA892915
+!Sample_source_name_ch1: {'plasma': 386}
+!Sample_platform_id: {'GPL20301': 339, 'GPL16791': 47}
+!Sample_molecule_ch1: {'total RNA': 386}
+!Sample_title örnek: Projet_Gen3G-Plasma-V1-PubM2003 | Projet_Gen3G-Plasma-V1-PubM2005 | Projet_Gen3G-Plasma-V1-PubM2006 | Projet_Gen3G-Plasma-V1-PubM2008 | Pilote_Gen3G-Plasma-T1-PubM2012 | Projet_Gen3G-Plasma-V1-PubM2012
+  [tissue] n_değer=1: {'plasma': 386}
+  [Sex] n_değer=1: {'female': 386}
+  [pregnancy status_1] n_değer=3: {'Normal': 296, 'Gestational diabetes mellitus': 50, 'Other pregnancy complications': 40}
+  [replicate] n_değer=1: {'technical replicate': 18}
+  [pregnancy status_2] n_değer=1: {'Other pregnancy complications': 7}

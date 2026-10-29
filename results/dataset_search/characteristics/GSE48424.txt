@@ -1,0 +1,18 @@
+######## GSE48424  (36 örnek)
+!Series_title = Severe preeclampsia: new blood circulating biomarkers
+!Series_pubmed_id = 24349325
+!Series_overall_design = Thirty-eight women were included in the study: 19 patients with PE, including 6 women with non-severe PE and 13 with severe PE, and 19 women with normal pregnancy (NP) selected according to age, weight, smoking status, race, gestational age at the inclusion, and blood pH (Table 1 of manuscript). Women with NP had no history of medical illness or medication, and received routing prenatal care. The diagnostic of PE was based on a blood pressure of ≥ 140/90 mmHg taken twice, uricemia above normal laboratory range (120-420 µmol/L), and proteinuria higher than 300 mg in a 24 hour-collection, occurring after 20 gestational weeks in previously normotensive women (Table 2). The criteria used to define severe PE included one of the following conditions: a blood pressure higher than 160/110 mmHg, a proteinuria higher than 1500 mg/24h), a multisystem disorder, maternal cerebral symptoms (seizures, stroke) or intrauterine growth restriction below the 3° percentile. Women with multiple gestations, fetal congenital malformations/chromosomal abnormalities, recent infection, antiphospholipid antibodies, trauma, drug or alcohol abuse during pregnancy, preexisting hypertension, thrombophilia with PE history, or women receiving anticoagulant or antiaggregation therapy were excluded from the study.
+!Series_overall_design = Two microarrays (one non-severe PE and one normal) were discarded from the analysis for technical reasons. Thus, only 36 microarrays are included here.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48424/suppl/GSE48424_RAW.tar
+!Series_platform_id = GPL6480
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA212688
+!Sample_source_name_ch1: {'healthy, B': 18, 'preeclampsia, severe, A': 13, 'preeclampsia, non-severe, C': 5}
+!Sample_platform_id: {'GPL6480': 36}
+!Sample_molecule_ch1: {'total RNA': 36}
+!Sample_title örnek: Preeclampsia-S_A, rep1 | Healthy-NA_B, rep1 | Healthy-NA_B, rep2 | Preeclampsia-S_A, rep2 | Healthy-NA_B, rep3 | Preeclampsia-S_A, rep3
+  [tissue] n_değer=1: {'blood': 36}
+  [disease status] n_değer=2: {'preeclampsia': 18, 'healthy': 18}
+  [matching] n_değer=3: {'B': 18, 'A': 13, 'C': 5}
+  [age] n_değer=16: {'27': 5, '31': 4, '29': 4, '32': 3, '28': 3, '21': 3, '23': 2, '34': 2, '33': 2, '26': 2, '25': 1, '30': 1} … (+4 değer)
+  [severity] n_değer=3: {'NA': 18, 'S': 13, 'NS': 5}
+  [gestational age (weeks)] n_değer=14: {'34': 7, '31': 5, '36': 4, '37': 4, '33': 4, '38': 4, '28': 1, '27': 1, '29': 1, '16': 1, '18': 1, '40': 1} … (+2 değer)

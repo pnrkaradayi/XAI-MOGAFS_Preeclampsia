@@ -1,0 +1,19 @@
+######## GSE216997  (328 örnek)
+!Series_title = Characterization of human plasma pregnancy-associated miRNAs at first trimester and their association with pregnancy complications [cohort 2]
+!Series_pubmed_id = 36440215
+!Series_pubmed_id = 40057749
+!Series_pubmed_id = 40122564
+!Series_overall_design = Complete microtransciptome from 328 plasma samples colletected between the 6th and the 15th weeks of pregnancy in women (316 biological replicates, 12 technical replicates) was assess by next-generation sequencing as a replication cohort for the Gen3G cohort. Women were from European descent.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216997/suppl/GSE216997_3D_Plasma_miRNA_v1_geo_rawcounts.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216997/suppl/GSE216997_3D_Plasma_v1_geo_rawcounts_part2.csv.gz
+!Series_platform_id = GPL24676
+!Series_relation = SubSeries of: GSE216998
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA896548
+!Sample_source_name_ch1: {'Plasma': 328}
+!Sample_platform_id: {'GPL24676': 328}
+!Sample_molecule_ch1: {'total RNA': 328}
+!Sample_title örnek: 3D-Plasma-V1-117_2 | 3D-Plasma-V1-118_2 | 3D-Plasma-V1-119_2 | 3D-Plasma-V1-120_2 | 3D-Plasma-V1-121_2 | 3D-Plasma-V1-122_2
+  [tissue] n_değer=1: {'Plasma': 328}
+  [Sex] n_değer=1: {'female': 328}
+  [pregnancy status_1] n_değer=3: {'Normal': 215, 'Gestational diabetes mellitus': 76, 'Other pregnancy complications': 37}
+  [pregnancy status_2] n_değer=1: {'Other pregnancy complications': 11}

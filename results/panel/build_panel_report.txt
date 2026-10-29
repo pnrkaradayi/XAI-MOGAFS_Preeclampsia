@@ -1,0 +1,28 @@
+Eğitim: 157 kadın (47 PE / 110 kontrol), 17621 gen; geliştirme kohortu GSE149440: {'Control': 50, 'PPROM': 33, 'sPTD': 28, 'PE': 12}
+Ayarlar: {'K': 200, 'max_k': 5, 'pop_size': 100, 'n_gen': 60, 'tol': 0.03, 'lam': 1.0, 'outer_folds': 5, 'seed': 2026, 'ga_edges': [13, 16]}
+Betimleyici: max |t| = 3.64; FDR<0.05 gen sayısı = 0; FDR<0.20 = 0; p<0.001 = 3 (null beklentisi ≈ 18)
+Süre: 499 sn (görev başına [491, 484, 471, 457, 490, 478])
+
+DIŞ ÇAPRAZ DOĞRULAMA (GSE85307, PE vs kontrol) ve GELİŞTİRME KOHORTU (GSE149440)
+  MOGAFS_spec  dış AUC 0.496 [%95 GA 0.392–0.595]  (katman ort. 0.495 ± 0.126; ort. 4.4 özellik) | GSE149440 alarm AUC(komplikasyon vs kontrol) katman ort. 0.487
+  MOGAFS       dış AUC 0.439 [%95 GA 0.345–0.538]  (katman ort. 0.454 ± 0.137; ort. 4.0 özellik) | GSE149440 alarm AUC(komplikasyon vs kontrol) katman ort. 0.469
+  LASSO5       dış AUC 0.485 [%95 GA 0.383–0.586]  (katman ort. 0.465 ± 0.086; ort. 5.0 özellik) | GSE149440 alarm AUC(komplikasyon vs kontrol) katman ort. 0.530
+  TTEST5       dış AUC 0.393 [%95 GA 0.303–0.488]  (katman ort. 0.392 ± 0.106; ort. 5.0 özellik) | GSE149440 alarm AUC(komplikasyon vs kontrol) katman ort. 0.464
+
+SON PANELLER (157 kadının tamamında)
+  MOGAFS_spec  4 gen: PLEKHG7;DCLK2;RRP7A;PLAT
+               GSE149440 (geliştirme): komplikasyon vs kontrol 0.485 | PE vs komplikasyon 0.538 | PE vs kontrol 0.515
+  MOGAFS       4 gen: PLEKHG7;TMEM174;PLAT;MTFR1
+               GSE149440 (geliştirme): komplikasyon vs kontrol 0.491 | PE vs komplikasyon 0.615 | PE vs kontrol 0.633
+  LASSO5       5 gen: MIR199A1;PLEKHG7;FAM110B;RDH13;DCLK2
+               GSE149440 (geliştirme): komplikasyon vs kontrol 0.579 | PE vs komplikasyon 0.529 | PE vs kontrol 0.603
+  TTEST5       5 gen: RDH13;A4GNT;PLEKHG7;DCLK2;MIR199A1
+               GSE149440 (geliştirme): komplikasyon vs kontrol 0.592 | PE vs komplikasyon 0.541 | PE vs kontrol 0.593
+
+SEÇİM KARARLILIĞI (dış katmanlarda kaç kez seçildi)
+  MOGAFS_spec  PLEKHG7×2, OR10AD1×1, FTSJ3×1, RDH13×1, DDX49×1, LRIT2×1, GALNT17×1, SCAND2P×1
+  MOGAFS       ZSCAN9×1, OR10AD1×1, TSSK3×1, POPDC3×1, ASPHD1×1, TMEM174×1, FOXI1×1, GALNT17×1
+  LASSO5       IFT70A×2, MIR199A1×2, PLEKHG7×2, FAM110B×1, PGGHG×1, TCHHL1×1, SIGLEC6×1, RRP7A×1
+  TTEST5       RDH13×2, PGGHG×1, LMLN×1, SIGLEC6×1, ZSCAN9×1, FAM110B×1, LRRC7×1, A4GNT×1
+  MOGAFS_spec: son çalışmada 4243 farklı küme değerlendirildi; Pareto cephesi 53 çözüm
+  MOGAFS: son çalışmada 4614 farklı küme değerlendirildi; Pareto cephesi 32 çözüm

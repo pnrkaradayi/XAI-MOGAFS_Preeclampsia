@@ -1,0 +1,21 @@
+=== cfRNA_discovery: 68 kadın (23 PE); 7160 gen satırı; RN7SL* satırı 24, yapısal küçük RNA satırı 126
+  RN7SL* payı (%)              PE medyan   3.33 | kontrol   1.68 | AUC(PE vs kontrol) 0.76 p=5.4e-04 | kontrollerde ≤12 vs 13–20 hf: 1.65 / 1.78
+  yapısal küçük RNA payı (%)   PE medyan  28.81 | kontrol  25.80 | AUC(PE vs kontrol) 0.57 p=3.2e-01 | kontrollerde ≤12 vs 13–20 hf: 26.61 / 22.80
+  toplam sayım (kütüphane): PE medyan 192392 | kontrol 242766 | AUC 0.37
+  ridge AUC (tüm genler, 7025 gen): 0.759 ± 0.031
+  ridge AUC (yalnız protein kodlayan, 6707 gen): 0.687 ± 0.042
+  ridge AUC (yalnız psödogen + yapısal küçük RNA, 231 gen): 0.865 ± 0.016
+  protein kodlayan, yalnız ≤12 hf: n=13/36  ridge AUC 0.743 ± 0.083
+  protein kodlayan, yalnız 13–20 hf: n=10/9  ridge AUC 0.611 ± 0.083
+  protein kodlayan tek-gen: FDR<0.05 0, FDR<0.20 0; en güçlü: DGCR6L(+), OAZ1(+), STAG2(−), ACACB(+), SLC66A2(+), SMARCAD1(−), HIP1R(+), STRN4(+), AASDHPPT(−), PPP1CA(+), PPA1(−), TENT5A(−)
+
+=== cfRNA_val1: 33 kadın (6 PE); 7160 gen satırı; RN7SL* satırı 24, yapısal küçük RNA satırı 126
+  RN7SL* payı (%)              PE medyan   3.39 | kontrol   2.00 | AUC(PE vs kontrol) 0.76 p=5.1e-02 | kontrollerde ≤12 vs 13–20 hf: 1.90 / 2.57
+  yapısal küçük RNA payı (%)   PE medyan  25.59 | kontrol  26.28 | AUC(PE vs kontrol) 0.59 p=5.4e-01 | kontrollerde ≤12 vs 13–20 hf: 26.44 / 19.87
+  toplam sayım (kütüphane): PE medyan 98577 | kontrol 148700 | AUC 0.35
+
+4. TROMBOSİT HİPOTEZİ (trombosit mRNA skoru = genlerin log2CPM z ortalaması)
+  cfRNA_discovery: 18/20 trombosit geni mevcut; skor AUC(PE vs kontrol) 0.55 (p=4.8e-01); trombosit skoru ~ RN7SL payı Spearman ρ=-0.00 (p=1.0e+00)
+    lojistik PE ~ RN7SL_z + trombosit_z: OR(RN7SL) 2.33 p=0.004; OR(trombosit) 1.17 p=0.577
+  cfRNA_val1: 18/20 trombosit geni mevcut; skor AUC(PE vs kontrol) 0.51 (p=9.5e-01); trombosit skoru ~ RN7SL payı Spearman ρ=-0.10 (p=5.6e-01)
+    lojistik PE ~ RN7SL_z + trombosit_z: OR(RN7SL) 2.67 p=0.081; OR(trombosit) 1.46 p=0.589

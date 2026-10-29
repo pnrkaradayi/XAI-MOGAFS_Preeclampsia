@@ -1,0 +1,24 @@
+######## GSE86200  (60 örnek)
+!Series_title = The role of vitamin D in the transcriptional program of human pregnancy.
+!Series_pubmed_id = 27711190
+!Series_overall_design = Whole blood transcriptome, dose response, time course, matched pair analysis
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86200/suppl/GSE86200_RAW.tar
+!Series_platform_id = GPL10558
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA340875
+!Sample_source_name_ch1: {'whole blood_at enrollment': 30, 'whole blood_at 32-38 weeks of gestation': 30}
+!Sample_platform_id: {'GPL10558': 60}
+!Sample_molecule_ch1: {'total RNA': 60}
+!Sample_title örnek: 8082231-M, at enrollment | 8082231-M, at 32-38 weeks of gestation | 2093964-M, at enrollment | 2093964-M, at 32-38 weeks of gestation | 2066267-M, at enrollment | 2066267-M, at 32-38 weeks of gestation
+  [recruitment_id] n_değer=30: {'8082231-M': 2, '2093964-M': 2, '2066267-M': 2, '9061441-M': 2, '1027224-M': 2, '6041552-M': 2, '1044556-M': 2, '5025572-M': 2, '5037279-M': 2, '4041035-M': 2, '2006605-M': 2, '1086584-M': 2} … (+18 değer)
+  [study center] n_değer=3: {'WU - Washington University': 36, 'KP - Kaiser Permanente': 12, 'BU - Boston University': 12}
+  [Sex] n_değer=1: {'Female': 60}
+  [ethnicity] n_değer=2: {'African American (Hispanic and Non-Hispanic)': 48, 'Caucasian (Non-Hispanic)': 12}
+  [age at enrollment] n_değer=30: {'25.83709788': 2, '18.89390828': 2, '29.68925394': 2, '19.86310746': 2, '33.48117728': 2, '28.48733744': 2, '30.34086242': 2, '22.36276523': 2, '20.88980151': 2, '28.34223135': 2, '33.61533196': 2, '36.77207392': 2} … (+18 değer)
+  [gestational day at enrollment] n_değer=22: {'85': 6, '129': 4, '108': 4, '127': 4, '90': 4, '72': 4, '98': 4, '113': 2, '88': 2, '92': 2, '89': 2, '115': 2} … (+10 değer)
+  [treatment group] n_değer=2: {'Intervention group, 4400 IU vitamin D supplementation': 30, 'Control group, 400 IU vitamin D supplementation': 30}
+  [pregnancy condition] n_değer=2: {'Normal': 48, 'Preeclampsia': 12}
+  [sex of child] n_değer=2: {'Female': 30, 'Male': 30}
+  [vitamin d level at enrollment (nmol/l)] n_değer=29: {'43.25': 4, '95.25': 2, '111.5': 2, '80.25': 2, '55': 2, '93.75': 2, '49': 2, '53.75': 2, '36.75': 2, '63': 2, '65.5': 2, '34.25': 2} … (+17 değer)
+  [vitamin d level at 32-38 weeks of gestation (nmol/l)] n_değer=30: {'96.5': 2, '120.25': 2, '136.9': 2, '48.25': 2, '138.75': 2, '83': 2, '65.75': 2, '58.5': 2, '49.5': 2, '142.5': 2, '91.25': 2, '39.5': 2} … (+18 değer)
+  [tissue] n_değer=1: {'PAXgene whole blood': 60}
+  [microarray hybridization date] n_değer=2: {'02/27/2012': 53, '05/23/2012': 7}

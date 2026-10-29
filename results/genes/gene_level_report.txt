@@ -1,0 +1,60 @@
+PROB -> ENTREZ EŞLEMELERİ
+  GPL6244 (HuGene 1.0; GSE85307, GSE142974): 33297 prob -> boş 11102, çok-genli 2143 atıldı; {'current': 19828, 'dropped_retired': 219, 'rescued_by_symbol': 5}; kalan 19833 prob / 18824 gen
+  GPL10558 (HT-12; GSE108497): 48107 prob -> boş 16841, çok-genli 13 atıldı; {'current': 31166, 'dropped_retired': 80, 'rescued_by_symbol': 7}; kalan 31173 prob / 20677 gen
+  GPL28460 (HTA2 ENTREZG; GSE149440): 32830 prob -> boş 31, çok-genli 0 atıldı; {'current': 32176, 'dropped_retired': 623}; kalan 32176 prob / 32176 gen
+  GPL18964 (HuGene2.1 ENTREZG; GSE59491): 25088 prob -> boş 0, çok-genli 0 atıldı; {'current': 24403, 'dropped_retired': 685}; kalan 24403 prob / 24403 gen
+
+GEN DÜZEYİ MATRİSLER
+  GSE85307: 33297 prob, 0 eksik değer
+  -> GSE85307: 18824 gen x 157 kadın; değer 3.08–14.02
+  GSE142974: 33297 prob, 0 eksik değer
+  -> GSE142974: 18824 gen x 24 kadın; değer 3.02–13.64
+  GSE149440: 32830 prob, 0 eksik değer
+  -> GSE149440: 32176 gen x 123 kadın; değer 0.94–14.15
+  GSE59491: 25088 prob, 0 eksik değer
+  -> GSE59491: 24403 gen x 165 kadın; değer 1.24–13.85
+  GSE108497: 47319 ortak prob; seçili 132 çip
+  -> GSE108497: 20677 gen x 132 kadın; değer 4.00–14.34
+  GSE108497 saptama: örneklerin ≥%50'sinde saptanan (p<0.01) gen 9129 / 20677
+  GSE192902 cfRNA_discovery: 7160 gen satırı, eşlenemeyen 135
+  -> GSE192902_cfRNA_discovery: 7025 gen x 68 kadın; değer 0.00–16.40
+  GSE192902 cfRNA_val1: 7160 gen satırı, eşlenemeyen 135
+  -> GSE192902_cfRNA_val1: 7025 gen x 33 kadın; değer 0.00–15.28
+  -> GSE85307_miRNA_Ct: 733 insan miRNA testi x 157 kadın; kadınların ≥%50'sinde saptanan 292, ≥%80'inde 221
+
+KESİŞİM (Entrez gen sayısı)
+  GSE85307                      18824
+  GSE142974                     18824
+  GSE149440                     32176
+  GSE59491                      24403
+  GSE108497                     20677
+  GSE192902_cfRNA_discovery      7025
+  GSE192902_cfRNA_val1           7025
+  Tam kan 5 kohort kesişimi: 17621 gen (16892 protein kodlayan)
+  + plazma cfRNA (Discovery) ile kesişim: 6318 gen
+  Ardışık kesişim (sırayla eklenince kalan):
+    + GSE85307                    18824
+    + GSE142974                   18824
+    + GSE149440                   18687
+    + GSE59491                    18420
+    + GSE108497                   17621
+    + GSE192902_cfRNA_discovery    6318
+
+KONTROLLER
+  Gen ortalamalarının kohortlar arası Spearman korelasyonu (tam kan kesişimi):
+           GSE85307  GSE142974  GSE149440  GSE59491  GSE108497
+GSE85307       1.00       0.99       0.90      0.84       0.65
+GSE142974      0.99       1.00       0.90      0.87       0.67
+GSE149440      0.90       0.90       1.00      0.83       0.65
+GSE59491       0.84       0.87       0.83      1.00       0.73
+GSE108497      0.65       0.67       0.65      0.73       1.00
+  Plazma cfRNA ile GSE85307 tam kan gen ortalaması Spearman: 0.42 (bölmeler farklı; düşük beklenir)
+  HBB     ortalama ifade yüzdeliği: GSE85307 %100, GSE142974 %100, GSE149440 %100, GSE59491 %100, GSE108497 %100, GSE192902_cfRNA_discovery %100, GSE192902_cfRNA_val1 %100
+  XIST    ortalama ifade yüzdeliği: GSE149440 %99, GSE59491 %99, GSE108497 %91, GSE192902_cfRNA_discovery %55, GSE192902_cfRNA_val1 %43
+  RPS4Y1  ortalama ifade yüzdeliği: GSE85307 %15, GSE142974 %14, GSE149440 %20, GSE59491 %11, GSE108497 %64
+  DDX3Y   ortalama ifade yüzdeliği: GSE85307 %16, GSE142974 %12, GSE149440 %17, GSE59491 %22, GSE108497 %19
+  KDM5D   ortalama ifade yüzdeliği: GSE85307 %17, GSE142974 %15, GSE149440 %29, GSE59491 %8, GSE108497 %30
+  UTY     ortalama ifade yüzdeliği: GSE85307 %5, GSE142974 %5, GSE149440 %9, GSE59491 %6, GSE108497 %27
+  EIF1AY  ortalama ifade yüzdeliği: GSE85307 %5, GSE142974 %5, GSE149440 %12, GSE59491 %3, GSE108497 %29
+  GSE108497 Y geni saptama oranı (RPS4Y1 hariç): {'7404': 0.0, '8284': 0.0, '8653': 0.0, '9086': 0.0}
+  Yorum: tüm örnekler kadın; HBB en üstte, XIST yüksek, Y genleri tabanda. GSE108497'de RPS4Y1'in zayıf sinyali Illumina probunun RPS4X ile çapraz hibridizasyonudur (diğer Y genleri saptanmıyor).

@@ -1,0 +1,37 @@
+XAI-MOGAFS-SI — merkez-dışarıda-bırakma (SONRADAN / KEŞİFSEL; Val-2 açıldıktan sonra tasarlandı)
+Ortak protein kodlayan evren: 6620 gen
+  S1_Stanford: 160 örnek / 101 kadın; grup (kadın): {'Control': 72, 'PE': 29}
+  S2_Val2: 89 örnek / 87 kadın; grup (kadın): {'Control': 61, 'PE': 26}
+  S3_DelVecchio: 47 örnek / 24 kadın; grup (kadın): {'Control': 9, 'PE': 8, 'GDM': 7}
+Süre: 195 sn
+
+=== Dışarıda bırakılan merkez: S1_Stanford
+  panel SI-MOGAFS    (5) TALDO1;PML;AOPEP;RALB;RPS27L
+  panel MOGAFS       (3) MYL12B;TTBK2;IDE
+  panel META-TTEST5  (5) ZNF142;SPN;MIB2;H2BC4;COX6B1
+  panel LASSO5       (5) COX6B1;ZNF142;IDE;TTC3;TALDO1
+  panel TTEST5       (5) ZNF142;COX6B1;HBS1L;TALDO1;PML
+  panel Moufarrej18  (15) (yayımlanmış)
+  [kadın] SI-MOGAFS 0.40 [0.26–0.53] | MOGAFS 0.47 [0.34–0.60] | META-TTEST5 0.65 [0.52–0.77] | LASSO5 0.61 [0.49–0.73] | TTEST5 0.58 [0.46–0.70] | Moufarrej18 0.76 [0.67–0.85]  (n=29/72)
+  [örnek] SI-MOGAFS 0.41 [0.30–0.54] | MOGAFS 0.47 [0.37–0.57] | META-TTEST5 0.63 [0.53–0.73] | LASSO5 0.64 [0.53–0.73] | TTEST5 0.60 [0.50–0.70] | Moufarrej18 0.76 [0.68–0.84]  (n=41/119)
+
+=== Dışarıda bırakılan merkez: S2_Val2
+  panel SI-MOGAFS    (5) CTNND1;MOB1B;H2BC11;SMIM3;XRN1
+  panel MOGAFS       (4) COMMD6;GP1BA;MOB1B;H2BC11
+  panel META-TTEST5  (5) FTL;H4C3;DNAJC3;TFAM;FAU
+  panel LASSO5       (5) DNAJC3;STAG2;CUL4B;XRN1;POMT1
+  panel TTEST5       (5) OAZ1;H2BC12;H4C3;FTL;STAG2
+  panel Moufarrej18  (15) (yayımlanmış)
+  [kadın] SI-MOGAFS 0.78 [0.66–0.86] | MOGAFS 0.58 [0.44–0.71] | META-TTEST5 0.49 [0.35–0.62] | LASSO5 0.53 [0.41–0.66] | TTEST5 0.61 [0.49–0.72] | Moufarrej18 0.73 [0.61–0.84]  (n=26/61)
+  [örnek] SI-MOGAFS 0.79 [0.68–0.88] | MOGAFS 0.61 [0.47–0.73] | META-TTEST5 0.48 [0.36–0.63] | LASSO5 0.53 [0.42–0.65] | TTEST5 0.62 [0.50–0.73] | Moufarrej18 0.72 [0.60–0.83]  (n=28/61)
+
+=== Dışarıda bırakılan merkez: S3_DelVecchio
+  panel SI-MOGAFS    (5) LRRC58;SEC62;XRN1;FAM110A;WDR1
+  panel MOGAFS       (3) AP3B1;STAG2;XRN1
+  panel META-TTEST5  (5) ACRBP;GP1BA;H2BC12;LRRC58;CREB1
+  panel LASSO5       (5) SAMD9L;LRRC58;OAZ1;SACS;XRN1
+  panel TTEST5       (5) ACRBP;GP9;OAZ1;H2BC12;CMTM5
+  panel Moufarrej18  (15) (yayımlanmış)
+  [kadın] SI-MOGAFS 0.27 [0.05–0.56] | MOGAFS 0.45 [0.16–0.75] | META-TTEST5 0.19 [0.02–0.44] | LASSO5 0.45 [0.19–0.77] | TTEST5 0.28 [0.05–0.58] | Moufarrej18 0.41 [0.14–0.69]  (n=8/8)
+  [örnek] SI-MOGAFS 0.54 [0.33–0.75] | MOGAFS 0.58 [0.37–0.79] | META-TTEST5 0.49 [0.29–0.70] | LASSO5 0.57 [0.37–0.78] | TTEST5 0.53 [0.32–0.73] | Moufarrej18 0.50 [0.31–0.71]  (n=16/17)
+  [kadın-GDM] SI-MOGAFS 0.27 [0.04–0.57] | MOGAFS 0.52 [0.23–0.80] | META-TTEST5 0.32 [0.07–0.61] | LASSO5 0.30 [0.00–0.61] | TTEST5 0.50 [0.20–0.79] | Moufarrej18 0.36 [0.09–0.68]  (n=7/8)

@@ -1,0 +1,44 @@
+=== mRNA  (GSE85307-GPL6244_series_matrix.txt.gz)
+  matris boyutu: 33297 özellik x 157 örnek
+  eksik değer oranı: 0.000
+  değer aralığı: 2.85 – 14.21
+  anotasyondaki örnek: 157, matristeki: 157
+  benzersiz kadın: 157  (kadın başına örnek maks: 1)
+  grup (örnek düzeyi): {'Normal': 110, 'Preeclampsia': 47}
+
+=== miRNA  (GSE85307-GPL19162_series_matrix.txt.gz)
+  matris boyutu: 758 özellik x 159 örnek
+  eksik değer oranı: 0.603
+  değer aralığı: 8.92 – 34.10
+  anotasyondaki örnek: 159, matristeki: 159
+  benzersiz kadın: 157  (kadın başına örnek maks: 2)
+  grup (örnek düzeyi): {'Normal': 111, 'Preeclampsia': 48}
+  teknik tekrar: 2 kadında 4 örnek (1050601-M, 3017557-M); yalnız 'Replicate 1' tutulur
+
+=== Katmanlar arası tutarlılık (aynı kadın)
+  yalnız mRNA: 0, yalnız miRNA: 0, ikisi birden: 157
+  grup etiketi uyuşmazlığı: 0
+  kan alım haftası farkı (maks): 0.000 hf  -> aynı kan örneği: True
+
+=== Devir dosyasıyla karşılaştırma (kadın düzeyi)
+  [TAMAM] kadın sayısı = 157 (beklenen 157)
+  [TAMAM] preeklampsi = 47 (beklenen 47)
+  [TAMAM] kontrol = 110 (beklenen 110)
+  [TAMAM] kan alımı en erken = 10.00 hf (beklenen ≥ 10.0)
+  [TAMAM] kan alımı en geç = 18.86 hf (beklenen ≤ 18.9)
+  kan alımı medyanı = 13.43 hf (devir dosyası: 13,4)
+
+=== Grup x kan alım haftası (kadın sayısı)
+ga_draw_wk    10–11.9  12–13.9  14–15.9  16–17.9  18–19.9  Toplam
+condition                                                        
+Normal             22       36       19       16       17     110
+Preeclampsia       12       17        5        7        6      47
+Toplam             34       53       24       23       23     157
+
+=== Grup bazında tanımlayıcılar (medyan [min–maks])
+  ga_draw_wk      Normal: 13.6 [10.0–18.9] (n=110) | Preeclampsia: 13.0 [10.0–18.9] (n=47)
+  ga_delivery_wk  Normal: 39.3 [37.1–42.0] (n=110) | Preeclampsia: 39.1 [26.4–41.4] (n=47)
+  age_y           Normal: 26.9 [18.5–38.8] (n=110) | Preeclampsia: 25.7 [18.4–35.3] (n=47)
+  bmi             Normal: 26.5 [18.0–61.9] (n=110) | Preeclampsia: 31.2 [18.3–54.4] (n=47)
+
+SONUÇ: Tüm beklenen rakamlar doğrulandı.

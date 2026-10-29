@@ -1,0 +1,17 @@
+study	doi	compartment	sampling_window	model	reported_performance	validation_type	source_checked
+Moufarrej 2022 Nature	10.1038/s41586-022-04410-z	plasma cfRNA	5–16 wk	18-gene logistic	AUROC train 0.99; Validation-1 0.71; Validation-2 0.72; Del Vecchio 0.74 (90% CI)	same-study held-out (GSE192902 Val-1/Val-2 = OUR cohorts) + external	PMC8971130 full text
+Rasmussen 2022 Nature	10.1038/s41586-021-04249-w	plasma cfRNA	16–27 wk	7-gene logistic	AUC 0.82 (95% CI ±0.06); sens 75%, PPV 32.3%	leave-one-out CV (no independent hold-out)	PMC8770117 full text
+Castillo-Marco 2025 Nat Commun	10.1038/s41467-025-64215-2	plasma cfRNA	T1 9–14 wk / T2 18–28 wk	EOPE-T1 36; LOPE-T1 19; EOPE-T2 87; LOPE-T2 92/94 transcripts	EOPE-T1 0.88 (external 0.87); LOPE-T1 0.68 (ext 0.63); EOPE-T2 0.89 (ext 0.81); LOPE-T2 0.90 (ext 0.77)	30% hold-out + external GEO dataset (n=190; model re-tuned and LOOCV on external)	PMC12537965 full text
+Elovitz 2025 Nat Commun	10.1038/s41467-025-58157-y	plasma cfRNA	17w4d–22w	placental HDP classifier	AUC 0.88 (validation, advanced maternal age without pre-existing risk factors)	validation subgroup	PubMed abstract
+Tarca 2021 J Matern Fetal Neonatal Med	10.1080/14767058.2019.1685964	whole blood	11–17 wk / 22–28 wk	3-gene LDA (EVT) / 4-gene LDA	11–17 wk: sens 0.83, spec 0.94; 22–28 wk: sens 0.85, spec 0.92	same data used for gene-combination selection (Detroit cohort = GSE149440)	PubMed abstract
+Del Vecchio 2021 Epigenetics	10.1080/15592294.2020.1816774	plasma cfRNA + cfDNA methylation	12–17 wk	APO classifier	AUC 0.86 PE alone (0.91 any adverse outcome)	small cohort (33 women), internal	PubMed abstract
+Weiner 2022 Diagnostics	10.3390/diagnostics12061327	plasma RNA	16.0–20.7 wk	2 RNAs (early-onset PE)	AUC 0.89; with clinical variables 0.96	internal	PubMed abstract
+Gunaydin 2025 Sci Rep	10.1038/s41598-025-26323-3	whole blood	20–24 wk	12 candidate genes (late-onset PE)	single-gene AUC 0.74–0.87	internal	PubMed abstract
+Hedley 2025 BMC Pregnancy Childbirth	10.1186/s12884-025-08105-x	serum miRNA	10–14 wk	7 miRNAs	AUC 0.879	internal	PubMed abstract
+Timofeeva 2023 Int J Mol Sci	10.3390/ijms24098006	serum miRNA	11–14 wk	miRNA combinations	sens 100%, spec 84–100%	internal (67 patients)	PubMed abstract
+Clément 2025 BMC Pregnancy Childbirth (Gen3G/3D)	10.1186/s12884-025-07349-x	plasma miRNA	first trimester	2 miRNAs + MAP (gestational hypertension)	AUC 0.803 (Gen3G), 0.709 (3D replication)	discovery + replication cohort	PubMed abstract
+Mirzakhani 2016 J Clin Invest (VDAART)	10.1172/JCI89031	whole blood	10–18 wk	348-gene DE list	no AUC reported in abstract	—	PubMed abstract
+Hong 2019 J Exp Med	10.1084/jem.20190185	whole blood	<16 wk	neutrophil signature	no AUC reported in abstract	—	PubMed abstract
+THIS STUDY — whole blood de novo	—	whole blood	10–19 wk	XAI-MOGAFS / LASSO / t-test (≤5 genes)	nested-CV AUC 0.39–0.50 (all methods); ridge all genes 0.55	nested CV, GSE85307 (47 PE / 110 control)	results/panel/
+THIS STUDY — plasma primary (V0)	—	plasma cfRNA	≤20 wk	XAI-MOGAFS 4 features	Discovery nested-CV AUC 0.755 (rep-1 95% CI 0.58–0.82); Validation-1 0.852 (0.69–0.98); Validation-2 PENDING (sealed)	nested CV + same-study held-out; sealed final test	results/plasma/
+THIS STUDY — plasma protein-coding (V4)	—	plasma cfRNA	≤20 wk	XAI-MOGAFS + stability + composition	Discovery nested-CV AUC 0.671 vs LASSO 0.508 / t-test 0.496; Validation-1 0.840	nested CV + same-study held-out	results/plasma/variants/V4

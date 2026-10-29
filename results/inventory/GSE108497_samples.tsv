@@ -1,0 +1,513 @@
+gsm	chip_id	manifest_note	woman_id	group	tp	ga_wk	ga_end_wk	sle	pe	pe_onset_36	iugr	sga	fd	nnd	pl_insuff	apl	lac	age_y	race	batch
+GSM2901826	9269325023_L	Early version of manifest, only 47,231 probes	106346	HC_NP	5			0	0		0	0	0	0	0	0	0	25	C	3
+GSM2901827	9269325031_C	Early version of manifest, only 47,231 probes	134642	HC_NP	5			0	0		0	0	0	0	0	0	0	25	C	3
+GSM2901828	9269325037_I	Early version of manifest, only 47,231 probes	HD-85	HC_NP	5			0	0		0	0	0	0	0	0	0	25	AA	1
+GSM2901829	9269325038_I	Early version of manifest, only 47,231 probes	139353	HC_NP	5			0	0		0	0	0	0	0	0	0	24	C	3
+GSM2901830	9269325039_H	Early version of manifest, only 47,231 probes	149039	HC_NP	5			0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901831	9269325041_D	Early version of manifest, only 47,231 probes	106388	HC_NP	5			0	0		0	0	0	0	0	0	0	27	C	3
+GSM2901832	9269325044_B	Early version of manifest, only 47,231 probes	109919	HC_NP	5			0	0		0	0	0	0	0	0	0	26	C	3
+GSM2901833	9269325044_F	Early version of manifest, only 47,231 probes	HD-92	HC_NP	5			0	0		0	0	0	0	0	0	0	25	H	1
+GSM2901834	9269325044_H	Early version of manifest, only 47,231 probes	HD-94	HC_NP	5			0	0		0	0	0	0	0	0	0	26	H	1
+GSM2901835	9269325044_I	Early version of manifest, only 47,231 probes	109829	HC_NP	5			0	0		0	0	0	0	0	0	0	34	As	3
+GSM2901836	9269325048_C	Early version of manifest, only 47,231 probes	HD-82	HC_NP	5			0	0		0	0	0	0	0	0	0	21	H	1
+GSM2901837	9269325082_A	Early version of manifest, only 47,231 probes	HD-89	HC_NP	5			0	0		0	0	0	0	0	0	0	29	H	1
+GSM2901838	9269325082_G	Early version of manifest, only 47,231 probes	150622	HC_NP	5			0	0		0	0	0	0	0	0	0	27	C	3
+GSM2901839	9269325097_F	Early version of manifest, only 47,231 probes	152434	HC_NP	5			0	0		0	0	0	0	0	0	0	33	As	3
+GSM2901840	9270006096_I	Early version of manifest, only 47,231 probes	HD-87	HC_NP	5			0	0		0	0	0	0	0	0	0	39	H	1
+GSM2901841	9271668022_G	Early version of manifest, only 47,231 probes	HD-98	HC_NP	5			0	0		0	0	0	0	0	0	0	31	H	1
+GSM2901842	9339657002_B	Early version of manifest, only 47,231 probes	110557	HC_NP	5			0	0		0	0	0	0	0	0	0	30	AA	3
+GSM2901843	9339657006_E	Early version of manifest, only 47,231 probes	HD-86	HC_NP	5			0	0		0	0	0	0	0	0	0	37		1
+GSM2901844	9339657006_K	Early version of manifest, only 47,231 probes	121986	HC_NP	5			0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901845	9339657012_J	Early version of manifest, only 47,231 probes	HD-84	HC_NP	5			0	0		0	0	0	0	0	0	0	19	H	1
+GSM2901846	9339657014_K	Early version of manifest, only 47,231 probes	HD-88	HC_NP	5			0	0		0	0	0	0	0	0	0	35	H	1
+GSM2901847	9339657018_H	Early version of manifest, only 47,231 probes	106331	HC_NP	5			0	0		0	0	0	0	0	0	0	23	C	3
+GSM2901848	9339657019_L	Early version of manifest, only 47,231 probes	HC22	HC_NP	5			0	0		0	0	0	0	0	0	0	32	As	2
+GSM2901849	9269325043_C	Early version of manifest, only 47,231 probes	JC12	HC_P	1	10.0	40.3	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901850	9269325035_L	Early version of manifest, only 47,231 probes	JC13	HC_P	1	7.4	39.1	0	0		0	0	0	0	0	0	0	31	AA	4
+GSM2901851	9269325091_I	Early version of manifest, only 47,231 probes	JC14	HC_P	1	10.6	38.5	0	0		0	0	0	0	0	0	0	28	AA	4
+GSM2901852	9270006076_D	Early version of manifest, only 47,231 probes	JC17	HC_P	1	13.1	41.6	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901853	9269325023_I	Early version of manifest, only 47,231 probes	JC18	HC_P	1	11.3	39.2	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901854	9339657021_A	Early version of manifest, only 47,231 probes	JC2	HC_P	1	8.1	40.0	0	0		0	0	0	0	0	0	0	30	As	4
+GSM2901855	9269325097_G	Early version of manifest, only 47,231 probes	JC3	HC_P	1	8.5	40.4	0	0		0	0	0	0	0	0	0	26	AA	4
+GSM2901856	9339657012_E	Early version of manifest, only 47,231 probes	JC41	HC_P	1	12.0	39.0	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901857	9339657018_C	Early version of manifest, only 47,231 probes	TC113	HC_P	1	11.4	40.2	0	0		0	0	0	0	0	0	0	38	C	3
+GSM2901858	9269325037_E	Early version of manifest, only 47,231 probes	TC116	HC_P	1	11.5	37.1	0	0		0	0	0	0	0	0	0	37	Other	4
+GSM2901859	9269325036_J	Early version of manifest, only 47,231 probes	TC119	HC_P	1	12.1	40.6	0	0		0	0	0	0	0	0	0	39	C	4
+GSM2901860	9339657019_F	Early version of manifest, only 47,231 probes	TC120	HC_P	1	11.1	39.2	0	0		0	0	0	0	0	0	0	35	C	3
+GSM2901861	9339657006_J	Early version of manifest, only 47,231 probes	TC121	HC_P	1	12.1	38.0	0	0		0	0	0	0	0	0	0	25	C	4
+GSM2901862	9269325023_G	Early version of manifest, only 47,231 probes	TC122	HC_P	1	13.0	38.2	0	0		0	0	0	0	0	0	0	36	C	3
+GSM2901863	9339657018_D	Early version of manifest, only 47,231 probes	TC124	HC_P	1	12.1	39.3	0	0		0	0	0	0	0	0	0	32	C	3
+GSM2901864	9339657009_D	Early version of manifest, only 47,231 probes	TC125	HC_P	1	10.5	39.1	0	0		0	0	0	0	0	0	0	35	As	4
+GSM2901865	9269325078_C	Early version of manifest, only 47,231 probes	TC127	HC_P	1	12.2	40.1	0	0		0	0	0	0	0	0	0	36	As	4
+GSM2901866	9269325041_C	Early version of manifest, only 47,231 probes	TC128	HC_P	1	12.1	40.6	0	0		0	0	0	0	0	0	0	28	Other	4
+GSM2901867	9269325029_G	Early version of manifest, only 47,231 probes	TC129	HC_P	1	12.0	40.0	0	0		0	0	0	0	0	0	0	35		4
+GSM2901868	9269325031_H	Early version of manifest, only 47,231 probes	TC131	HC_P	1	9.0	39.3	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901869	9269325044_D	Early version of manifest, only 47,231 probes	UC14	HC_P	1	13.0	37.4	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901870	9339657003_A	Early version of manifest, only 47,231 probes	UC15	HC_P	1	8.1	39.2	0	0		0	0	0	0	0	0	0	26	C	4
+GSM2901871	9269325091_A	Early version of manifest, only 47,231 probes	UC22	HC_P	1	10.3	38.0	0	0		0	0	0	0	0	0	0	30	C	4
+GSM2901872	9271668036_E	Early version of manifest, only 47,231 probes	UC24	HC_P	1	11.3	39.3	0	0		0	0	0	0	0	0	0	32	C	4
+GSM2901873	9269325067_L	Early version of manifest, only 47,231 probes	UC27	HC_P	1	9.3	39.0	0	0		0	0	0	0	0	0	0	38	C	4
+GSM2901874	9339657008_F	Early version of manifest, only 47,231 probes	UC35	HC_P	1	12.6	39.3	0	0		0	0	0	0	0	0	0	29	C	1
+GSM2901875	9269325038_H	Early version of manifest, only 47,231 probes	UC36	HC_P	1	12.5	37.1	0	0		0	0	0	0	0	0	0	31	C	1
+GSM2901876	9339657016_K	Early version of manifest, only 47,231 probes	UC37	HC_P	1	10.0	38.5	0	0		0	0	0	0	0	0	0	33	C	2
+GSM2901877	9269325037_G	Early version of manifest, only 47,231 probes	UC38	HC_P	1	12.2	39.3	0	0		0	0	0	0	0	0	0	35	C	1
+GSM2901878	9339657015_B	Early version of manifest, only 47,231 probes	UC39	HC_P	1	11.3	39.3	0	0		0	0	0	0	0	0	0	30	C	1
+GSM2901879	9270006063_H	Early version of manifest, only 47,231 probes	UC40	HC_P	1	11.6	40.2	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2901880	9269325025_I	Early version of manifest, only 47,231 probes	UC41	HC_P	1	12.2	40.2	0	0		0	0	0	0	0	0	0	24	C	2
+GSM2901881	9339657019_E	Early version of manifest, only 47,231 probes	UC46	HC_P	1	9.5	38.2	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2901882	9339657015_K	Early version of manifest, only 47,231 probes	UC48	HC_P	1	8.0	40.6	0	0		0	0	0	0	0	0	0	37	As	2
+GSM2901883	9271668036_L	Early version of manifest, only 47,231 probes	UC50	HC_P	1	10.6	39.1	0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901884	9270006096_L	Early version of manifest, only 47,231 probes	UC51	HC_P	1	11.1	39.2	0	0		0	0	0	0	0	0	0	26	C	2
+GSM2901885	9270006067_I	Early version of manifest, only 47,231 probes	UC54	HC_P	1	9.3	40.4	0	0		0	0	0	0	0	0	0	29	C	3
+GSM2901886	9269325061_D	Early version of manifest, only 47,231 probes	UC55	HC_P	1	10.5	39.4	0	0		0	0	0	0	0	0	0	31	C	3
+GSM2901887	9269325035_A	Early version of manifest, only 47,231 probes	JC12	HC_P	2	20.4	40.3	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901888	9269325029_H	Early version of manifest, only 47,231 probes	JC13	HC_P	2	18.2	39.1	0	0		0	0	0	0	0	0	0	31	AA	4
+GSM2901889	9269325030_I	Early version of manifest, only 47,231 probes	JC14	HC_P	2	16.6	38.5	0	0		0	0	0	0	0	0	0	28	AA	4
+GSM2901890	9269325067_J	Early version of manifest, only 47,231 probes	JC17	HC_P	2	18.1	41.6	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901891	9339657010_F	Early version of manifest, only 47,231 probes	JC18	HC_P	2	19.0	39.2	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901892	9270006067_A	Early version of manifest, only 47,231 probes	JC2	HC_P	2	19.2	40.0	0	0		0	0	0	0	0	0	0	30	As	4
+GSM2901893	9339657012_C	Early version of manifest, only 47,231 probes	JC3	HC_P	2	19.6	40.4	0	0		0	0	0	0	0	0	0	26	AA	4
+GSM2901894	9269325057_E	Early version of manifest, only 47,231 probes	JC42	HC_P	2	22.3	39.4	0	0		0	0	0	0	0	0	0	31	C	1
+GSM2901895	9269325039_A	Early version of manifest, only 47,231 probes	TC113	HC_P	2	22.4	40.2	0	0		0	0	0	0	0	0	0	38	C	3
+GSM2901896	9269325067_F	Early version of manifest, only 47,231 probes	TC116	HC_P	2	19.6	37.1	0	0		0	0	0	0	0	0	0	37	Other	4
+GSM2901897	9269325043_K	Early version of manifest, only 47,231 probes	TC119	HC_P	2	18.1	40.6	0	0		0	0	0	0	0	0	0	39	C	4
+GSM2901898	9270006076_K	Early version of manifest, only 47,231 probes	TC120	HC_P	2	20.0	39.2	0	0		0	0	0	0	0	0	0	35	C	3
+GSM2901899	9269325097_K	Early version of manifest, only 47,231 probes	TC121	HC_P	2	19.2	38.0	0	0		0	0	0	0	0	0	0	25	C	4
+GSM2901900	9339657002_L	Early version of manifest, only 47,231 probes	TC122	HC_P	2	19.0	38.2	0	0		0	0	0	0	0	0	0	36	C	3
+GSM2901901	9271668022_D	Early version of manifest, only 47,231 probes	TC124	HC_P	2	20.1	39.3	0	0		0	0	0	0	0	0	0	32	C	3
+GSM2901902	9269325061_L	Early version of manifest, only 47,231 probes	TC127	HC_P	2	20.3	40.1	0	0		0	0	0	0	0	0	0	36	As	4
+GSM2901903	9269325034_E	Early version of manifest, only 47,231 probes	TC128	HC_P	2	19.1	40.6	0	0		0	0	0	0	0	0	0	28	Other	4
+GSM2901904	9269325029_F	Early version of manifest, only 47,231 probes	TC131	HC_P	2	21.5	39.3	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901905	9339657008_I	Early version of manifest, only 47,231 probes	UC14	HC_P	2	19.4	37.4	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901906	9269325037_H	Early version of manifest, only 47,231 probes	UC15	HC_P	2	18.2	39.2	0	0		0	0	0	0	0	0	0	26	C	4
+GSM2901907	9269325025_D	Early version of manifest, only 47,231 probes	UC21	HC_P	2	21.6	40.2	0	0		0	0	0	0	0	0	0	33	C	4
+GSM2901908	9269325043_G	Early version of manifest, only 47,231 probes	UC22	HC_P	2	18.3	38.0	0	0		0	0	0	0	0	0	0	30	C	4
+GSM2901909	9339657015_D	Early version of manifest, only 47,231 probes	UC24	HC_P	2	20.3	39.3	0	0		0	0	0	0	0	0	0	32	C	4
+GSM2901910	9269325044_L	Early version of manifest, only 47,231 probes	UC27	HC_P	2	18.4	39.0	0	0		0	0	0	0	0	0	0	38	C	4
+GSM2901911	9269325057_G	Early version of manifest, only 47,231 probes	UC31	HC_P	2	21.5	39.0	0	0		0	0	0	0	0	0	0	34	As	1
+GSM2901912	9270006058_C	Early version of manifest, only 47,231 probes	UC35	HC_P	2	20.6	39.3	0	0		0	0	0	0	0	0	0	29	C	1
+GSM2901913	9339657008_L	Early version of manifest, only 47,231 probes	UC36	HC_P	2	36.5	37.1	0	0		0	0	0	0	0	0	0	31	C	1
+GSM2901914	9339657013_C	Early version of manifest, only 47,231 probes	UC37	HC_P	2	18.2	38.5	0	0		0	0	0	0	0	0	0	33	C	1
+GSM2901915	9269325043_A	Early version of manifest, only 47,231 probes	UC38	HC_P	2	20.4	39.3	0	0		0	0	0	0	0	0	0	35	C	1
+GSM2901916	9269325097_J	Early version of manifest, only 47,231 probes	UC39	HC_P	2	20.5	39.3	0	0		0	0	0	0	0	0	0	30	C	1
+GSM2901917	9269325038_K	Early version of manifest, only 47,231 probes	UC40	HC_P	2	19.6	40.2	0	0		0	0	0	0	0	0	0	29	C	1
+GSM2901918	9269325097_H	Early version of manifest, only 47,231 probes	UC41	HC_P	2	21.2	40.2	0	0		0	0	0	0	0	0	0	24	C	1
+GSM2901919	9271668036_J	Early version of manifest, only 47,231 probes	UC43	HC_P	2	21.0	40.1	0	0		0	0	0	0	0	0	0	28	C	1
+GSM2901920	9269325091_G	Early version of manifest, only 47,231 probes	UC46	HC_P	2	21.3	38.2	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2901921	9269325061_C	Early version of manifest, only 47,231 probes	UC50	HC_P	2	19.1	39.1	0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901922	9269325021_F	Early version of manifest, only 47,231 probes	UC54	HC_P	2	21.1	40.4	0	0		0	0	0	0	0	0	0	29	C	3
+GSM2901923	9339657009_L	Early version of manifest, only 47,231 probes	UC55	HC_P	2	18.5	39.4	0	0		0	0	0	0	0	0	0	31	C	3
+GSM2901924	9269325037_K	Early version of manifest, only 47,231 probes	JC12	HC_P	3	28.4	40.3	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901925	9270006058_I	Early version of manifest, only 47,231 probes	JC13	HC_P	3	25.2	39.1	0	0		0	0	0	0	0	0	0	31	AA	4
+GSM2901926	9269325091_E	Early version of manifest, only 47,231 probes	JC14	HC_P	3	27.0	38.5	0	0		0	0	0	0	0	0	0	28	AA	4
+GSM2901927	9269325035_I	Early version of manifest, only 47,231 probes	JC17	HC_P	3	26.2	41.6	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901928	9270006084_H	Early version of manifest, only 47,231 probes	JC18	HC_P	3	28.1	39.2	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901929	9271668022_H	Early version of manifest, only 47,231 probes	JC2	HC_P	3	28.2	40.0	0	0		0	0	0	0	0	0	0	30	As	4
+GSM2901930	9269325034_F	Early version of manifest, only 47,231 probes	JC3	HC_P	3	27.6	40.4	0	0		0	0	0	0	0	0	0	26	AA	4
+GSM2901931	9269325025_A	Early version of manifest, only 47,231 probes	JC41	HC_P	3	30.2	39.0	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901932	9270006084_K	Early version of manifest, only 47,231 probes	JC42	HC_P	3	28.5	39.4	0	0		0	0	0	0	0	0	0	31	C	2
+GSM2901933	9339657021_E	Early version of manifest, only 47,231 probes	TC113	HC_P	3	28.4	40.2	0	0		0	0	0	0	0	0	0	38	C	3
+GSM2901934	9269325033_I	Early version of manifest, only 47,231 probes	TC116	HC_P	3	24.6	37.1	0	0		0	0	0	0	0	0	0	37	Other	4
+GSM2901935	9271668036_H	Early version of manifest, only 47,231 probes	TC119	HC_P	3	27.0	40.6	0	0		0	0	0	0	0	0	0	39	C	4
+GSM2901936	9339657003_D	Early version of manifest, only 47,231 probes	TC120	HC_P	3	27.6	39.2	0	0		0	0	0	0	0	0	0	35	C	3
+GSM2901937	9269325038_C	Early version of manifest, only 47,231 probes	TC121	HC_P	3	25.0	38.0	0	0		0	0	0	0	0	0	0	25	C	4
+GSM2901938	9269325025_K	Early version of manifest, only 47,231 probes	TC122	HC_P	3	25.1	38.2	0	0		0	0	0	0	0	0	0	36	C	3
+GSM2901939	9269325035_F	Early version of manifest, only 47,231 probes	TC124	HC_P	3	28.1	39.3	0	0		0	0	0	0	0	0	0	32	C	3
+GSM2901940	9269325067_D	Early version of manifest, only 47,231 probes	TC125	HC_P	3	25.0	39.1	0	0		0	0	0	0	0	0	0	35	As	4
+GSM2901941	9269325023_H	Early version of manifest, only 47,231 probes	TC128	HC_P	3	24.1	40.6	0	0		0	0	0	0	0	0	0	28	Other	4
+GSM2901942	9269325033_J	Early version of manifest, only 47,231 probes	TC129	HC_P	3	31.0	40.0	0	0		0	0	0	0	0	0	0	35		4
+GSM2901943	9269325082_I	Early version of manifest, only 47,231 probes	TC131	HC_P	3	29.5	39.3	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901944	9270006063_K	Early version of manifest, only 47,231 probes	UC14	HC_P	3	27.4	37.4	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901945	9269325078_D	Early version of manifest, only 47,231 probes	UC15	HC_P	3	27.2	39.2	0	0		0	0	0	0	0	0	0	26	C	4
+GSM2901946	9269325029_A	Early version of manifest, only 47,231 probes	UC21	HC_P	3	25.6	40.2	0	0		0	0	0	0	0	0	0	33	C	4
+GSM2901947	9269325021_B	Early version of manifest, only 47,231 probes	UC24	HC_P	3	29.3	39.3	0	0		0	0	0	0	0	0	0	32	C	4
+GSM2901948	9269325041_F	Early version of manifest, only 47,231 probes	UC26	HC_P	3	28.6	39.3	0	0		0	0	0	0	0	0	0	34	As	4
+GSM2901949	9269325078_I	Early version of manifest, only 47,231 probes	UC27	HC_P	3	28.4	39.0	0	0		0	0	0	0	0	0	0	38	C	4
+GSM2901950	9270006058_B	Early version of manifest, only 47,231 probes	UC31	HC_P	3	29.5	39.0	0	0		0	0	0	0	0	0	0	34	As	2
+GSM2901951	9339657010_K	Early version of manifest, only 47,231 probes	UC35	HC_P	3	29.4	39.3	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2901952	9269325057_F	Early version of manifest, only 47,231 probes	UC36	HC_P	3	28.1	37.1	0	0		0	0	0	0	0	0	0	31	C	1
+GSM2901953	9269325048_I	Early version of manifest, only 47,231 probes	UC37	HC_P	3	24.6	38.5	0	0		0	0	0	0	0	0	0	33	C	2
+GSM2901954	9270006096_K	Early version of manifest, only 47,231 probes	UC38	HC_P	3	29.4	39.3	0	0		0	0	0	0	0	0	0	35	C	1
+GSM2901955	9339657019_G	Early version of manifest, only 47,231 probes	UC39	HC_P	3	31.3	39.3	0	0		0	0	0	0	0	0	0	30	C	1
+GSM2901956	9269325038_B	Early version of manifest, only 47,231 probes	UC48	HC_P	3	25.6	40.6	0	0		0	0	0	0	0	0	0	37	As	2
+GSM2901957	9269325033_H	Early version of manifest, only 47,231 probes	UC50	HC_P	3	27.5	39.1	0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901958	9269325033_C	Early version of manifest, only 47,231 probes	UC51	HC_P	3	27.6	39.2	0	0		0	0	0	0	0	0	0	26	C	2
+GSM2901959	9269325043_J	Early version of manifest, only 47,231 probes	UC54	HC_P	3	28.1	40.4	0	0		0	0	0	0	0	0	0	29	C	3
+GSM2901960	9270006084_D	Early version of manifest, only 47,231 probes	UC55	HC_P	3	26.5	39.4	0	0		0	0	0	0	0	0	0	31	C	3
+GSM2901961	9269325036_G	Early version of manifest, only 47,231 probes	JC12	HC_P	4	35.6	40.3	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901962	9269325036_H	Early version of manifest, only 47,231 probes	JC13	HC_P	4	36.4	39.1	0	0		0	0	0	0	0	0	0	31	AA	4
+GSM2901963	9269325082_J	Early version of manifest, only 47,231 probes	JC14	HC_P	4	36.5	38.5	0	0		0	0	0	0	0	0	0	28	AA	4
+GSM2901964	9269325043_I	Early version of manifest, only 47,231 probes	JC17	HC_P	4	36.6	41.6	0	0		0	0	0	0	0	0	0	20	AA	4
+GSM2901965	9269325030_E	Early version of manifest, only 47,231 probes	JC18	HC_P	4	36.3	39.2	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901966	9269325043_L	Early version of manifest, only 47,231 probes	JC2	HC_P	4	38.1	40.0	0	0		0	0	0	0	0	0	0	30	As	4
+GSM2901967	9270006076_F	Early version of manifest, only 47,231 probes	JC41	HC_P	4	36.5	39.0	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901968	9339657010_J	Early version of manifest, only 47,231 probes	JC42	HC_P	4	36.6	39.4	0	0		0	0	0	0	0	0	0	31	C	1
+GSM2901969	9339657003_L	Early version of manifest, only 47,231 probes	TC113	HC_P	4	35.5	40.2	0	0		0	0	0	0	0	0	0	38	C	3
+GSM2901970	9339657013_B	Early version of manifest, only 47,231 probes	TC120	HC_P	4	36.0	39.2	0	0		0	0	0	0	0	0	0	35	C	3
+GSM2901971	9339657021_J	Early version of manifest, only 47,231 probes	TC121	HC_P	4	37.1	38.0	0	0		0	0	0	0	0	0	0	25	C	4
+GSM2901972	9269325039_F	Early version of manifest, only 47,231 probes	TC122	HC_P	4	37.3	38.2	0	0		0	0	0	0	0	0	0	36	C	3
+GSM2901973	9339657014_B	Early version of manifest, only 47,231 probes	TC124	HC_P	4	34.0	39.3	0	0		0	0	0	0	0	0	0	32	C	3
+GSM2901974	9339657003_I	Early version of manifest, only 47,231 probes	TC125	HC_P	4	33.1	39.1	0	0		0	0	0	0	0	0	0	35	As	4
+GSM2901975	9270006063_C	Early version of manifest, only 47,231 probes	TC127	HC_P	4	38.0	40.1	0	0		0	0	0	0	0	0	0	36	As	4
+GSM2901976	9339657012_D	Early version of manifest, only 47,231 probes	TC128	HC_P	4	39.3	40.6	0	0		0	0	0	0	0	0	0	28	Other	4
+GSM2901977	9339657008_D	Early version of manifest, only 47,231 probes	TC129	HC_P	4	38.2	40.0	0	0		0	0	0	0	0	0	0	35		4
+GSM2901978	9269325039_C	Early version of manifest, only 47,231 probes	TC131	HC_P	4	36.0	39.3	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901979	9339657009_A	Early version of manifest, only 47,231 probes	UC14	HC_P	4	36.5	37.4	0	0		0	0	0	0	0	0	0	29	C	4
+GSM2901980	9269325036_D	Early version of manifest, only 47,231 probes	UC15	HC_P	4	37.2	39.2	0	0		0	0	0	0	0	0	0	26	C	4
+GSM2901981	9269325048_K	Early version of manifest, only 47,231 probes	UC21	HC_P	4	33.4	40.2	0	0		0	0	0	0	0	0	0	33	C	4
+GSM2901982	9269325023_F	Early version of manifest, only 47,231 probes	UC24	HC_P	4	36.3	39.3	0	0		0	0	0	0	0	0	0	32	C	4
+GSM2901983	9339657018_K	Early version of manifest, only 47,231 probes	UC26	HC_P	4	36.6	39.3	0	0		0	0	0	0	0	0	0	34	As	4
+GSM2901984	9269325029_B	Early version of manifest, only 47,231 probes	UC27	HC_P	4	37.3	39.0	0	0		0	0	0	0	0	0	0	38	C	4
+GSM2901985	9339657016_J	Early version of manifest, only 47,231 probes	UC35	HC_P	4	37.6	39.3	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2901986	9269325033_G	Early version of manifest, only 47,231 probes	UC36	HC_P	4	36.1	37.1	0	0		0	0	0	0	0	0	0	31	C	2
+GSM2901987	9339657019_I	Early version of manifest, only 47,231 probes	UC37	HC_P	4	36.3	38.5	0	0		0	0	0	0	0	0	0	33	C	2
+GSM2901988	9269325031_L	Early version of manifest, only 47,231 probes	UC38	HC_P	4	35.4	39.3	0	0		0	0	0	0	0	0	0	35	C	1
+GSM2901989	9269325039_G	Early version of manifest, only 47,231 probes	UC39	HC_P	4	37.5	39.3	0	0		0	0	0	0	0	0	0	30	C	1
+GSM2901990	9269325041_H	Early version of manifest, only 47,231 probes	UC40	HC_P	4	35.6	40.2	0	0		0	0	0	0	0	0	0	29	C	1
+GSM2901991	9339657016_H	Early version of manifest, only 47,231 probes	UC41	HC_P	4	37.2	40.2	0	0		0	0	0	0	0	0	0	24	C	2
+GSM2901992	9269325034_J	Early version of manifest, only 47,231 probes	UC43	HC_P	4	37.0	40.1	0	0		0	0	0	0	0	0	0	28	C	1
+GSM2901993	9339657008_A	Early version of manifest, only 47,231 probes	UC50	HC_P	4	36.1	39.1	0	0		0	0	0	0	0	0	0	33	C	3
+GSM2901994	9269325078_G	Early version of manifest, only 47,231 probes	UC54	HC_P	4	38.1	40.4	0	0		0	0	0	0	0	0	0	29	C	3
+GSM2901995	9339657019_A	Early version of manifest, only 47,231 probes	UC55	HC_P	4	36.5	39.4	0	0		0	0	0	0	0	0	0	31	C	3
+GSM2901996	9269325033_A	Early version of manifest, only 47,231 probes	JC13	HC_P	5		39.1	0	0		0	0	0	0	0	0	0	31	AA	4
+GSM2901997	9269325078_A	Early version of manifest, only 47,231 probes	JC2	HC_P	5		40.0	0	0		0	0	0	0	0	0	0	30	As	4
+GSM2901998	9270006067_D	Early version of manifest, only 47,231 probes	JC41	HC_P	5		39.0	0	0		0	0	0	0	0	0	0	35	C	4
+GSM2901999	9269325033_L	Early version of manifest, only 47,231 probes	TC122	HC_P	5		38.2	0	0		0	0	0	0	0	0	0	36	C	3
+GSM2902000	9270006067_H	Early version of manifest, only 47,231 probes	TC124	HC_P	5		39.3	0	0		0	0	0	0	0	0	0	32	C	3
+GSM2902001	9269325037_L	Early version of manifest, only 47,231 probes	TC128	HC_P	5		40.6	0	0		0	0	0	0	0	0	0	28	Other	4
+GSM2902002	9339657017_A	Early version of manifest, only 47,231 probes	UC15	HC_P	5		39.2	0	0		0	0	0	0	0	0	0	26	C	4
+GSM2902003	9269325067_A	Early version of manifest, only 47,231 probes	UC22	HC_P	5		38.0	0	0		0	0	0	0	0	0	0	30	C	4
+GSM2902004	9270006084_G	Early version of manifest, only 47,231 probes	UC27	HC_P	5		39.0	0	0		0	0	0	0	0	0	0	38	C	4
+GSM2902005	9339657016_C	Early version of manifest, only 47,231 probes	UC35	HC_P	5		39.3	0	0		0	0	0	0	0	0	0	29	C	1
+GSM2902006	9339657014_L	Early version of manifest, only 47,231 probes	UC36	HC_P	5		37.1	0	0		0	0	0	0	0	0	0	31	C	3
+GSM2902007	9269325023_B	Early version of manifest, only 47,231 probes	UC37	HC_P	5		38.5	0	0		0	0	0	0	0	0	0	33	C	1
+GSM2902008	9269325025_J	Early version of manifest, only 47,231 probes	UC38	HC_P	5		39.3	0	0		0	0	0	0	0	0	0	35	C	1
+GSM2902009	9339657014_A	Early version of manifest, only 47,231 probes	UC39	HC_P	5		39.3	0	0		0	0	0	0	0	0	0	30	C	1
+GSM2902010	9339657015_H	Early version of manifest, only 47,231 probes	UC46	HC_P	5		38.2	0	0		0	0	0	0	0	0	0	29	C	2
+GSM2902011	9269325044_J	Early version of manifest, only 47,231 probes	UC51	HC_P	5		39.2	0	0		0	0	0	0	0	0	0	26	C	2
+GSM2902012	9269325067_K	Early version of manifest, only 47,231 probes	UC54	HC_P	5		40.4	0	0		0	0	0	0	0	0	0	29	C	3
+GSM2902013	9269325021_E	Early version of manifest, only 47,231 probes	C-16	SLE_P_OC	1	6.1	38.6	1	0		0	1	0	0	0	1	1	26	AA	4
+GSM2902014	9269325036_K	Early version of manifest, only 47,231 probes	H105	SLE_P_OC	1	14.4	24.0	1	0		0	0	1	0	0	1	1	27	AA	4
+GSM2902015	9269325029_K	Early version of manifest, only 47,231 probes	H39	SLE_P_OC	1	9.4	37.0	1	0		0	1	0	0	0	0	0	23	C	4
+GSM2902016	9269325091_D	Early version of manifest, only 47,231 probes	H49	SLE_P_OC	1	11.1	38.5	1	0		0	0	1	0	0	1	0	26	AA	1
+GSM2902017	9339657020_H	Early version of manifest, only 47,231 probes	J53	SLE_P_OC	1	11.2	37.0	1	0		0	1	0	0	0	0	0	21	AA	4
+GSM2902018	9269325030_L	Early version of manifest, only 47,231 probes	J74	SLE_P_OC	1	13.5	28.2	1	0		0	0	1	0	0	1	1	26		1
+GSM2902019	9269325057_J	Early version of manifest, only 47,231 probes	K23	SLE_P_OC	1	14.3	25.0	1	0		1	1	0	1	1	1	1	23	C	4
+GSM2902020	9269325041_J	Early version of manifest, only 47,231 probes	K40	SLE_P_OC	1	14.6	35.4	1	0		1	1	0	0	0	0	0	31	AA	1
+GSM2902021	9269325078_J	Early version of manifest, only 47,231 probes	N122	SLE_P_OC	1	12.5	32.2	1	0		1	1	0	0	1	0	0	28	C	2
+GSM2902022	9339657015_L	Early version of manifest, only 47,231 probes	N123	SLE_P_OC	1	13.4	36.4	1	0		0	1	0	0	0	0	0	32	As	4
+GSM2902023	9269325091_K	Early version of manifest, only 47,231 probes	N45	SLE_P_OC	1	8.4	36.0	1	0		0	1	0	0	0	1	0	31	As	4
+GSM2902024	9339657009_H	Early version of manifest, only 47,231 probes	N60	SLE_P_OC	1	13.1	21.1	1	0		1	0	0	0	1	1	1	38	C	4
+GSM2902025	9339657016_L	Early version of manifest, only 47,231 probes	T121	SLE_P_OC	1	10.4	25.4	1	0		0	0	1	0	0	1	1	27	C	2
+GSM2902026	9269325097_B	Early version of manifest, only 47,231 probes	T128	SLE_P_OC	1	12.6	35.6	1	0		0	1	0	0	0	0	0	21		4
+GSM2902027	9339657013_J	Early version of manifest, only 47,231 probes	T142	SLE_P_OC	1	12.5	37.5	1	0		0	0	1	0	0	0	0	39	AA	2
+GSM2902028	9271668022_A	Early version of manifest, only 47,231 probes	U26	SLE_P_OC	1	11.6	37.0	1	0		0	1	0	0	0	0	0	26	C	4
+GSM2902029	9339657016_G	Early version of manifest, only 47,231 probes	U30	SLE_P_OC	1	14.3	32.2	1	0		0	0	1	0	0	0	0	29	C	4
+GSM2902030	9339657020_I	Early version of manifest, only 47,231 probes	U43	SLE_P_OC	1	13.4	36.3	1	0		0	1	0	0	0	0	0	32	C	4
+GSM2902031	9270006096_G	Early version of manifest, only 47,231 probes	H105	SLE_P_OC	2	21.0	24.0	1	0		0	0	1	0	0	1	1	27	AA	4
+GSM2902032	9270006058_K	Early version of manifest, only 47,231 probes	H39	SLE_P_OC	2	19.1	37.0	1	0		0	1	0	0	0	0	0	23	C	4
+GSM2902033	9271668022_C	Early version of manifest, only 47,231 probes	H49	SLE_P_OC	2	18.0	38.5	1	0		0	0	1	0	0	1	0	26	AA	1
+GSM2902034	9269325025_F	Early version of manifest, only 47,231 probes	J53	SLE_P_OC	2	18.5	37.0	1	0		0	1	0	0	0	0	0	21	AA	4
+GSM2902035	9269325061_I	Early version of manifest, only 47,231 probes	J74	SLE_P_OC	2	18.5	28.2	1	0		0	0	1	0	0	1	1	26		2
+GSM2902036	9269325082_F	Early version of manifest, only 47,231 probes	K23	SLE_P_OC	2	20.0	25.0	1	0		1	1	0	1	1	1	1	23	C	4
+GSM2902037	9339657010_L	Early version of manifest, only 47,231 probes	K40	SLE_P_OC	2	20.6	35.4	1	0		1	1	0	0	0	0	0	31	AA	1
+GSM2902038	9269325043_H	Early version of manifest, only 47,231 probes	N122	SLE_P_OC	2	22.0	32.2	1	0		1	1	0	0	1	0	0	28	C	2
+GSM2902039	9339657017_I	Early version of manifest, only 47,231 probes	N45	SLE_P_OC	2	21.1	36.0	1	0		0	1	0	0	0	1	0	31	As	4
+GSM2902040	9269325031_A	Early version of manifest, only 47,231 probes	N60	SLE_P_OC	2	20.2	21.1	1	0		1	0	0	0	1	1	1	38	C	4
+GSM2902041	9271668022_J	Early version of manifest, only 47,231 probes	N95	SLE_P_OC	2	19.0	23.0	1	0		0	0	1	0	0	0	0	31	C	4
+GSM2902042	9339657012_K	Early version of manifest, only 47,231 probes	T128	SLE_P_OC	2	21.0	35.6	1	0		0	1	0	0	0	0	0	21		4
+GSM2902043	9269325029_C	Early version of manifest, only 47,231 probes	T131	SLE_P_OC	2	19.1	35.5	1	0		0	1	0	0	0	0	0	22	AA	4
+GSM2902044	9269325037_F	Early version of manifest, only 47,231 probes	T139	SLE_P_OC	2	16.0	23.0	1	0		1	0	1	0	0	0	0	33	C	4
+GSM2902045	9271668036_K	Early version of manifest, only 47,231 probes	T142	SLE_P_OC	2	20.0	37.5	1	0		0	0	1	0	0	0	0	39	AA	2
+GSM2902046	9269325048_A	Early version of manifest, only 47,231 probes	U26	SLE_P_OC	2	20.2	37.0	1	0		0	1	0	0	0	0	0	26	C	4
+GSM2902047	9270006084_E	Early version of manifest, only 47,231 probes	U30	SLE_P_OC	2	20.3	32.2	1	0		0	0	1	0	0	0	0	29	C	4
+GSM2902048	9339657020_F	Early version of manifest, only 47,231 probes	U43	SLE_P_OC	2	20.4	36.3	1	0		0	1	0	0	0	0	0	32	C	4
+GSM2902049	9269325035_B	Early version of manifest, only 47,231 probes	C-16	SLE_P_OC	3	24.2	38.6	1	0		0	1	0	0	0	1	1	26	AA	2
+GSM2902050	9269325039_I	Early version of manifest, only 47,231 probes	H49	SLE_P_OC	3	28.0	38.5	1	0		0	0	1	0	0	1	0	26	AA	1
+GSM2902051	9269325067_E	Early version of manifest, only 47,231 probes	K40	SLE_P_OC	3	24.6	35.4	1	0		1	1	0	0	0	0	0	31	AA	1
+GSM2902052	9269325030_A	Early version of manifest, only 47,231 probes	N122	SLE_P_OC	3	28.1	32.2	1	0		1	1	0	0	1	0	0	28	C	4
+GSM2902053	9269325031_D	Early version of manifest, only 47,231 probes	N123	SLE_P_OC	3	30.5	36.4	1	0		0	1	0	0	0	0	0	32	As	4
+GSM2902054	9271668036_B	Early version of manifest, only 47,231 probes	N45	SLE_P_OC	3	25.2	36.0	1	0		0	1	0	0	0	1	0	31	As	4
+GSM2902055	9269325021_A	Early version of manifest, only 47,231 probes	T121	SLE_P_OC	3	24.4	25.4	1	0		0	0	1	0	0	1	1	27	C	2
+GSM2902056	9269325091_L	Early version of manifest, only 47,231 probes	T131	SLE_P_OC	3	27.1	35.5	1	0		0	1	0	0	0	0	0	22	AA	4
+GSM2902057	9339657015_E	Early version of manifest, only 47,231 probes	U26	SLE_P_OC	3	30.0	37.0	1	0		0	1	0	0	0	0	0	26	C	4
+GSM2902058	9339657018_L	Early version of manifest, only 47,231 probes	U30	SLE_P_OC	3	27.0	32.2	1	0		0	0	1	0	0	0	0	29	C	4
+GSM2902059	9269325034_L	Early version of manifest, only 47,231 probes	U43	SLE_P_OC	3	27.6	36.3	1	0		0	1	0	0	0	0	0	32	C	4
+GSM2902060	9339657017_K	Early version of manifest, only 47,231 probes	C-16	SLE_P_OC	4	36.5	38.6	1	0		0	1	0	0	0	1	1	26	AA	4
+GSM2902061	9269325021_L	Early version of manifest, only 47,231 probes	H39	SLE_P_OC	4	36.3	37.0	1	0		0	1	0	0	0	0	0	23	C	4
+GSM2902062	9270006063_G	Early version of manifest, only 47,231 probes	H49	SLE_P_OC	4	36.6	38.5	1	0		0	0	1	0	0	0	0	29	As	4
+GSM2902063	9269325044_G	Early version of manifest, only 47,231 probes	T131	SLE_P_OC	4	35.1	35.5	1	0		0	1	0	0	0	0	0	22	AA	4
+GSM2902064	9269325057_C	Early version of manifest, only 47,231 probes	T142	SLE_P_OC	4	33.5	37.5	1	0		0	0	1	0	0	0	0	39	AA	4
+GSM2902065	9270006076_A	Early version of manifest, only 47,231 probes	U26	SLE_P_OC	4	35.6	37.0	1	0		0	1	0	0	0	0	0	26	C	4
+GSM2902066	9339657016_I	Early version of manifest, only 47,231 probes	H39	SLE_P_OC	5		37.0	1	0		0	1	0	0	0	0	0	23	C	4
+GSM2902067	9269325061_K	Early version of manifest, only 47,231 probes	N122	SLE_P_OC	5		32.2	1	0		1	1	0	0	1	0	0	28	C	2
+GSM2902068	9269325061_B	Early version of manifest, only 47,231 probes	N123	SLE_P_OC	5		36.4	1	0		0	1	0	0	0	0	0	32	As	4
+GSM2902069	9339657017_F	Early version of manifest, only 47,231 probes	N45	SLE_P_OC	5		36.0	1	0		0	1	0	0	0	1	0	31	As	4
+GSM2902070	9269325061_A	Early version of manifest, only 47,231 probes	T121	SLE_P_OC	5		25.4	1	0		0	0	1	0	0	1	1	27	C	2
+GSM2902071	9269325048_F	Early version of manifest, only 47,231 probes	T75	SLE_P_OC	5		18.2	1	0		0	0	1	0	0	0	0	28	AA	4
+GSM2902072	9269325091_H	Early version of manifest, only 47,231 probes	U26	SLE_P_OC	5		37.0	1	0		0	1	0	0	0	0	0	26	C	4
+GSM2902073	9269325029_J	Early version of manifest, only 47,231 probes	U30	SLE_P_OC	5		32.2	1	0		0	0	1	0	0	0	0	29	C	4
+GSM2902074	9269325078_B	Early version of manifest, only 47,231 probes	A1	SLE_P_PE	1	11.6	28.2	1	1	Before	0	0	0	0	0	0	0	38	AA	2
+GSM2902075	9339657009_E	Early version of manifest, only 47,231 probes	H26	SLE_P_PE	1	13.6	31.6	1	1	Before	0	0	0	0	0	0	0	33	Other	4
+GSM2902076	9339657009_B	Early version of manifest, only 47,231 probes	H44	SLE_P_PE	1	13.0	26.6	1	1	Before	1	0	0	1	0	0	0	29	C	4
+GSM2902077	9269325039_B	Early version of manifest, only 47,231 probes	H59	SLE_P_PE	1	7.3	26.4	1	1	Before	0	0	0	0	0	1	1	30	C	4
+GSM2902078	9269325035_H	Early version of manifest, only 47,231 probes	H76	SLE_P_PE	1	14.6	35.3	1	1	Before	0	0	0	0	0	1	1	30		2
+GSM2902079	9269325043_E	Early version of manifest, only 47,231 probes	K44	SLE_P_PE	1	10.5	35.0	1	1	Before	0	0	0	0	0	0	0	29	C	2
+GSM2902080	9269325023_D	Early version of manifest, only 47,231 probes	N100	SLE_P_PE	1	6.3	37.4	1	1	After	0	0	0	0	0	0	0	25		2
+GSM2902081	9339657010_I	Early version of manifest, only 47,231 probes	N137	SLE_P_PE	1	10.6	34.6	1	1	Before	0	0	0	0	0	0	0	25	AA	4
+GSM2902082	9270006063_J	Early version of manifest, only 47,231 probes	N46	SLE_P_PE	1	8.4	33.5	1	1	Before	0	0	0	0	0	0	0	30	AA	4
+GSM2902083	9339657018_A	Early version of manifest, only 47,231 probes	N53	SLE_P_PE	1	15.4	36.5	1	1	After	0	1	0	0	0	1	1	31	C	4
+GSM2902084	9339657008_J	Early version of manifest, only 47,231 probes	N78	SLE_P_PE	1	8.4	27.2	1	1	Before	0	0	0	0	0	0	0	32		2
+GSM2902085	9270006058_A	Early version of manifest, only 47,231 probes	N85	SLE_P_PE	1	12.5	32.3	1	1	Before	1	1	0	0	0	0	0	38	C	1
+GSM2902086	9339657002_C	Early version of manifest, only 47,231 probes	N90	SLE_P_PE	1	10.4	30.1	1	1	Before	0	0	0	0	0	0	0	36		1
+GSM2902087	9339657020_E	Early version of manifest, only 47,231 probes	T112	SLE_P_PE	1	12.6	26.1	1	1	Before	0	0	0	0	0	0	0	31	C	1
+GSM2902088	9339657006_F	Early version of manifest, only 47,231 probes	T149B	SLE_P_PE	1	12.4	23.6	1	1	Before	0	0	0	1	0	0	0	37	C	4
+GSM2902089	9339657013_K	Early version of manifest, only 47,231 probes	T60	SLE_P_PE	1	8.5	33.6	1	1	Before	0	0	0	0	0	0	0	32	As	4
+GSM2902090	9339657013_L	Early version of manifest, only 47,231 probes	U17	SLE_P_PE	1	14.4	36.3	1	1	After	0	0	0	0	0	0	0	27	C	4
+GSM2902091	9269325057_H	Early version of manifest, only 47,231 probes	U22	SLE_P_PE	1	13.0	22.2	1	1	Before	0	0	0	0	0	0	0	35	C	4
+GSM2902092	9339657013_I	Early version of manifest, only 47,231 probes	U42	SLE_P_PE	1	13.5	31.1	1	1	Before	0	0	0	0	0	0	0	30	C	4
+GSM2902093	9271668036_I	Early version of manifest, only 47,231 probes	U57B	SLE_P_PE	1	13.5	33.5	1	1	Before	0	0	0	0	0	1	1	26	C	4
+GSM2902094	9271668022_F	Early version of manifest, only 47,231 probes	U91	SLE_P_PE	1	12.0	20.3	1	1	Before	0	0	1	0	0	1	1	22	Other	4
+GSM2902095	9269325035_D	Early version of manifest, only 47,231 probes	A1	SLE_P_PE	2	22.6	28.2	1	1	Before	0	0	0	0	0	0	0	38	AA	2
+GSM2902096	9270006058_D	Early version of manifest, only 47,231 probes	H26	SLE_P_PE	2	19.2	31.6	1	1	Before	0	0	0	0	0	0	0	33	Other	4
+GSM2902097	9269325023_K	Early version of manifest, only 47,231 probes	H42	SLE_P_PE	2	20.0	29.1	1	1	Before	0	0	0	0	0	1	1	31	C	2
+GSM2902098	9271668036_A	Early version of manifest, only 47,231 probes	H44	SLE_P_PE	2	20.0	26.6	1	1	Before	1	0	0	1	0	0	0	29	C	2
+GSM2902099	9269325041_A	Early version of manifest, only 47,231 probes	H51	SLE_P_PE	2	19.0	36.6	1	1	After	0	1	0	0	0	0	0	38	AA	1
+GSM2902100	9270006063_I	Early version of manifest, only 47,231 probes	N100	SLE_P_PE	2	21.3	37.4	1	1	After	0	0	0	0	0	0	0	25		2
+GSM2902101	9339657014_I	Early version of manifest, only 47,231 probes	N137	SLE_P_PE	2	22.0	34.6	1	1	Before	0	0	0	0	0	0	0	25	AA	4
+GSM2902102	9269325061_F	Early version of manifest, only 47,231 probes	N53	SLE_P_PE	2	22.5	36.5	1	1	After	0	1	0	0	0	1	1	31	C	4
+GSM2902103	9339657002_H	Early version of manifest, only 47,231 probes	N78	SLE_P_PE	2	21.1	27.2	1	1	Before	0	0	0	0	0	0	0	32		1
+GSM2902104	9270006076_H	Early version of manifest, only 47,231 probes	N85	SLE_P_PE	2	22.0	32.3	1	1	Before	1	1	0	0	0	0	0	38	C	1
+GSM2902105	9339657008_E	Early version of manifest, only 47,231 probes	N90	SLE_P_PE	2	18.3	30.1	1	1	Before	0	0	0	0	0	0	0	36		1
+GSM2902106	9339657020_K	Early version of manifest, only 47,231 probes	T112	SLE_P_PE	2	21.4	26.1	1	1	Before	0	0	0	0	0	0	0	31	C	1
+GSM2902107	9339657014_D	Early version of manifest, only 47,231 probes	T149B	SLE_P_PE	2	16.4	23.6	1	1	Before	0	0	0	1	0	0	0	37	C	4
+GSM2902108	9269325038_A	Early version of manifest, only 47,231 probes	T60	SLE_P_PE	2	17.6	33.6	1	1	Before	0	0	0	0	0	0	0	32	As	4
+GSM2902109	9270006076_L	Early version of manifest, only 47,231 probes	U17	SLE_P_PE	2	19.0	36.3	1	1	After	0	0	0	0	0	0	0	27	C	4
+GSM2902110	9269325034_B	Early version of manifest, only 47,231 probes	U22	SLE_P_PE	2	21.4	22.2	1	1	Before	0	0	0	0	0	0	0	35	C	4
+GSM2902111	9269325033_D	Early version of manifest, only 47,231 probes	U42	SLE_P_PE	2	19.5	31.1	1	1	Before	0	0	0	0	0	0	0	30	C	4
+GSM2902112	9339657008_K	Early version of manifest, only 47,231 probes	U57B	SLE_P_PE	2	21.5	33.5	1	1	Before	0	0	0	0	0	1	1	26	C	4
+GSM2902113	9269325048_E	Early version of manifest, only 47,231 probes	H26	SLE_P_PE	3	26.2	31.6	1	1	Before	0	0	0	0	0	0	0	33	Other	4
+GSM2902114	9339657012_H	Early version of manifest, only 47,231 probes	H42	SLE_P_PE	3	28.4	29.1	1	1	Before	0	0	0	0	0	1	1	31	C	1
+GSM2902115	9269325097_L	Early version of manifest, only 47,231 probes	H51	SLE_P_PE	3	29.4	36.6	1	1	After	0	1	0	0	0	0	0	38	AA	1
+GSM2902116	9269325034_D	Early version of manifest, only 47,231 probes	H76	SLE_P_PE	3	26.4	35.3	1	1	Before	0	0	0	0	0	1	1	30		2
+GSM2902117	9339657015_A	Early version of manifest, only 47,231 probes	K44	SLE_P_PE	3	29.0	35.0	1	1	Before	0	0	0	0	0	0	0	29	C	2
+GSM2902118	9269325037_A	Early version of manifest, only 47,231 probes	N137	SLE_P_PE	3	29.6	34.6	1	1	Before	0	0	0	0	0	0	0	25	AA	4
+GSM2902119	9270006067_C	Early version of manifest, only 47,231 probes	N53	SLE_P_PE	3	29.4	36.5	1	1	After	0	1	0	0	0	1	1	31	C	4
+GSM2902120	9269325043_F	Early version of manifest, only 47,231 probes	N78	SLE_P_PE	3	25.3	27.2	1	1	Before	0	0	0	0	0	0	0	32		2
+GSM2902121	9269325021_K	Early version of manifest, only 47,231 probes	N85	SLE_P_PE	3	27.0	32.3	1	1	Before	1	1	0	0	0	0	0	38	C	1
+GSM2902122	9339657015_I	Early version of manifest, only 47,231 probes	N90	SLE_P_PE	3	27.3	30.1	1	1	Before	0	0	0	0	0	0	0	36		1
+GSM2902123	9269325037_B	Early version of manifest, only 47,231 probes	T60	SLE_P_PE	3	30.6	33.6	1	1	Before	0	0	0	0	0	0	0	32	As	4
+GSM2902124	9269325025_L	Early version of manifest, only 47,231 probes	T73	SLE_P_PE	3	26.2	32.6	1	1	Before	0	0	0	0	0	0	0	36	C	4
+GSM2902125	9339657020_B	Early version of manifest, only 47,231 probes	U17	SLE_P_PE	3	27.3	36.3	1	1	After	0	0	0	0	0	0	0	27	C	4
+GSM2902126	9269325030_B	Early version of manifest, only 47,231 probes	U42	SLE_P_PE	3	30.5	31.1	1	1	Before	0	0	0	0	0	0	0	30	C	4
+GSM2902127	9269325033_B	Early version of manifest, only 47,231 probes	U57B	SLE_P_PE	3	25.5	33.5	1	1	Before	0	0	0	0	0	1	1	26	C	4
+GSM2902128	9269325025_H	Early version of manifest, only 47,231 probes	H51	SLE_P_PE	4	36.0	36.6	1	1	After	0	1	0	0	0	0	0	38	AA	4
+GSM2902129	9270006063_B	Early version of manifest, only 47,231 probes	H76	SLE_P_PE	4	34.4	35.3	1	1	Before	0	0	0	0	0	1	1	30		4
+GSM2902130	9270006063_E	Early version of manifest, only 47,231 probes	K44	SLE_P_PE	4	32.5	35.0	1	1	Before	0	0	0	0	0	0	0	29	C	4
+GSM2902131	9339657014_F	Early version of manifest, only 47,231 probes	N100	SLE_P_PE	4	32.6	37.4	1	1	After	0	0	0	0	0	0	0	25		4
+GSM2902132	9339657009_J	Early version of manifest, only 47,231 probes	N53	SLE_P_PE	4	34.2	36.5	1	1	After	0	1	0	0	0	1	1	31	C	4
+GSM2902133	9270006084_F	Early version of manifest, only 47,231 probes	U17	SLE_P_PE	4	36.3	36.3	1	1	After	0	0	0	0	0	0	0	27	C	4
+GSM2902134	9270006058_L	Early version of manifest, only 47,231 probes	U57B	SLE_P_PE	4	32.5	33.5	1	1	Before	0	0	0	0	0	1	1	26	C	4
+GSM2902135	9339657019_K	Early version of manifest, only 47,231 probes	H26	SLE_P_PE	5		31.6	1	1	Before	0	0	0	0	0	0	0	33	Other	4
+GSM2902136	9339657016_A	Early version of manifest, only 47,231 probes	N100	SLE_P_PE	5		37.4	1	1	After	0	0	0	0	0	0	0	25		2
+GSM2902137	9270006084_C	Early version of manifest, only 47,231 probes	N46	SLE_P_PE	5		33.5	1	1	Before	0	0	0	0	0	0	0	30	AA	4
+GSM2902138	9269325033_K	Early version of manifest, only 47,231 probes	N53	SLE_P_PE	5		36.5	1	1	After	0	1	0	0	0	1	1	31	C	4
+GSM2902139	9269325031_J	Early version of manifest, only 47,231 probes	T112	SLE_P_PE	5		26.1	1	1	Before	0	0	0	0	0	0	0	31	C	2
+GSM2902140	9339657002_K	Early version of manifest, only 47,231 probes	T73	SLE_P_PE	5		32.6	1	1	Before	0	0	0	0	0	0	0	36	C	4
+GSM2902141	9339657013_E	Early version of manifest, only 47,231 probes	U22	SLE_P_PE	5		22.2	1	1	Before	0	0	0	0	0	0	0	35	C	4
+GSM2902142	9339657010_A	Early version of manifest, only 47,231 probes	U57B	SLE_P_PE	5		33.5	1	1	Before	0	0	0	0	0	1	1	26	C	4
+GSM2902143	9339657021_B	Early version of manifest, only 47,231 probes	C-19	SLE_P_NC	1	9.6	39.5	1	0		0	0	0	0	0	0	0	38	C	4
+GSM2902144	9269325067_G	Early version of manifest, only 47,231 probes	C-23	SLE_P_NC	1	11.6	39.0	1	0		0	0	0	0	0	0	0	25	AA	4
+GSM2902145	9269325021_D	Early version of manifest, only 47,231 probes	C-26	SLE_P_NC	1	11.6	36.4	1	0		0	0	0	0	0	0	0	27	AA	4
+GSM2902146	9269325082_H	Early version of manifest, only 47,231 probes	H116	SLE_P_NC	1	11.1	37.5	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902147	9339657006_H	Early version of manifest, only 47,231 probes	H46	SLE_P_NC	1	12.0	38.2	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902148	9339657008_H	Early version of manifest, only 47,231 probes	H48	SLE_P_NC	1	13.1	39.1	1	0		0	0	0	0	0	0	0	32		4
+GSM2902149	9269325031_G	Early version of manifest, only 47,231 probes	H50	SLE_P_NC	1	11.2	40.3	1	0		0	0	0	0	0	0	0	33	C	4
+GSM2902150	9339657021_C	Early version of manifest, only 47,231 probes	H62	SLE_P_NC	1	11.1	40.1	1	0		0	0	0	0	0	1	0	29	C	1
+GSM2902151	9339657017_C	Early version of manifest, only 47,231 probes	H69	SLE_P_NC	1	13.2	40.1	1	0		0	0	0	0	0	1	0	28	C	4
+GSM2902152	9269325078_L	Early version of manifest, only 47,231 probes	H73	SLE_P_NC	1	9.4	37.6	1	0		0	0	0	0	0	0	0	34	C	1
+GSM2902153	9269325097_C	Early version of manifest, only 47,231 probes	H87	SLE_P_NC	1	14.3	39.1	1	0		0	0	0	0	0	0	0	21	C	4
+GSM2902154	9269325039_J	Early version of manifest, only 47,231 probes	J129	SLE_P_NC	1	11.1	39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902155	9339657006_I	Early version of manifest, only 47,231 probes	J22	SLE_P_NC	1	12.3	38.2	1	0		0	0	0	0	0	1	0	29	C	4
+GSM2902156	9339657020_J	Early version of manifest, only 47,231 probes	J28	SLE_P_NC	1	9.6	39.3	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902157	9270006067_G	Early version of manifest, only 47,231 probes	J39	SLE_P_NC	1	10.6	39.0	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902158	9271668022_I	Early version of manifest, only 47,231 probes	J43	SLE_P_NC	1	12.0	39.1	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902159	9339657017_D	Early version of manifest, only 47,231 probes	J70	SLE_P_NC	1	8.5	37.0	1	0		0	0	0	0	0	1	1	27		1
+GSM2902160	9269325037_C	Early version of manifest, only 47,231 probes	K37	SLE_P_NC	1	9.4	39.3	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902161	9339657021_I	Early version of manifest, only 47,231 probes	K47	SLE_P_NC	1	11.6	39.6	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902162	9339657012_L	Early version of manifest, only 47,231 probes	N102	SLE_P_NC	1	8.4	39.6	1	0		0	0	0	0	0	0	0	41	C	4
+GSM2902163	9339657021_G	Early version of manifest, only 47,231 probes	N107	SLE_P_NC	1	9.3	38.2	1	0		0	0	0	0	0	0	0	38	AA	2
+GSM2902164	9339657014_H	Early version of manifest, only 47,231 probes	N126	SLE_P_NC	1	12.1	38.6	1	0		0	0	0	0	0	0	0	31	C	4
+GSM2902165	9339657008_G	Early version of manifest, only 47,231 probes	N39	SLE_P_NC	1	11.4	39.1	1	0		0	0	0	0	0	0	0	25	C	4
+GSM2902166	9269325035_C	Early version of manifest, only 47,231 probes	N62	SLE_P_NC	1	9.4	37.0	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902167	9269325030_K	Early version of manifest, only 47,231 probes	N67	SLE_P_NC	1	10.1	39.0	1	0		0	0	0	0	0	0	0	31	As	4
+GSM2902168	9269325039_E	Early version of manifest, only 47,231 probes	N69	SLE_P_NC	1	11.1	39.2	1	0		0	0	0	0	0	0	0	34	C	1
+GSM2902169	9269325034_A	Early version of manifest, only 47,231 probes	N82	SLE_P_NC	1	9.0	40.5	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902170	9339657021_K	Early version of manifest, only 47,231 probes	N83	SLE_P_NC	1	9.4	37.4	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902171	9339657014_E	Early version of manifest, only 47,231 probes	N86	SLE_P_NC	1	11.2	39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902172	9339657002_E	Early version of manifest, only 47,231 probes	N98	SLE_P_NC	1	11.6	39.0	1	0		0	0	0	0	0	0	0	34	C	2
+GSM2902173	9339657018_B	Early version of manifest, only 47,231 probes	N99	SLE_P_NC	1	12.3	39.5	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902174	9269325043_B	Early version of manifest, only 47,231 probes	T127	SLE_P_NC	1	9.1	39.3	1	0		0	0	0	0	0	0	0	38	As	4
+GSM2902175	9270006058_F	Early version of manifest, only 47,231 probes	T132	SLE_P_NC	1	15.4	37.5	1	0		0	0	0	0	0	1	1	30		4
+GSM2902176	9339657003_H	Early version of manifest, only 47,231 probes	T140	SLE_P_NC	1	9.6	39.3	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902177	9269325082_E	Early version of manifest, only 47,231 probes	T141	SLE_P_NC	1	15.2	38.5	1	0		0	0	0	0	0	1	1	30	As	4
+GSM2902178	9270006076_B	Early version of manifest, only 47,231 probes	T143	SLE_P_NC	1	10.1	38.4	1	0		0	0	0	0	0	0	0	34	As	4
+GSM2902179	9339657003_J	Early version of manifest, only 47,231 probes	T151	SLE_P_NC	1	8.4	39.2	1	0		0	0	0	0	0	0	0	33	As	4
+GSM2902180	9269325034_I	Early version of manifest, only 47,231 probes	T82	SLE_P_NC	1	12.2	38.0	1	0		0	0	0	0	0	0	0	37	C	4
+GSM2902181	9269325035_K	Early version of manifest, only 47,231 probes	T87	SLE_P_NC	1	13.5	40.1	1	0		0	0	0	0	0	0	0	35	AA	1
+GSM2902182	9339657013_H	Early version of manifest, only 47,231 probes	U28	SLE_P_NC	1	14.3	40.1	1	0		0	0	0	0	0	0	0	37	H	4
+GSM2902183	9269325082_B	Early version of manifest, only 47,231 probes	U53	SLE_P_NC	1	10.4	34.3	1	0		0	0	0	0	0	0	0	21	C	1
+GSM2902184	9269325033_F	Early version of manifest, only 47,231 probes	U58	SLE_P_NC	1	10.2	39.0	1	0		0	0	0	0	0	0	0	27	H	1
+GSM2902185	9269325067_B	Early version of manifest, only 47,231 probes	U68	SLE_P_NC	1	13.6	37.6	1	0		0	0	0	0	0	1	1	28	C	4
+GSM2902186	9269325025_B	Early version of manifest, only 47,231 probes	U70	SLE_P_NC	1	11.3	38.3	1	0		0	0	0	0	0	0	0	26	C	4
+GSM2902187	9269325038_L	Early version of manifest, only 47,231 probes	U78	SLE_P_NC	1	10.2	38.2	1	0		0	0	0	0	0	1	0	30	C	4
+GSM2902188	9271668022_K	Early version of manifest, only 47,231 probes	C-19	SLE_P_NC	2	21.3	39.5	1	0		0	0	0	0	0	0	0	38	C	4
+GSM2902189	9339657009_I	Early version of manifest, only 47,231 probes	C-23	SLE_P_NC	2	17.3	39.0	1	0		0	0	0	0	0	0	0	25	AA	4
+GSM2902190	9269325091_C	Early version of manifest, only 47,231 probes	H107	SLE_P_NC	2	23.4	37.6	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902191	9269325029_E	Early version of manifest, only 47,231 probes	H116	SLE_P_NC	2	20.1	37.5	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902192	9269325033_E	Early version of manifest, only 47,231 probes	H46	SLE_P_NC	2	18.5	38.2	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902193	9270006096_J	Early version of manifest, only 47,231 probes	H48	SLE_P_NC	2	21.0	39.1	1	0		0	0	0	0	0	0	0	32		4
+GSM2902194	9339657009_K	Early version of manifest, only 47,231 probes	H50	SLE_P_NC	2	20.5	40.3	1	0		0	0	0	0	0	0	0	33	C	4
+GSM2902195	9269325067_I	Early version of manifest, only 47,231 probes	H62	SLE_P_NC	2	21.5	40.1	1	0		0	0	0	0	0	1	0	29	C	1
+GSM2902196	9339657019_D	Early version of manifest, only 47,231 probes	H69	SLE_P_NC	2	19.5	40.1	1	0		0	0	0	0	0	1	0	28	C	4
+GSM2902197	9270006067_J	Early version of manifest, only 47,231 probes	J129	SLE_P_NC	2	19.5	39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902198	9270006063_L	Early version of manifest, only 47,231 probes	J22	SLE_P_NC	2	20.0	38.2	1	0		0	0	0	0	0	1	0	29	C	4
+GSM2902199	9270006058_G	Early version of manifest, only 47,231 probes	J28	SLE_P_NC	2	17.6	39.3	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902200	9269325044_E	Early version of manifest, only 47,231 probes	J39	SLE_P_NC	2	22.6	39.0	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902201	9339657020_D	Early version of manifest, only 47,231 probes	J43	SLE_P_NC	2	22.0	39.1	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902202	9269325039_D	Early version of manifest, only 47,231 probes	J70	SLE_P_NC	2	20.0	37.0	1	0		0	0	0	0	0	1	1	27		1
+GSM2902203	9339657021_F	Early version of manifest, only 47,231 probes	K37	SLE_P_NC	2	17.5	39.3	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902204	9269325021_C	Early version of manifest, only 47,231 probes	K47	SLE_P_NC	2	20.3	39.6	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902205	9339657002_A	Early version of manifest, only 47,231 probes	N102	SLE_P_NC	2	20.5	39.6	1	0		0	0	0	0	0	0	0	41	C	4
+GSM2902206	9339657012_B	Early version of manifest, only 47,231 probes	N39	SLE_P_NC	2	18.2	39.1	1	0		0	0	0	0	0	0	0	25	C	4
+GSM2902207	9339657012_A	Early version of manifest, only 47,231 probes	N62	SLE_P_NC	2	18.2	37.0	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902208	9339657002_G	Early version of manifest, only 47,231 probes	N67	SLE_P_NC	2	17.1	39.0	1	0		0	0	0	0	0	0	0	31	As	4
+GSM2902209	9339657019_C	Early version of manifest, only 47,231 probes	N69	SLE_P_NC	2	21.1	39.2	1	0		0	0	0	0	0	0	0	34	C	1
+GSM2902210	9270006063_D	Early version of manifest, only 47,231 probes	N82	SLE_P_NC	2	17.3	40.5	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902211	9269325021_G	Early version of manifest, only 47,231 probes	N83	SLE_P_NC	2	22.5	37.4	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902212	9339657006_L	Early version of manifest, only 47,231 probes	N86	SLE_P_NC	2	22.3	39.0	1	0		0	0	0	0	0	0	0	43	C	1
+GSM2902213	9339657008_C	Early version of manifest, only 47,231 probes	N99	SLE_P_NC	2	20.4	39.5	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902214	9269325091_J	Early version of manifest, only 47,231 probes	T127	SLE_P_NC	2	21.0	39.3	1	0		0	0	0	0	0	0	0	38	As	4
+GSM2902215	9339657003_F	Early version of manifest, only 47,231 probes	T132	SLE_P_NC	2	19.4	37.5	1	0		0	0	0	0	0	1	1	30		4
+GSM2902216	9269325030_H	Early version of manifest, only 47,231 probes	T140	SLE_P_NC	2	18.0	39.3	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902217	9269325038_F	Early version of manifest, only 47,231 probes	T141	SLE_P_NC	2	20.2	38.5	1	0		0	0	0	0	0	1	1	30	As	4
+GSM2902218	9339657021_D	Early version of manifest, only 47,231 probes	T143	SLE_P_NC	2	20.0	38.4	1	0		0	0	0	0	0	0	0	34	As	4
+GSM2902219	9269325097_A	Early version of manifest, only 47,231 probes	T151	SLE_P_NC	2	17.2	39.2	1	0		0	0	0	0	0	0	0	33	As	4
+GSM2902220	9269325021_J	Early version of manifest, only 47,231 probes	T82	SLE_P_NC	2	16.2	38.0	1	0		0	0	0	0	0	0	0	37	C	4
+GSM2902221	9339657006_B	Early version of manifest, only 47,231 probes	T87	SLE_P_NC	2	20.4	40.1	1	0		0	0	0	0	0	0	0	35	AA	1
+GSM2902222	9339657012_G	Early version of manifest, only 47,231 probes	U28	SLE_P_NC	2	21.3	40.1	1	0		0	0	0	0	0	0	0	37	H	4
+GSM2902223	9269325023_E	Early version of manifest, only 47,231 probes	U53	SLE_P_NC	2	17.0	34.3	1	0		0	0	0	0	0	0	0	21	C	1
+GSM2902224	9270006076_E	Early version of manifest, only 47,231 probes	U58	SLE_P_NC	2	19.0	39.0	1	0		0	0	0	0	0	0	0	27	H	1
+GSM2902225	9270006084_J	Early version of manifest, only 47,231 probes	U70	SLE_P_NC	2	22.3	38.3	1	0		0	0	0	0	0	0	0	26	C	4
+GSM2902226	9339657002_D	Early version of manifest, only 47,231 probes	U78	SLE_P_NC	2	19.2	38.2	1	0		0	0	0	0	0	1	0	30	C	4
+GSM2902227	9269325041_I	Early version of manifest, only 47,231 probes	C-19	SLE_P_NC	3	27.4	39.5	1	0		0	0	0	0	0	0	0	38	C	4
+GSM2902228	9270006076_I	Early version of manifest, only 47,231 probes	C-23	SLE_P_NC	3	30.4	39.0	1	0		0	0	0	0	0	0	0	25	AA	4
+GSM2902229	9270006058_E	Early version of manifest, only 47,231 probes	C-26	SLE_P_NC	3	25.6	36.4	1	0		0	0	0	0	0	0	0	27	AA	4
+GSM2902230	9269325023_J	Early version of manifest, only 47,231 probes	H107	SLE_P_NC	3	26.4	37.6	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902231	9269325041_B	Early version of manifest, only 47,231 probes	H116	SLE_P_NC	3	28.1	37.5	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902232	9269325039_K	Early version of manifest, only 47,231 probes	H46	SLE_P_NC	3	26.6	38.2	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902233	9269325037_J	Early version of manifest, only 47,231 probes	H48	SLE_P_NC	3	25.0	39.1	1	0		0	0	0	0	0	0	0	32		4
+GSM2902234	9269325091_B	Early version of manifest, only 47,231 probes	H50	SLE_P_NC	3	29.2	40.3	1	0		0	0	0	0	0	0	0	33	C	4
+GSM2902235	9339657020_G	Early version of manifest, only 47,231 probes	H62	SLE_P_NC	3	31.2	40.1	1	0		0	0	0	0	0	1	0	29	C	2
+GSM2902236	9339657016_F	Early version of manifest, only 47,231 probes	H69	SLE_P_NC	3	27.6	40.1	1	0		0	0	0	0	0	1	0	28	C	4
+GSM2902237	9269325037_D	Early version of manifest, only 47,231 probes	H73	SLE_P_NC	3	26.3	37.6	1	0		0	0	0	0	0	0	0	34	C	2
+GSM2902238	9269325023_C	Early version of manifest, only 47,231 probes	H87	SLE_P_NC	3	26.3	39.1	1	0		0	0	0	0	0	0	0	21	C	4
+GSM2902239	9269325036_A	Early version of manifest, only 47,231 probes	J129	SLE_P_NC	3	27.1	39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902240	9269325082_C	Early version of manifest, only 47,231 probes	J22	SLE_P_NC	3	26.3	38.2	1	0		0	0	0	0	0	1	0	29	C	4
+GSM2902241	9269325025_E	Early version of manifest, only 47,231 probes	J28	SLE_P_NC	3	30.3	39.3	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902242	9270006067_B	Early version of manifest, only 47,231 probes	J39	SLE_P_NC	3	26.6	39.0	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902243	9339657006_G	Early version of manifest, only 47,231 probes	J43	SLE_P_NC	3	29.3	39.1	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902244	9269325043_D	Early version of manifest, only 47,231 probes	J70	SLE_P_NC	3	30.0	37.0	1	0		0	0	0	0	0	1	1	27		1
+GSM2902245	9269325034_H	Early version of manifest, only 47,231 probes	K37	SLE_P_NC	3	29.2	39.3	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902246	9269325061_G	Early version of manifest, only 47,231 probes	N102	SLE_P_NC	3	30.0	39.6	1	0		0	0	0	0	0	0	0	41	C	4
+GSM2902247	9269325023_A	Early version of manifest, only 47,231 probes	N107	SLE_P_NC	3	26.4	38.2	1	0		0	0	0	0	0	0	0	38	AA	2
+GSM2902248	9270006096_C	Early version of manifest, only 47,231 probes	N126	SLE_P_NC	3	29.1	38.6	1	0		0	0	0	0	0	0	0	31	C	4
+GSM2902249	9270006076_J	Early version of manifest, only 47,231 probes	N39	SLE_P_NC	3	27.1	39.1	1	0		0	0	0	0	0	0	0	25	C	4
+GSM2902250	9269325078_F	Early version of manifest, only 47,231 probes	N62	SLE_P_NC	3	26.2	37.0	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902251	9269325035_J	Early version of manifest, only 47,231 probes	N67	SLE_P_NC	3	26.0	39.0	1	0		0	0	0	0	0	0	0	31	As	4
+GSM2902252	9339657016_E	Early version of manifest, only 47,231 probes	N69	SLE_P_NC	3	29.1	39.2	1	0		0	0	0	0	0	0	0	34	C	2
+GSM2902253	9339657021_H	Early version of manifest, only 47,231 probes	N82	SLE_P_NC	3	26.5	40.5	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902254	9269325041_E	Early version of manifest, only 47,231 probes	N83	SLE_P_NC	3	28.3	37.4	1	0		0	0	0	0	0	0	0	27	C	2
+GSM2902255	9269325030_J	Early version of manifest, only 47,231 probes	N86	SLE_P_NC	3	28.6	39.0	1	0		0	0	0	0	0	0	0	43	C	1
+GSM2902256	9339657010_H	Early version of manifest, only 47,231 probes	N98	SLE_P_NC	3	25.6	39.0	1	0		0	0	0	0	0	0	0	34	C	2
+GSM2902257	9270006076_G	Early version of manifest, only 47,231 probes	N99	SLE_P_NC	3	28.5	39.5	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902258	9269325082_D	Early version of manifest, only 47,231 probes	T127	SLE_P_NC	3	29.1	39.3	1	0		0	0	0	0	0	0	0	38	As	4
+GSM2902259	9269325029_I	Early version of manifest, only 47,231 probes	T132	SLE_P_NC	3	27.4	37.5	1	0		0	0	0	0	0	1	1	30		4
+GSM2902260	9269325031_I	Early version of manifest, only 47,231 probes	T140	SLE_P_NC	3	30.0	39.3	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902261	9339657017_B	Early version of manifest, only 47,231 probes	T141	SLE_P_NC	3	28.2	38.5	1	0		0	0	0	0	0	1	1	30	As	4
+GSM2902262	9269325036_I	Early version of manifest, only 47,231 probes	T143	SLE_P_NC	3	28.2	38.4	1	0		0	0	0	0	0	0	0	34	As	4
+GSM2902263	9339657010_E	Early version of manifest, only 47,231 probes	T151	SLE_P_NC	3	28.2	39.2	1	0		0	0	0	0	0	0	0	33	As	4
+GSM2902264	9269325039_L	Early version of manifest, only 47,231 probes	T82	SLE_P_NC	3	28.4	38.0	1	0		0	0	0	0	0	0	0	37	C	4
+GSM2902265	9339657008_B	Early version of manifest, only 47,231 probes	T87	SLE_P_NC	3	25.5	40.1	1	0		0	0	0	0	0	0	0	35	AA	2
+GSM2902266	9270006084_B	Early version of manifest, only 47,231 probes	U28	SLE_P_NC	3	29.2	40.1	1	0		0	0	0	0	0	0	0	37	H	4
+GSM2902267	9269325041_L	Early version of manifest, only 47,231 probes	U53	SLE_P_NC	3	29.4	34.3	1	0		0	0	0	0	0	0	0	21	C	1
+GSM2902268	9269325048_B	Early version of manifest, only 47,231 probes	U68	SLE_P_NC	3	27.2	37.6	1	0		0	0	0	0	0	1	1	28	C	4
+GSM2902269	9339657009_F	Early version of manifest, only 47,231 probes	U70	SLE_P_NC	3	29.3	38.3	1	0		0	0	0	0	0	0	0	26	C	4
+GSM2902270	9270006096_F	Early version of manifest, only 47,231 probes	U78	SLE_P_NC	3	27.2	38.2	1	0		0	0	0	0	0	1	0	30	C	4
+GSM2902271	9339657012_F	Early version of manifest, only 47,231 probes	C-19	SLE_P_NC	4	36.3	39.5	1	0		0	0	0	0	0	0	0	38	C	4
+GSM2902272	9339657010_B	Early version of manifest, only 47,231 probes	C-23	SLE_P_NC	4	34.6	39.0	1	0		0	0	0	0	0	0	0	25	AA	4
+GSM2902273	9339657013_F	Early version of manifest, only 47,231 probes	C-26	SLE_P_NC	4	36.1	36.4	1	0		0	0	0	0	0	0	0	27	AA	4
+GSM2902274	9270006096_A	Early version of manifest, only 47,231 probes	H107	SLE_P_NC	4	37.4	37.6	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902275	9339657009_G	Early version of manifest, only 47,231 probes	H116	SLE_P_NC	4	37.1	37.5	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902276	9270006063_F	Early version of manifest, only 47,231 probes	H46	SLE_P_NC	4	37.6	38.2	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902277	9269325057_L	Early version of manifest, only 47,231 probes	H48	SLE_P_NC	4	37.0	39.1	1	0		0	0	0	0	0	0	0	32		4
+GSM2902278	9269325067_C	Early version of manifest, only 47,231 probes	H50	SLE_P_NC	4	35.6	40.3	1	0		0	0	0	0	0	0	0	33	C	4
+GSM2902279	9339657006_C	Early version of manifest, only 47,231 probes	H62	SLE_P_NC	4	38.1	40.1	1	0		0	0	0	0	0	1	0	29	C	1
+GSM2902280	9270006076_C	Early version of manifest, only 47,231 probes	H69	SLE_P_NC	4	39.3	40.1	1	0		0	0	0	0	0	1	0	28	C	4
+GSM2902281	9339657018_E	Early version of manifest, only 47,231 probes	H87	SLE_P_NC	4	35.2	39.1	1	0		0	0	0	0	0	0	0	21	C	4
+GSM2902282	9269325031_E	Early version of manifest, only 47,231 probes	J129	SLE_P_NC	4	38.1	39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902283	9271668036_G	Early version of manifest, only 47,231 probes	J22	SLE_P_NC	4	38.0	38.2	1	0		0	0	0	0	0	1	0	29	C	4
+GSM2902284	9269325038_E	Early version of manifest, only 47,231 probes	J28	SLE_P_NC	4	37.3	39.3	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902285	9339657015_J	Early version of manifest, only 47,231 probes	J39	SLE_P_NC	4	34.6	39.0	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902286	9339657013_D	Early version of manifest, only 47,231 probes	J43	SLE_P_NC	4	36.3	39.1	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902287	9269325097_I	Early version of manifest, only 47,231 probes	J70	SLE_P_NC	4	34.0	37.0	1	0		0	0	0	0	0	1	1	27		1
+GSM2902288	9339657012_I	Early version of manifest, only 47,231 probes	K37	SLE_P_NC	4	35.5	39.3	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902289	9339657019_H	Early version of manifest, only 47,231 probes	K47	SLE_P_NC	4	38.4	39.6	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902290	9339657009_C	Early version of manifest, only 47,231 probes	N102	SLE_P_NC	4	36.0	39.6	1	0		0	0	0	0	0	0	0	41	C	4
+GSM2902291	9339657002_F	Early version of manifest, only 47,231 probes	N126	SLE_P_NC	4	37.1	38.6	1	0		0	0	0	0	0	0	0	31	C	4
+GSM2902292	9269325021_I	Early version of manifest, only 47,231 probes	N39	SLE_P_NC	4	35.4	39.1	1	0		0	0	0	0	0	0	0	25	C	4
+GSM2902293	9269325082_L	Early version of manifest, only 47,231 probes	N62	SLE_P_NC	4	33.0	37.0	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902294	9270006067_E	Early version of manifest, only 47,231 probes	N67	SLE_P_NC	4	37.5	39.0	1	0		0	0	0	0	0	0	0	31	As	4
+GSM2902295	9339657016_B	Early version of manifest, only 47,231 probes	N69	SLE_P_NC	4	37.1	39.2	1	0		0	0	0	0	0	0	0	34	C	1
+GSM2902296	9270006058_J	Early version of manifest, only 47,231 probes	N82	SLE_P_NC	4	37.5	40.5	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902297	9339657018_G	Early version of manifest, only 47,231 probes	N83	SLE_P_NC	4	36.6	37.4	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902298	9269325057_I	Early version of manifest, only 47,231 probes	N86	SLE_P_NC	4	36.5	39.0	1	0		0	0	0	0	0	0	0	43	C	1
+GSM2902299	9270006058_H	Early version of manifest, only 47,231 probes	N99	SLE_P_NC	4	36.4	39.5	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902300	9270006096_B	Early version of manifest, only 47,231 probes	T127	SLE_P_NC	4	34.0	39.3	1	0		0	0	0	0	0	0	0	38	As	4
+GSM2902301	9269325025_G	Early version of manifest, only 47,231 probes	T132	SLE_P_NC	4	35.2	37.5	1	0		0	0	0	0	0	1	1	30		4
+GSM2902302	9339657013_G	Early version of manifest, only 47,231 probes	T140	SLE_P_NC	4	36.1	39.3	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902303	9339657010_D	Early version of manifest, only 47,231 probes	T141	SLE_P_NC	4	32.2	38.5	1	0		0	0	0	0	0	1	1	30	As	4
+GSM2902304	9269325034_K	Early version of manifest, only 47,231 probes	T143	SLE_P_NC	4	36.2	38.4	1	0		0	0	0	0	0	0	0	34	As	4
+GSM2902305	9269325034_C	Early version of manifest, only 47,231 probes	T151	SLE_P_NC	4	37.3	39.2	1	0		0	0	0	0	0	0	0	33	As	4
+GSM2902306	9269325036_L	Early version of manifest, only 47,231 probes	T82	SLE_P_NC	4	37.3	38.0	1	0		0	0	0	0	0	0	0	37	C	4
+GSM2902307	9269325078_E	Early version of manifest, only 47,231 probes	U28	SLE_P_NC	4	37.4	40.1	1	0		0	0	0	0	0	0	0	37	H	4
+GSM2902308	9339657002_I	Early version of manifest, only 47,231 probes	U53	SLE_P_NC	4	32.4	34.3	1	0		0	0	0	0	0	0	0	21	C	2
+GSM2902309	9270006067_L	Early version of manifest, only 47,231 probes	U58	SLE_P_NC	4	37.0	39.0	1	0		0	0	0	0	0	0	0	27	H	3
+GSM2902310	9339657017_E	Early version of manifest, only 47,231 probes	U68	SLE_P_NC	4	35.2	37.6	1	0		0	0	0	0	0	1	1	28	C	4
+GSM2902311	9269325057_K	Early version of manifest, only 47,231 probes	U70	SLE_P_NC	4	37.3	38.3	1	0		0	0	0	0	0	0	0	26	C	4
+GSM2902312	9270006067_K	Early version of manifest, only 47,231 probes	U78	SLE_P_NC	4	36.0	38.2	1	0		0	0	0	0	0	1	0	30	C	4
+GSM2902313	9269325030_G	Early version of manifest, only 47,231 probes	C-19	SLE_P_NC	5		39.5	1	0		0	0	0	0	0	0	0	38	C	4
+GSM2902314	9269325097_E	Early version of manifest, only 47,231 probes	C-23	SLE_P_NC	5		39.0	1	0		0	0	0	0	0	0	0	25	AA	4
+GSM2902315	9269325031_K	Early version of manifest, only 47,231 probes	H116	SLE_P_NC	5		37.5	1	0		0	0	0	0	0	0	0	29	C	4
+GSM2902316	9339657015_C	Early version of manifest, only 47,231 probes	H62	SLE_P_NC	5		40.1	1	0		0	0	0	0	0	1	0	29	C	1
+GSM2902317	9269325078_H	Early version of manifest, only 47,231 probes	H69	SLE_P_NC	5		40.1	1	0		0	0	0	0	0	1	0	28	C	4
+GSM2902318	9339657003_C	Early version of manifest, only 47,231 probes	J129	SLE_P_NC	5		39.0	1	0		0	0	0	0	0	0	0	43	C	4
+GSM2902319	9339657015_F	Early version of manifest, only 47,231 probes	J22	SLE_P_NC	5		38.2	1	0		0	0	0	0	0	1	0	29	C	4
+GSM2902320	9339657015_G	Early version of manifest, only 47,231 probes	J39	SLE_P_NC	5		39.0	1	0		0	0	0	0	0	0	0	32	C	4
+GSM2902321	9339657020_A	Early version of manifest, only 47,231 probes	J43	SLE_P_NC	5		39.1	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902322	9269325035_G	Early version of manifest, only 47,231 probes	K47	SLE_P_NC	5		39.6	1	0		0	0	0	0	0	0	0	28	C	4
+GSM2902323	9269325078_K	Early version of manifest, only 47,231 probes	N126	SLE_P_NC	5		38.6	1	0		0	0	0	0	0	0	0	31	C	4
+GSM2902324	9270006084_I	Early version of manifest, only 47,231 probes	N62	SLE_P_NC	5		37.0	1	0		0	0	0	0	0	0	0	27	C	4
+GSM2902325	9269325031_B	Early version of manifest, only 47,231 probes	N69	SLE_P_NC	5		39.2	1	0		0	0	0	0	0	0	0	34	C	1
+GSM2902326	9269325025_C	Early version of manifest, only 47,231 probes	N82	SLE_P_NC	5		40.5	1	0		0	0	0	0	0	0	0	27	C	1
+GSM2902327	9269325036_B	Early version of manifest, only 47,231 probes	N98	SLE_P_NC	5		39.0	1	0		0	0	0	0	0	0	0	34	C	2
+GSM2902328	9339657006_A	Early version of manifest, only 47,231 probes	N99	SLE_P_NC	5		39.5	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902329	9269325057_B	Early version of manifest, only 47,231 probes	T127	SLE_P_NC	5		39.3	1	0		0	0	0	0	0	0	0	38	As	4
+GSM2902330	9270006096_D	Early version of manifest, only 47,231 probes	T140	SLE_P_NC	5		39.3	1	0		0	0	0	0	0	0	0	30	C	4
+GSM2902331	9339657019_J	Early version of manifest, only 47,231 probes	T141	SLE_P_NC	5		38.5	1	0		0	0	0	0	0	1	1	30	As	4
+GSM2902332	9339657019_B	Early version of manifest, only 47,231 probes	T151	SLE_P_NC	5		39.2	1	0		0	0	0	0	0	0	0	33	As	4
+GSM2902333	9339657010_G	Early version of manifest, only 47,231 probes	T82	SLE_P_NC	5		38.0	1	0		0	0	0	0	0	0	0	37	C	4
+GSM2902334	9271668036_D	Early version of manifest, only 47,231 probes	T87	SLE_P_NC	5		40.1	1	0		0	0	0	0	0	0	0	35	AA	2
+GSM2902335	9269325035_E	Early version of manifest, only 47,231 probes	U28	SLE_P_NC	5		40.1	1	0		0	0	0	0	0	0	0	37	H	4
+GSM2902336	9269325029_D	Early version of manifest, only 47,231 probes	U68	SLE_P_NC	5		37.6	1	0		0	0	0	0	0	1	1	28	C	4
+GSM2902337	9339657017_G	Early version of manifest, only 47,231 probes	U78	SLE_P_NC	5		38.2	1	0		0	0	0	0	0	1	0	30	C	4

@@ -1,0 +1,13 @@
+######## GSE46510  (154 örnek)
+!Series_title = Whole blood gene expression profile associated with spontaneous preterm birth
+!Series_pubmed_id = 24828675
+!Series_overall_design = Total 154; 48 delivered within 48 hours of hospital admission; 106 did not deliver within 48 hours
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE46nnn/GSE46510/suppl/GSE46510_RAW.tar
+!Series_platform_id = GPL16311
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA200708
+!Sample_source_name_ch1: {'did not deliver within 48 hr of hospital admission': 106, 'delivered within 48 hr of hospital admission': 48}
+!Sample_platform_id: {'GPL16311': 154}
+!Sample_molecule_ch1: {'total RNA': 154}
+!Sample_title örnek: wholeblood_woman_T-102 | wholeblood_woman_T-129 | wholeblood_woman_T-150 | wholeblood_woman_T-072 | wholeblood_woman_T-046 | wholeblood_woman_T-243
+  [preterm delivery within 48 hours] n_değer=2: {'No': 106, 'Yes': 48}
+  [tissue] n_değer=1: {'whole blood, maternal peripheral': 154}

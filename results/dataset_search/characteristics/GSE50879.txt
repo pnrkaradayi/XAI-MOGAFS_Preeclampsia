@@ -1,0 +1,16 @@
+######## GSE50879  (40 örnek)
+!Series_title = lncRNA expression profiles for preterm premature rupture of membrane (PPROM)
+!Series_pubmed_id = 24312190
+!Series_pubmed_id = 25884766
+!Series_overall_design = Arraystar Human LncRNA Array v2.0 was applied to study 40 placentas.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50879/suppl/GSE50879_LncRNA_Expression_Profiling_Data.xls.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE50nnn/GSE50879/suppl/GSE50879_raw_data.txt.gz
+!Series_platform_id = GPL18084
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA232046
+!Sample_source_name_ch1: {'PPROM': 10, 'FTB': 10, 'PTB': 10, 'PROM': 10}
+!Sample_platform_id: {'GPL18084': 40}
+!Sample_molecule_ch1: {'total RNA': 40}
+!Sample_title örnek: placenta, PPROM 1 | placenta, PPROM 2 | placenta, PPROM 3 | placenta, PPROM 4 | placenta, PPROM 5 | placenta, PPROM 6
+  [tissue] n_değer=1: {'placenta': 40}
+  [tissue source] n_değer=4: {'Fresh tissue delivered from preterm premature rupture of membrane': 10, 'Fresh tissue delivered from full term birth': 10, 'Fresh tissue delivered from preterm birth': 10, 'Fresh tissue delivered from premature rupture of membrane': 10}
+  [gestation] n_değer=2: {'<35GW': 20, '39-40 WG': 20}

@@ -1,0 +1,18 @@
+######## GSE216906  (162 örnek)
+!Series_title = Longitudinal DNA methylation profile of peripheral blood in women delivering preterm informs predictive biomarkers
+!Series_pubmed_id = 37345372
+!Series_pubmed_id = 41362759
+!Series_overall_design = Bisulphite converted DNA from the 136 samples were hybridised to the Illumina Infinium EPIC Human Methylation Beadchip v1.2.8
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216906/suppl/GSE216906_Matrix_processed.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216906/suppl/GSE216906_Matrix_signal_intensities.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE216nnn/GSE216906/suppl/GSE216906_RAW.tar
+!Series_platform_id = GPL21145
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA896172
+!Sample_source_name_ch1: {'genomic DNA from maternal peripheral blood': 162}
+!Sample_platform_id: {'GPL21145': 162}
+!Sample_molecule_ch1: {'genomic DNA': 162}
+!Sample_title örnek: E06698.V1 | E06698.V2 | E06698.V3 | E06902.V1 | E06902.V2 | E06902.V3
+  [Sex] n_değer=1: {'Female': 162}
+  [sample type] n_değer=1: {'peripheral blood': 162}
+  [disease state] n_değer=2: {'Term': 81, 'Preterm': 81}
+  [timepoint] n_değer=3: {'Sampled during 11-14 weeks of gestation': 54, 'Sampled during 18-20 weeks of gestation': 54, 'Sampled during 26-28 weeks of gestation': 54}

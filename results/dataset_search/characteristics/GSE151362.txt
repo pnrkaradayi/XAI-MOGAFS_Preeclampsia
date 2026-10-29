@@ -1,0 +1,18 @@
+######## GSE151362  (192 örnek)
+!Series_title = microRNA sequencing of human placentae and matched maternal plasma from 6-23 weeks of gestation
+!Series_pubmed_id = 34412547
+!Series_pubmed_id = 35886071
+!Series_overall_design = smallRNA-seq analysis of placenta tissues and matched maternal plasma between 6-23+6 weeks of gestation
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE151nnn/GSE151362/suppl/GSE151362_allCounts_P.xlsx
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE151nnn/GSE151362/suppl/GSE151362_allCounts_T.xlsx
+!Series_platform_id = GPL18573
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA635621
+!Series_relation = SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP265100
+!Sample_source_name_ch1: {'Chorionic Villous': 96, 'Blood Plasma': 96}
+!Sample_platform_id: {'GPL18573': 192}
+!Sample_molecule_ch1: {'total RNA': 192}
+!Sample_title örnek: PAC0006_tissue | PAC0007_tissue | PAC0008_tissue | PAC0009_tissue | PAC0010_tissue | PAC0011_tissue
+  [tissue] n_değer=2: {'Chorionic Villous': 96, 'Blood Plasma': 96}
+  [subject id] n_değer=96: {'PAC0006': 2, 'PAC0007': 2, 'PAC0008': 2, 'PAC0009': 2, 'PAC0010': 2, 'PAC0011': 2, 'PAC0012': 2, 'PAC0013': 2, 'PAC0014': 2, 'PAC0015': 2, 'PAC0016': 2, 'PAC0017': 2} … (+84 değer)
+  [gestational age] n_değer=18: {'9': 20, '14': 18, '6': 16, '16': 16, '10': 14, '8': 12, '11': 12, '7': 12, '13': 10, '12': 10, '15': 10, '21': 8} … (+6 değer)
+  [Sex] n_değer=2: {'Male': 104, 'Female': 88}

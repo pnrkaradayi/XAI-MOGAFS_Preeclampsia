@@ -1,0 +1,23 @@
+Discovery: 68 kadın (23 PE), Validation-1: 33 (6 PE); 6714 özellik (7 bileşim)
+Gen evreni: protein_coding; varyant: bileşim=True, kararlılık=True, hafta eşlik=True; Ayarlar: {'K': 200, 'max_k': 5, 'pop_size': 100, 'n_gen': 60, 'tol': 0.03, 'outer_folds': 5, 'outer_repeats': 3, 'seed': 2026, 'min_expr': 1.0, 'min_frac': 0.5}
+Hafta dilimi 13–20 oranı: Discovery PE 0.43 / kontrol 0.20; Val-1 PE 0.50 / kontrol 0.30
+Süre: 244 sn
+
+A. DISCOVERY İÇ İÇE CV (dış 5 kat x 3 tekrar) — PE vs kontrol
+  MOGAFS   havuzlanmış dış AUC 0.671 (tekrarlar 0.670, 0.630, 0.714; 1. tekrar %95 GA 0.512–0.811); ort. 4.5 özellik
+           en sık seçilenler: STAG2×10, HIP1R×9, DGCR6L×7, SMARCAD1×3, COMP:RN7SL×3, TAB2×2, NDUFB9×2, AASDHPPT×2
+  LASSO5   havuzlanmış dış AUC 0.508 (tekrarlar 0.489, 0.495, 0.539; 1. tekrar %95 GA 0.345–0.641); ort. 5.0 özellik
+           en sık seçilenler: STAG2×9, AASDHPPT×4, SMARCAD1×3, DYM×3, OSBPL8×3, POMT1×3, OSBPL1A×3, MKLN1×3
+  TTEST5   havuzlanmış dış AUC 0.496 (tekrarlar 0.427, 0.549, 0.512; 1. tekrar %95 GA 0.285–0.579); ort. 5.0 özellik
+           en sık seçilenler: STAG2×7, OAZ1×6, COMP:RN7SL×5, DGCR6L×5, AASDHPPT×4, ACACB×4, SMARCAD1×3, KRT8×3
+
+B. İÇ DOĞRULAMA — Discovery'de kurulan model, Validation-1'de
+  MOGAFS   DGCR6L;OAZ1;STAG2;HIP1R;CMTM5                 Val-1 AUC 0.840 [%95 GA 0.648–0.988] (n=6/27)
+  LASSO5   STAG2;POMT1;SMARCAD1;AASDHPPT;OAZ1            Val-1 AUC 0.759 [%95 GA 0.488–0.975] (n=6/27)
+  TTEST5   DGCR6L;OAZ1;STAG2;COMP:RN7SL;ACACB            Val-1 AUC 0.833 [%95 GA 0.586–0.988] (n=6/27)
+
+C. KİLİTLİ MODELLER (Discovery + Validation-1, 101 kadın; filtre sonrası 6714 özellik)
+  MOGAFS   STAG2 (-1.65), STRN4 (+0.98), CRTC2 (+1.00), MYLIP (-1.33), HIP1R (+0.98)  [hafta eşlik katsayısı +0.00]
+  LASSO5   STAG2 (-1.09), OSBPL8 (-0.64), XRN1 (-0.44), POMT1 (-0.31), PRKAR2A (-0.57)  [hafta eşlik katsayısı +0.38]
+  TTEST5   COMP:RN7SL (+0.16), STAG2 (-0.88), COMP:RNA5 (+0.28), STRN4 (+0.67), OSBPL8 (-0.73)  [hafta eşlik katsayısı +0.54]
+  kilit dosyası SHA-256: 47b38b5df7ede641…  (4261 küme değerlendirildi; Pareto 109 çözüm)

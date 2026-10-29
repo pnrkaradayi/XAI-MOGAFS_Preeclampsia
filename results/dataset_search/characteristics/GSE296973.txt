@@ -1,0 +1,13 @@
+######## GSE296973  (20 örnek)
+!Series_title = Comparative Transcriptome Analysis of Peripheral Blood in High-Risk Preeclampsia versus Normotensive Pregnancies
+!Series_pubmed_id = 41403942
+!Series_overall_design = Peripheral blood samples from PE high-risk and control groups were collected in EDTA anticoagulant tubes, immediately mixed with TRIzol Reagent by vigorous vortexing to ensure complete cell lysis and RNA stabilization. Transcriptome profiling was performed using the Illumina NovaSeq 6000 platform with paired-end 150 bp sequencing, generating ~40 million reads per sample to achieve high coverage depth. Differential gene expression analysis focused on PE-associated pathways (angiogenesis, immune dysregulation) using DESeq2 with thresholds of |log2FC| ≥1 and adjusted p <0.05.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE296nnn/GSE296973/suppl/GSE296973_gene_FPKM.txt.gz
+!Series_platform_id = GPL24676
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1262265
+!Sample_source_name_ch1: {'Peripheral blood': 20}
+!Sample_platform_id: {'GPL24676': 20}
+!Sample_molecule_ch1: {'total RNA': 20}
+!Sample_title örnek: control_1 | control_2 | control_3 | control_4 | control_5 | control_6
+  [tissue] n_değer=1: {'Peripheral blood': 20}
+  [cell line] n_değer=2: {'control': 10, 'PE high-risk': 10}

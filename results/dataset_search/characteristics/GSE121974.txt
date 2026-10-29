@@ -1,0 +1,12 @@
+######## GSE121974  (261 örnek)
+!Series_title = Maternal whole blood expression changes with gestational age in normal pregnancy by Human Transcriptome Arrays
+!Series_overall_design = Longitudinal study including 4 to 6 blood samples collected from each of the 49 women with a normal pregnancy.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121974/suppl/GSE121974_RAW.tar
+!Series_platform_id = GPL17586
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA501885
+!Sample_source_name_ch1: {'Whole blood': 261}
+!Sample_platform_id: {'GPL17586': 261}
+!Sample_molecule_ch1: {'total RNA': 261}
+!Sample_title örnek: Sample_1 | Sample_2 | Sample_3 | Sample_4 | Sample_5 | Sample_6
+  [individual] n_değer=49: {'MI_559': 6, 'MI_753': 6, 'MI_463': 6, 'MI_420': 6, 'MI_943': 6, 'MI_912': 6, 'MI_678': 6, 'MI_086': 6, 'MI_398': 6, 'MI_497': 6, 'MI_790': 6, 'MI_453': 6} … (+37 değer)
+  [gestational age (wk)] n_değer=126: {'33.7': 6, '29.4': 5, '29': 5, '25': 5, '21': 5, '29.7': 5, '35.4': 5, '19.7': 4, '25.1': 4, '35': 4, '30.6': 4, '25.7': 4} … (+114 değer)

@@ -1,0 +1,6 @@
+KOHORT İÇİ PE vs KONTROL — ridge (tüm genler, 5x3 CV) ve tek-gen Welch t
+  GSE85307                     tam kan, eğitim                  n= 47/110  genler  18824  ridge AUC 0.549 ± 0.023  FDR<0.05:    0  FDR<0.20:    0  p<0.001:    8 (null ≈ 19)
+  GSE149440                    tam kan                          n= 12/ 50  genler  32176  ridge AUC 0.554 ± 0.041  FDR<0.05:    0  FDR<0.20:    7  p<0.001:   38 (null ≈ 32)
+  GSE108497                    tam kan, SLE içi                 n= 23/ 46  genler  20673  ridge AUC 0.591 ± 0.046  FDR<0.05:    3  FDR<0.20:   29  p<0.001:   68 (null ≈ 21)
+  GSE192902_cfRNA_discovery    plazma cfRNA (pozitif kontrol)   n= 23/ 45  genler   7025  ridge AUC 0.759 ± 0.031  FDR<0.05:   34  FDR<0.20:   51  p<0.001:   45 (null ≈ 7)
+  GSE192902_cfRNA_val1         plazma cfRNA (pozitif kontrol)   n=  6/ 27  genler   7019  ridge AUC 0.658 ± 0.124  FDR<0.05:  174  FDR<0.20:  408  p<0.001:  160 (null ≈ 7)

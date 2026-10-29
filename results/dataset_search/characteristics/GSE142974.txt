@@ -1,0 +1,21 @@
+######## GSE142974  (24 örnek)
+!Series_title = Transcriptome analysis of early pregnancy vitamin D status and spontaneous preterm birth.
+!Series_pubmed_id = 31995561
+!Series_overall_design = Comparing the whole blood (PAXgene) transcriptome from 10-18 weeks of gestational age of 16 mothers with normal pregnancies versus 8 mothers with spontaneous preterm birth (<32 weeks of gestation).
+!Series_overall_design = Whole blood transcriptome, disease state analysis
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE142nnn/GSE142974/suppl/GSE142974_RAW.tar
+!Series_platform_id = GPL6244
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA598827
+!Sample_source_name_ch1: {'PAXgene whole blood': 24}
+!Sample_platform_id: {'GPL6244': 24}
+!Sample_molecule_ch1: {'total RNA': 24}
+!Sample_title örnek: Normal-1093607 | Normal-9089352 | Preterm-9005717 | Normal-2049192 | Preterm-7049736 | Preterm-2020274
+  [recruitment id] n_değer=24: {'1093607-M': 1, '9089352-M': 1, '9005717-M': 1, '2049192-M': 1, '7049736-M': 1, '2020274-M': 1, '3077230-M': 1, '4084775-M': 1, '1005587-M': 1, '6096334-M': 1, '2097081-M': 1, '4089320-M': 1} … (+12 değer)
+  [Sex] n_değer=1: {'Female': 24}
+  [ethnicity] n_değer=3: {'Black or African American': 10, 'White': 9, 'Asian': 5}
+  [age years] n_değer=24: {'32.57494867': 1, '31.82477755': 1, '31.61122519': 1, '31.9945243': 1, '28.45448323': 1, '29.31416838': 1, '27.57289528': 1, '32.79397673': 1, '30.06160164': 1, '28.92539357': 1, '30.89117043': 1, '27.44421629': 1} … (+12 değer)
+  [pregnancy condition] n_değer=2: {'Normal Pregnancy': 16, 'Spontaneous Preterm Births': 8}
+  [delivery gestation age week] n_değer=20: {'39': 3, '40': 2, '39.3': 2, '28.4': 1, '38.6': 1, '30': 1, '26': 1, '39.6': 1, '38.3': 1, '38.4': 1, '25': 1, '22.5': 1} … (+8 değer)
+  [blood draw at gestation week] n_değer=20: {'18.85714286': 2, '18.42857143': 2, '16.57142857': 2, '11.57142857': 2, '14.85714286': 1, '13.85714286': 1, '14': 1, '11.14285714': 1, '11.85714286': 1, '14.14285714': 1, '14.71428571': 1, '14.42857143': 1} … (+8 değer)
+  [study site] n_değer=3: {'Boston': 12, 'St Louis': 9, 'San Diego': 3}
+  [vitamin 25(oh) d measured in blood of mother at 10-18 weeks of gestation (ng/ml)] n_değer=24: {'33.1': 1, '33.3': 1, '32.5': 1, '27.3': 1, '13.1': 1, '12.2': 1, '29.3': 1, '18.4': 1, '42.4': 1, '20.9': 1, '31.2': 1, '22.5': 1} … (+12 değer)

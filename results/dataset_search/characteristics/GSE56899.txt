@@ -1,0 +1,13 @@
+######## GSE56899  (48 örnek)
+!Series_title = Microarray Data of cell-free RNA across pregnancy time course
+!Series_pubmed_id = 24799715
+!Series_overall_design = Cell-free RNA are extracted from pregnant women on the first, second and third trimester and immediately post-partum. Temporal trends are extracted from individual patients.
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE56nnn/GSE56899/suppl/GSE56899_RAW.tar
+!Series_platform_id = GPL6244
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA244881
+!Sample_source_name_ch1: {'plasma cell-free RNA': 48}
+!Sample_platform_id: {'GPL6244': 48}
+!Sample_molecule_ch1: {'total RNA': 48}
+!Sample_title örnek: subject 02 at Trimester 1 | subject 02 at Trimester 2 | subject 02 at Trimester 3 | subject 02 at Post Partum | subject 12 at Trimester 1 | subject 12 at Trimester 2
+  [tissue] n_değer=1: {'cell-free plasma': 48}
+  [pregnancy stage] n_değer=5: {'Trimester 1': 11, 'Trimester 2': 11, 'Trimester 3': 11, 'Post Partum': 11, 'Non-Pregnant': 4}

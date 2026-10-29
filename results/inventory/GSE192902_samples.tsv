@@ -1,0 +1,405 @@
+gsm	sample_name	woman_id	timepoint	within_window_repeat	window	disease	cohort	tp_label
+GSM5768318	944838_2	944838	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768319	944838_1	944838	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768320	944838_4	944838	4	False	Post-partum	control	Discovery	postpartum
+GSM5768321	931746_1	931746	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768322	826701_4	826701	4	False	Post-partum	control	Discovery	postpartum
+GSM5768323	662256_1	662256	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768324	777827_1	777827	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768325	777827_2	777827	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768326	777827_3	777827	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768327	777827_4	777827	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768328	944838_3	944838	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768329	773626_3	773626	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768330	773626_2	773626	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768331	773626_4	773626	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768332	523257_1	523257	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768333	523257_2	523257	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768334	523257_3	523257	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768335	662256_2	662256	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768336	947956_1	947956	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768337	947956_2	947956	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768338	947956_3	947956	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768339	947956_4	947956	4	False	Post-partum	control	Discovery	postpartum
+GSM5768340	862314_1	862314	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768341	862314_2	862314	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768342	862314_4	862314	4	False	Post-partum	control	Discovery	postpartum
+GSM5768343	862314_3	862314	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768344	565234_2	565234	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768345	565234_4	565234	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768346	662256_3	662256	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768347	839621_1	839621	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768348	839621_4	839621	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768349	839621_3	839621	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768350	930841_1	930841	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768351	930841_2	930841	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768352	930841_3	930841	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768353	683266_1	683266	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768354	931746_3	931746	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768355	683266_2	683266	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768356	683266_3	683266	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768357	683266_4	683266	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768358	702116_1	702116	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768359	702116_2	702116	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768360	702116_4	702116	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768361	702116_3	702116	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768362	897309_2	897309	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768363	897309_1	897309	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768364	605858_1	605858	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768365	897309_3	897309	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768366	897309_4	897309	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768367	565782_2	565782	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768368	565782_3	565782	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768369	565782_4	565782	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768370	571092_1	571092	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768371	520587_2	520587	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768372	520587_2.1	520587	2	True	13-20 weeks gestation	control	Discovery	13–20
+GSM5768373	858366_1	858366	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768374	858366_3	858366	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768375	825158_2	825158	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768376	825158_1	825158	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768377	825158_3	825158	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768378	890932_1	890932	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768379	931746_1.1	931746	1	True	≤12 weeks gestation	control	Discovery	≤12
+GSM5768380	890932_2	890932	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768381	890932_3	890932	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768382	835749_2	835749	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768383	835749_1	835749	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768384	835749_3	835749	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768385	835749_4	835749	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768386	637580_1	637580	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768387	637580_3	637580	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768388	515494_1	515494	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768389	997717_2	997717	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768390	637549_3	637549	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768391	931746_2	931746	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768392	997717_2.1	997717	2	True	13-20 weeks gestation	control	Discovery	13–20
+GSM5768393	997717_3	997717	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768394	997717_4	997717	4	False	Post-partum	control	Discovery	postpartum
+GSM5768395	500915_2	500915	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768396	500915_2.1	500915	2	True	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768397	500915_3	500915	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768398	740015_1	740015	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768399	605858_2	605858	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768400	740015_3	740015	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768401	982023_1	982023	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768402	982023_2	982023	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768403	982023_3	982023	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768404	689440_1	689440	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768405	689440_2	689440	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768406	689440_4	689440	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768407	689440_3	689440	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768408	905498_1	905498	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768409	905498_2	905498	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768410	605858_3	605858	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768411	691160_1	691160	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768412	691160_2	691160	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768413	691160_3	691160	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768414	709690_1	709690	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768415	709690_2	709690	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768416	709690_4	709690	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768417	709690_3	709690	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768418	709690_4.1	709690	4	True	Post-partum	control	Validation 1	postpartum
+GSM5768419	653512_1	653512	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768420	653512_3	653512	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768421	653512_2	653512	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768422	605858_4	605858	4	False	Post-partum	control	Discovery	postpartum
+GSM5768423	653512_4	653512	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768424	752820_4	752820	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768425	707861_2	707861	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768426	971241_2	971241	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768427	971241_3	971241	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768428	971241_4	971241	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768429	903837_1	903837	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768430	903837_3	903837	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768431	888987_2	888987	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768432	903837_2	903837	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768433	678649_1	678649	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768434	888987_3	888987	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768435	888987_4	888987	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768436	582739_3	582739	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768437	582739_4	582739	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768438	961389_3	961389	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768439	902180_1	902180	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768440	902180_2	902180	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768441	902180_3	902180	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768442	546738_3	546738	3	False	≥23 weeks gestation	pre-eclampsia	Validation 1	≥23
+GSM5768443	902180_4	902180	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768444	546738_4	546738	4	False	Post-partum	pre-eclampsia	Validation 1	postpartum
+GSM5768445	739041_3	739041	3	False	≥23 weeks gestation	severe pre-eclampsia	Validation 1	≥23
+GSM5768446	739041_4	739041	4	False	Post-partum	severe pre-eclampsia	Validation 1	postpartum
+GSM5768447	472330_1	472330	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768448	406813_1	406813	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768449	320238_2	320238	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768450	133532_1	133532	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768451	260786_1	260786	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768452	692077_1	692077	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768453	205623_2	205623	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768454	166490_1	166490	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768455	194785_2	194785	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768456	309805_2	309805	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768457	361175_1	361175	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768458	455697_1	455697	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768459	250475_1	250475	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768460	397120_1	397120	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768461	339444_1	339444	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768462	141956_2	141956	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768463	490522_1	490522	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768464	477841_1	477841	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768465	692077_2	692077	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768466	212444_1	212444	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768467	782752_3	782752	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768468	782752_4	782752	4	False	Post-partum	control	Discovery	postpartum
+GSM5768469	625950_3	625950	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768470	703998_3	703998	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768471	663288_1	663288	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768472	663288_4	663288	4	False	Post-partum	control	Discovery	postpartum
+GSM5768473	663288_3	663288	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768474	977018_3	977018	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768475	977018_1	977018	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768476	896869_1	896869	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768477	928186_1	928186	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768478	668974_2	668974	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768479	668974_1	668974	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768480	703998_3.1	703998	3	True	≥23 weeks gestation	control	Discovery	≥23
+GSM5768481	668974_3	668974	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768482	668974_4	668974	4	False	Post-partum	control	Discovery	postpartum
+GSM5768483	668974_4.1	668974	4	True	Post-partum	control	Discovery	postpartum
+GSM5768484	786768_1	786768	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768485	786768_2	786768	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768486	786768_3	786768	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768487	943952_1	943952	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768488	783078_1	783078	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768489	783078_2	783078	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768490	783078_4	783078	4	False	Post-partum	control	Discovery	postpartum
+GSM5768491	856650_2	856650	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768492	965096_1	965096	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768493	965096_3	965096	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768494	534069_1	534069	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768495	534069_4	534069	4	False	Post-partum	control	Discovery	postpartum
+GSM5768496	534069_2	534069	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768497	972839_2	972839	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768498	972839_1	972839	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768499	972839_4	972839	4	False	Post-partum	control	Discovery	postpartum
+GSM5768500	636361_1	636361	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768501	856650_3	856650	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768502	636361_3	636361	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768503	636361_4	636361	4	False	Post-partum	control	Discovery	postpartum
+GSM5768504	695492_2	695492	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768505	695492_3	695492	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768506	695492_4	695492	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768507	664041_2	664041	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768508	664041_3	664041	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768509	988719_1	988719	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768510	664041_4	664041	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768511	988719_2	988719	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768512	988719_4	988719	4	False	Post-partum	control	Discovery	postpartum
+GSM5768513	856650_3.1	856650	3	True	≥23 weeks gestation	control	Discovery	≥23
+GSM5768514	792176_1	792176	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768515	792176_2	792176	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768516	792176_4	792176	4	False	Post-partum	control	Discovery	postpartum
+GSM5768517	579493_1	579493	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768518	579493_2	579493	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768519	579493_3	579493	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768520	872878_1	872878	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768521	579493_4	579493	4	False	Post-partum	control	Discovery	postpartum
+GSM5768522	872878_3	872878	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768523	872878_2	872878	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768524	872878_4	872878	4	False	Post-partum	control	Discovery	postpartum
+GSM5768525	703998_2	703998	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768526	740596_2	740596	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768527	740596_3	740596	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768528	505372_1	505372	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768529	505372_2	505372	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768530	852717_2	852717	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768531	505372_3	505372	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768532	852717_3	852717	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768533	852717_4	852717	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768534	625950_1	625950	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768535	690247_2	690247	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768536	678649_2	678649	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768537	814701_2	814701	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768538	690247_4	690247	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768539	814701_2.1	814701	2	True	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768540	508691_3	508691	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768541	631489_1	631489	1	False	≤12 weeks gestation	pre-eclampsia	Validation 1	≤12
+GSM5768542	631489_2	631489	2	False	13-20 weeks gestation	pre-eclampsia	Validation 1	13–20
+GSM5768543	631489_3	631489	3	False	≥23 weeks gestation	pre-eclampsia	Validation 1	≥23
+GSM5768544	813805_1	813805	1	False	≤12 weeks gestation	pre-eclampsia	Validation 1	≤12
+GSM5768545	631489_4	631489	4	False	Post-partum	pre-eclampsia	Validation 1	postpartum
+GSM5768546	813805_2	813805	2	False	13-20 weeks gestation	pre-eclampsia	Validation 1	13–20
+GSM5768547	678649_3	678649	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768548	813805_3	813805	3	False	≥23 weeks gestation	pre-eclampsia	Validation 1	≥23
+GSM5768549	813805_4	813805	4	False	Post-partum	pre-eclampsia	Validation 1	postpartum
+GSM5768550	597312_2	597312	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 1	13–20
+GSM5768551	597312_4	597312	4	False	Post-partum	severe pre-eclampsia	Validation 1	postpartum
+GSM5768552	597312_3	597312	3	False	≥23 weeks gestation	severe pre-eclampsia	Validation 1	≥23
+GSM5768553	512025_1	512025	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768554	512025_2	512025	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768555	512025_4	512025	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768556	765128_1	765128	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768557	765128_2	765128	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768558	520109_2	520109	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768559	557409_4	557409	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768560	884755_2	884755	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768561	674547_1	674547	1	False	≤12 weeks gestation	pre-eclampsia	Validation 1	≤12
+GSM5768562	765128_4	765128	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768563	674547_3	674547	3	False	≥23 weeks gestation	pre-eclampsia	Validation 1	≥23
+GSM5768564	674547_2	674547	2	False	13-20 weeks gestation	pre-eclampsia	Validation 1	13–20
+GSM5768565	629773_1	629773	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768566	629773_2	629773	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768567	569467_2.1	569467	2	True	13-20 weeks gestation	severe pre-eclampsia	Validation 1	13–20
+GSM5768568	569467_2	569467	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 1	13–20
+GSM5768569	520109_3	520109	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768570	637549_4	637549	4	False	Post-partum	control	Discovery	postpartum
+GSM5768571	525989_1	525989	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768572	525989_2	525989	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768573	525989_4	525989	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768574	501143_1	501143	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768575	501143_2	501143	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768576	915027_1	915027	1	False	≤12 weeks gestation	control	Validation 1	≤12
+GSM5768577	501143_4	501143	4	False	Post-partum	control	Validation 1	postpartum
+GSM5768578	915027_2	915027	2	False	13-20 weeks gestation	control	Validation 1	13–20
+GSM5768579	915027_3	915027	3	False	≥23 weeks gestation	control	Validation 1	≥23
+GSM5768580	546738_2	546738	2	False	13-20 weeks gestation	pre-eclampsia	Validation 1	13–20
+GSM5768581	546738_2.1	546738	2	True	13-20 weeks gestation	pre-eclampsia	Validation 1	13–20
+GSM5768582	520109_4	520109	4	False	Post-partum	control	Discovery	postpartum
+GSM5768583	294171_1	294171	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768584	406755_1	406755	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768585	277408_1	277408	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768586	480303_1	480303	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768587	485310_1	485310	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768588	255058_2	255058	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768589	443078_1	443078	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768590	692077_3	692077	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768591	328020_1	328020	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768592	197072_2	197072	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768593	253665_1	253665	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768594	313204_2	313204	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768595	415120_1	415120	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768596	138919_1	138919	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768597	490545_1	490545	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768598	122540_2	122540	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768599	456050_1	456050	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768600	692077_4	692077	4	False	Post-partum	control	Discovery	postpartum
+GSM5768601	265479_2	265479	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768602	291886_1	291886	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768603	103651_1	103651	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768604	319860_2	319860	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768605	346539_1	346539	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768606	149589_1	149589	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768607	121329_2	121329	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768608	133247_1	133247	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768609	184204_1	184204	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768610	230843_2	230843	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768611	170689_1	170689	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768612	946772_1	946772	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768613	254685_1	254685	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768614	178534_1	178534	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768615	262245_1	262245	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768616	410199_1	410199	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768617	209564_1	209564	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768618	475571_1	475571	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768619	469006_2	469006	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768620	330152_1	330152	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768621	141218_1	141218	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768622	393370_2	393370	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768623	946772_2	946772	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768624	295748_1	295748	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768625	167961_1	167961	1	False	≤12 weeks gestation	severe pre-eclampsia	Validation 2	≤12
+GSM5768626	293901_1	293901	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768627	455648_1	455648	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768628	405912_2	405912	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768629	229182_1	229182	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768630	943952_2	943952	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768631	267586_2	267586	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768632	943952_4	943952	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768633	706816_1	706816	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768634	943952_3	943952	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768635	737046_1	737046	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768636	737046_3	737046	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768637	737046_2	737046	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768638	737046_4	737046	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768639	594098_2	594098	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768640	594098_1	594098	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768641	594098_4	594098	4	False	Post-partum	control	Discovery	postpartum
+GSM5768642	615064_1	615064	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768643	615064_2	615064	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768644	615064_4	615064	4	False	Post-partum	control	Discovery	postpartum
+GSM5768645	615064_3	615064	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768646	706816_3	706816	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768647	939512_2	939512	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768648	939512_2.1	939512	2	True	13-20 weeks gestation	control	Discovery	13–20
+GSM5768649	743122_3	743122	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768650	743122_1	743122	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768651	939512_3	939512	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768652	743122_4	743122	4	False	Post-partum	control	Discovery	postpartum
+GSM5768653	826701_1	826701	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768654	826701_3	826701	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768655	267586_1	267586	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768656	418624_2	418624	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768657	331344_2	331344	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768658	946772_3	946772	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768659	147354_2	147354	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768660	316949_1	316949	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768661	450582_2	450582	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768662	406636_1	406636	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768663	454195_2	454195	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768664	349246_2	349246	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768665	464537_2	464537	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768666	457230_2	457230	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768667	349246_1	349246	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768668	946772_4	946772	4	False	Post-partum	control	Discovery	postpartum
+GSM5768669	384886_2	384886	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768670	161584_1	161584	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768671	195443_1	195443	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768672	412304_2	412304	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768673	301419_1	301419	1	False	≤12 weeks gestation	pre-eclampsia	Validation 2	≤12
+GSM5768674	401187_2	401187	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768675	339832_2	339832	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768676	434662_2	434662	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768677	169395_1	169395	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768678	235246_2	235246	2	False	13-20 weeks gestation	control	Validation 2	13–20
+GSM5768679	108445_1	108445	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768680	827529_2	827529	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768681	549101_1	549101	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768682	253823_1	253823	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768683	159918_2	159918	2	False	13-20 weeks gestation	severe pre-eclampsia	Validation 2	13–20
+GSM5768684	334129_1	334129	1	False	≤12 weeks gestation	control	Validation 2	≤12
+GSM5768685	261268_2	261268	2	False	13-20 weeks gestation	pre-eclampsia	Validation 2	13–20
+GSM5768686	827529_3	827529	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768687	827529_4	827529	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768688	698019_1	698019	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768689	788006_2	788006	2	False	13-20 weeks gestation	pre-eclampsia	Discovery	13–20
+GSM5768690	698019_4	698019	4	False	Post-partum	control	Discovery	postpartum
+GSM5768691	788006_3	788006	3	False	≥23 weeks gestation	pre-eclampsia	Discovery	≥23
+GSM5768692	788006_4	788006	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768693	906787_1	906787	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768694	906787_3	906787	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768695	586898_2	586898	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768696	906787_4	906787	4	False	Post-partum	control	Discovery	postpartum
+GSM5768697	549101_3	549101	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768698	586898_4	586898	4	False	Post-partum	control	Discovery	postpartum
+GSM5768699	773477_1	773477	1	False	≤12 weeks gestation	control	Discovery	≤12
+GSM5768700	773477_2	773477	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768701	773477_3	773477	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768702	773477_4	773477	4	False	Post-partum	control	Discovery	postpartum
+GSM5768703	723691_3	723691	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768704	723691_4	723691	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768705	723691_2	723691	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768706	787693_2	787693	2	False	13-20 weeks gestation	control	Discovery	13–20
+GSM5768707	787693_3	787693	3	False	≥23 weeks gestation	control	Discovery	≥23
+GSM5768708	680949_2	680949	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768709	680949_3	680949	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768710	809660_1	809660	1	False	≤12 weeks gestation	severe pre-eclampsia	Discovery	≤12
+GSM5768711	737184_2	737184	2	False	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768712	809660_3	809660	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768713	662256_4	662256	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768714	737184_4	737184	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768715	737184_2.1	737184	2	True	13-20 weeks gestation	severe pre-eclampsia	Discovery	13–20
+GSM5768716	783236_1	783236	1	False	≤12 weeks gestation	pre-eclampsia	Discovery	≤12
+GSM5768717	960203_4	960203	4	False	Post-partum	control	Discovery	postpartum
+GSM5768718	550205_3	550205	3	False	≥23 weeks gestation	severe pre-eclampsia	Discovery	≥23
+GSM5768719	783236_4	783236	4	False	Post-partum	pre-eclampsia	Discovery	postpartum
+GSM5768720	550205_4	550205	4	False	Post-partum	severe pre-eclampsia	Discovery	postpartum
+GSM5768721	888980_3	888980	3	False	≥23 weeks gestation	control	Discovery	≥23

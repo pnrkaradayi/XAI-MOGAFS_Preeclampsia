@@ -1,0 +1,15 @@
+######## GSE266488  (48 örnek)
+!Series_title = Circulating immune cells from early- and late-onset preeclampsia displays distinct profiles with differential impact on endothelial activation
+!Series_pubmed_id = 39302114
+!Series_overall_design = Peripheral blood mononuclear cells (PBMC) were isolated from patients blood and analyzed using scRNAseq
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE266nnn/GSE266488/suppl/GSE266488_PE-_pre_normalizedCountsWithAnnotations.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE266nnn/GSE266488/suppl/GSE266488_RAW.tar
+!Series_platform_id = GPL24676
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1107281
+!Sample_source_name_ch1: {'Blood': 48}
+!Sample_platform_id: {'GPL24676': 48}
+!Sample_molecule_ch1: {'total RNA': 48}
+!Sample_title örnek: PPPE.177 pre | PPPE-195 pre | PPPE.193 pre | PPPE-197 pre | PPPE.182 pre | PPPE.183 pre
+  [tissue] n_değer=1: {'Blood': 48}
+  [condition] n_değer=3: {'control': 24, 'late-onset preeclampsia': 13, 'early-onset preeclampsia': 11}
+  [cell type] n_değer=1: {'PBMC': 48}

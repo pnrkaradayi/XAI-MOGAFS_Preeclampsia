@@ -1,0 +1,109 @@
+{
+  "created_utc": "2026-10-22T12:21:20Z",
+  "protocol": "scripts/09_plasma_panel.py header; Val-2: within-cohort z-score, apply unchanged, open once",
+  "universe": "protein_coding",
+  "variant": {
+    "composition": true,
+    "stability": true,
+    "ga_covar": true
+  },
+  "tag": "V4",
+  "config": {
+    "K": 200,
+    "max_k": 5,
+    "pop_size": 100,
+    "n_gen": 60,
+    "tol": 0.03,
+    "outer_folds": 5,
+    "outer_repeats": 3,
+    "seed": 2026,
+    "min_expr": 1.0,
+    "min_frac": 0.5
+  },
+  "models": {
+    "MOGAFS": {
+      "genes": [
+        "10735",
+        "29888",
+        "200186",
+        "29116",
+        "9026"
+      ],
+      "symbols": [
+        "STAG2",
+        "STRN4",
+        "CRTC2",
+        "MYLIP",
+        "HIP1R"
+      ],
+      "coef": [
+        -1.6521131696170845,
+        0.9779478011621651,
+        1.0016551802429754,
+        -1.33025570210685,
+        0.9799968407382623
+      ],
+      "intercept": -1.3849261151503491,
+      "covariate": {
+        "name": "ga_bin_13_20",
+        "coef": 0.003474635382277458
+      }
+    },
+    "LASSO5": {
+      "genes": [
+        "10735",
+        "114882",
+        "54464",
+        "10585",
+        "5576"
+      ],
+      "symbols": [
+        "STAG2",
+        "OSBPL8",
+        "XRN1",
+        "POMT1",
+        "PRKAR2A"
+      ],
+      "coef": [
+        -1.0855354138737359,
+        -0.6387756319786679,
+        -0.436932960473024,
+        -0.3144967780144065,
+        -0.5720723070791138
+      ],
+      "intercept": -1.2758378456656272,
+      "covariate": {
+        "name": "ga_bin_13_20",
+        "coef": 0.37588070371737037
+      }
+    },
+    "TTEST5": {
+      "genes": [
+        "COMP:RN7SL",
+        "10735",
+        "COMP:RNA5",
+        "29888",
+        "114882"
+      ],
+      "symbols": [
+        "COMP:RN7SL",
+        "STAG2",
+        "COMP:RNA5",
+        "STRN4",
+        "OSBPL8"
+      ],
+      "coef": [
+        0.16430615044986224,
+        -0.8844520420831113,
+        0.28146016958057357,
+        0.6711948881049702,
+        -0.7264638397967553
+      ],
+      "intercept": -1.360483298890082,
+      "covariate": {
+        "name": "ga_bin_13_20",
+        "coef": 0.5388944798334219
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Arama tarihi: 2026-10-22
+Veritabanı: NCBI GEO DataSets (db=gds), filtre: "Homo sapiens"[ORGN] AND gse[ETYP]
+
+[PE_HDP] 278 kayıt
+    ((preeclampsia OR pre-eclampsia OR preeclamptic OR "hypertensive disorders of pregnancy" OR "gestational hypertension" OR HELLP OR eclampsia)) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[PTB_PPROM] 161 kayıt
+    (("preterm birth" OR "preterm delivery" OR "preterm labor" OR "preterm labour" OR PPROM OR "premature rupture" OR "spontaneous preterm" OR "preterm parturition")) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[FGR_SGA] 170 kayıt
+    (("fetal growth restriction" OR "intrauterine growth restriction" OR "small for gestational age" OR "fetal growth" OR FGR OR IUGR)) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[GDM] 112 kayıt
+    (("gestational diabetes" OR "gestational diabetes mellitus" OR GDM)) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[placental_other] 90 kayıt
+    ((stillbirth OR "placental abruption" OR "placental insufficiency" OR "placental dysfunction" OR "great obstetrical syndromes" OR "adverse pregnancy outcome" OR "pregnancy complication")) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[cfRNA_EV] 93 kayıt
+    ((pregnancy OR pregnant OR gestation OR gestational) AND ("cell-free RNA" OR cfRNA OR "circulating RNA" OR "plasma RNA" OR exosome OR exosomes OR exosomal OR "extracellular vesicle" OR "extracellular vesicles" OR "circulating microRNA")) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+[maternal_blood_longitudinal] 294 kayıt
+    ((pregnancy OR pregnant) AND ("whole blood" OR "peripheral blood" OR PBMC OR leukocytes OR plasma OR serum OR "maternal blood") AND (longitudinal OR trimester OR "gestational age" OR "early pregnancy")) AND "Homo sapiens"[ORGN] AND gse[ETYP]
+
+Birleşim: 884 benzersiz GSE
+Kan anahtar kelimesi geçen: 413; bunların doku anahtar kelimesi içermeyen: 199

@@ -1,0 +1,93 @@
+{
+  "created_utc": "2026-10-22T13:07:10Z",
+  "protocol": "scripts/09c_plasma_repeated.py header; Val-2: within-cohort z-score over all ≤20 wk samples, apply unchanged, open once",
+  "variant": {
+    "tag": "V7",
+    "max_k": 5,
+    "repeated_samples": true,
+    "composition": true
+  },
+  "config": {
+    "K": 200,
+    "pop_size": 100,
+    "n_gen": 60,
+    "tol": 0.03,
+    "outer_folds": 5,
+    "outer_repeats": 3,
+    "seed": 2026,
+    "min_expr": 1.0,
+    "min_frac": 0.5,
+    "max_k": 5
+  },
+  "models": {
+    "MOGAFS": {
+      "features": [
+        "107080652",
+        "8780",
+        "9026",
+        "57700"
+      ],
+      "symbols": [
+        "RN7SL736P",
+        "RIOK3",
+        "HIP1R",
+        "FHIP2A"
+      ],
+      "coef": [
+        1.7815508875841046,
+        -1.0009752456604413,
+        1.1134607718878013,
+        -0.8567973510759392
+      ],
+      "intercept": -2.004948874337759
+    },
+    "LASSO": {
+      "features": [
+        "106479306",
+        "106479496",
+        "106479403",
+        "10735",
+        "106479428"
+      ],
+      "symbols": [
+        "RN7SL230P",
+        "RN7SL753P",
+        "RN7SL493P",
+        "STAG2",
+        "RN7SL564P"
+      ],
+      "coef": [
+        0.6600673470477633,
+        0.270356214166542,
+        0.28331830646900047,
+        -0.688286598823545,
+        0.4945555123838504
+      ],
+      "intercept": -1.6648417523460133
+    },
+    "TTEST": {
+      "features": [
+        "106479306",
+        "106479468",
+        "107080652",
+        "106481826",
+        "106479428"
+      ],
+      "symbols": [
+        "RN7SL230P",
+        "RN7SL674P",
+        "RN7SL736P",
+        "RN7SL128P",
+        "RN7SL564P"
+      ],
+      "coef": [
+        0.951962005909582,
+        0.35548385556379997,
+        0.47300253111253465,
+        -0.33612078499846737,
+        0.4806709094551055
+      ],
+      "intercept": -1.6763196015572492
+    }
+  }
+}

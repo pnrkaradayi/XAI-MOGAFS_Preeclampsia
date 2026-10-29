@@ -1,0 +1,75 @@
+A. PARTİ VE KOVARYATLAR (GSE85307)
+  hibridizasyon partisi: 8 parti; parti x PE ki-kare p = 0.765
+  parti    03/15/2013  03/18/2013  03/19/2013  03/22/2013  03/25/2013  03/27/2013  04/04/2013  04/09/2013
+  grup                                                                                                   
+  kontrol          31           1          31          20           1          16           9           1
+  PE               13           0          14           9           0          10           1           0
+  İlk 10 PC: açıklanan varyans % 25.2 9.0 5.5 4.2 2.8 2.2 1.9 1.4 1.3 1.1
+  PC başına R² (değişken açıklama gücü):
+         parti      PE   hafta   etnik   astım     BMI     yaş
+  PC1      0.11    0.00    0.03    0.01    0.00    0.03    0.01
+  PC2      0.06    0.01    0.00    0.25    0.00    0.02    0.02
+  PC3      0.12    0.00    0.06    0.06    0.00    0.03    0.02
+  PC4      0.07    0.00    0.00    0.01    0.00    0.01    0.01
+  PC5      0.09    0.02    0.05    0.02    0.00    0.01    0.00
+  PC6      0.16    0.00    0.01    0.04    0.00    0.03    0.01
+  PC7      0.11    0.00    0.00    0.07    0.01    0.00    0.00
+  PC8      0.06    0.01    0.02    0.07    0.01    0.01    0.01
+  PC9      0.27    0.02    0.01    0.03    0.00    0.00    0.01
+  PC10     0.10    0.00    0.00    0.01    0.00    0.00    0.00
+  Tek-gen PE etkisi (p-değeri özeti):
+  düzeltmesiz                                  λ=0.77  p<0.001:    3 (null ≈ 19)  FDR<0.05:    0  FDR<0.20:    0
+  parti düzeltmeli                             λ=0.82  p<0.001:    6 (null ≈ 19)  FDR<0.05:    0  FDR<0.20:    0
+  parti + hafta + etnik + astım düzeltmeli     λ=0.74  p<0.001:   10 (null ≈ 19)  FDR<0.05:    0  FDR<0.20:    0
+  ilk 5 PC düzeltmeli                          λ=1.01  p<0.001:   17 (null ≈ 19)  FDR<0.05:    0  FDR<0.20:    0
+  Permütasyon (200): karıştırılmış etiketle p<0.001 gen sayısı medyan 7 [%95: 0–136]; gerçek 3
+
+B. ETİKET GEÇERLİLİĞİ — klinik risk faktörleriyle PE öngörüsü (5x3 CV)
+  BMI + yaş + etnik köken: AUC 0.592 ± 0.011 (n=157)
+  yalnız BMI: AUC 0.610 ± 0.004
+  PE grubunda doğum haftası: medyan 39.1; <37 hf doğum 12/47; <34 hf 6/47
+
+C. ÇOK DEĞİŞKENLİ HAM SİNYAL (5x3 CV; ölçekleme CV içinde)
+  ridge, tüm genler                      ham                  AUC 0.549 ± 0.023
+  ridge, tüm genler                      parti merkezlemeli   AUC 0.552 ± 0.021
+  ilk 20 PC + lojistik                   ham                  AUC 0.494 ± 0.035
+  ilk 20 PC + lojistik                   parti merkezlemeli   AUC 0.515 ± 0.019
+  random forest, en değişken 2000 gen    ham                  AUC 0.463 ± 0.015
+  random forest, en değişken 2000 gen    parti merkezlemeli   AUC 0.465 ± 0.005
+
+D. miRNA KATMANI (GSE85307)
+  miRNA (221 test, global ortalama normalize)  λ=1.13  p<0.001:    0 (null ≈ 0)  FDR<0.05:    0  FDR<0.20:    0
+  ridge, tüm miRNA: AUC 0.583 ± 0.038
+  en güçlü 5 miRNA: hsa-miR-454_002323 (p=4.6e-03), hsa-miR-135a_000460 (p=2.0e-02), hsa-miR-126#_000451 (p=2.1e-02), hsa-miR-199a_000498 (p=3.4e-02), hsa-miR-133a_002246 (p=4.2e-02)
+
+D2. LİTERATÜR İMZALARI — skor = genlerin kohort içi z ortalaması; AUC(grup vs kontrol)
+  nötrofil granül (Hong 2019, olgunlaşmamış nötrofil) (13/13 gen ortak evrende)
+    GSE85307  PE         vs Control        n= 47/110  AUC 0.50  p=0.934
+    GSE149440 PE         vs Control        n= 12/ 50  AUC 0.49  p=0.922
+    GSE149440 sPTD       vs Control        n= 28/ 50  AUC 0.56  p=0.357
+    GSE149440 PPROM      vs Control        n= 33/ 50  AUC 0.51  p=0.915
+    GSE59491  sPTD       vs Control        n= 15/114  AUC 0.56  p=0.474
+    GSE59491  PPROM      vs Control        n= 36/114  AUC 0.61  p=0.053
+    GSE142974 sPTD       vs Control        n=  8/ 16  AUC 0.24  p=0.045
+    GSE108497 PE         vs Control (SLE)  n= 23/ 46  AUC 0.58  p=0.288
+    GSE108497 FGR_SGA_FD vs Control (SLE)  n= 21/ 46  AUC 0.55  p=0.512
+  interferon (12/12 gen ortak evrende)
+    GSE85307  PE         vs Control        n= 47/110  AUC 0.41  p=0.067
+    GSE149440 PE         vs Control        n= 12/ 50  AUC 0.45  p=0.563
+    GSE149440 sPTD       vs Control        n= 28/ 50  AUC 0.53  p=0.628
+    GSE149440 PPROM      vs Control        n= 33/ 50  AUC 0.50  p=0.967
+    GSE59491  sPTD       vs Control        n= 15/114  AUC 0.61  p=0.178
+    GSE59491  PPROM      vs Control        n= 36/114  AUC 0.56  p=0.317
+    GSE142974 sPTD       vs Control        n=  8/ 16  AUC 0.78  p=0.027
+    GSE108497 PE         vs Control (SLE)  n= 23/ 46  AUC 0.57  p=0.356
+    GSE108497 FGR_SGA_FD vs Control (SLE)  n= 21/ 46  AUC 0.59  p=0.253
+  plazma hücresi (5/7 gen ortak evrende)
+    GSE85307  PE         vs Control        n= 47/110  AUC 0.48  p=0.628
+    GSE149440 PE         vs Control        n= 12/ 50  AUC 0.54  p=0.650
+    GSE149440 sPTD       vs Control        n= 28/ 50  AUC 0.51  p=0.921
+    GSE149440 PPROM      vs Control        n= 33/ 50  AUC 0.46  p=0.524
+    GSE59491  sPTD       vs Control        n= 15/114  AUC 0.43  p=0.400
+    GSE59491  PPROM      vs Control        n= 36/114  AUC 0.39  p=0.052
+    GSE142974 sPTD       vs Control        n=  8/ 16  AUC 0.52  p=0.928
+    GSE108497 PE         vs Control (SLE)  n= 23/ 46  AUC 0.58  p=0.265
+    GSE108497 FGR_SGA_FD vs Control (SLE)  n= 21/ 46  AUC 0.65  p=0.052

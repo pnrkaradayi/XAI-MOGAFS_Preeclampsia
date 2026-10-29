@@ -1,0 +1,13 @@
+######## GSE96097  (77 örnek)
+!Series_title = Genome Scale Analysis of miRNA and mRNA regulation during preterm labor
+!Series_pubmed_id = 29305255
+!Series_overall_design = Refer to individual Series
+!Series_platform_id = GPL16791
+!Series_relation = SuperSeries of: GSE96077
+!Series_relation = SuperSeries of: GSE96083
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA378795
+!Sample_source_name_ch1: {'Monocytes': 39, 'Whole Blood': 38}
+!Sample_platform_id: {'GPL16791': 77}
+!Sample_molecule_ch1: {'total RNA': 77}
+!Sample_title örnek: CON_1_Monocyte_mRNA | CON_10_Monocyte_mRNA | CON_13_Monocyte_mRNA | CON_16_Monocyte_mRNA | CON_17_Monocyte_mRNA | CON_18_Monocyte_mRNA
+  [condition] n_değer=2: {'Term Delivery': 52, 'Preterm Delivery': 25}

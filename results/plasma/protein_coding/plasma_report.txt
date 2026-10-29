@@ -1,0 +1,23 @@
+Discovery: 68 kadın (23 PE), Validation-1: 33 (6 PE); 6707 gen
+Gen evreni: protein_coding; Ayarlar: {'K': 200, 'max_k': 5, 'pop_size': 100, 'n_gen': 60, 'tol': 0.03, 'outer_folds': 5, 'outer_repeats': 3, 'seed': 2026, 'min_expr': 1.0, 'min_frac': 0.5}
+Hafta dilimi 13–20 oranı: Discovery PE 0.43 / kontrol 0.20; Val-1 PE 0.50 / kontrol 0.30
+Süre: 300 sn
+
+A. DISCOVERY İÇ İÇE CV (dış 5 kat x 3 tekrar) — PE vs kontrol
+  MOGAFS   havuzlanmış dış AUC 0.545 (tekrarlar 0.573, 0.414, 0.647; 1. tekrar %95 GA 0.409–0.729); ort. 3.6 gen
+           en sık seçilenler: HIP1R×6, STAG2×4, DGCR6L×3, SFMBT1×2, LRRC58×2, MKLN1×2, TBL1XR1×2, FOXN3×1
+  LASSO5   havuzlanmış dış AUC 0.501 (tekrarlar 0.486, 0.495, 0.524; 1. tekrar %95 GA 0.338–0.641); ort. 5.0 gen
+           en sık seçilenler: STAG2×9, AASDHPPT×4, SMARCAD1×3, DYM×3, OSBPL8×3, POMT1×3, OSBPL1A×3, MKLN1×3
+  TTEST5   havuzlanmış dış AUC 0.492 (tekrarlar 0.422, 0.548, 0.507; 1. tekrar %95 GA 0.284–0.569); ort. 5.0 gen
+           en sık seçilenler: OAZ1×7, STAG2×7, DGCR6L×5, AASDHPPT×4, ACACB×4, SMARCAD1×3, KRT8×3, MTCH2×2
+
+B. İÇ DOĞRULAMA — Discovery'de kurulan model, Validation-1'de
+  MOGAFS   HIP1R;TENT5A;SFMBT1;ATP5PD                    Val-1 AUC 0.574 [%95 GA 0.290–0.840] (n=6/27)
+  LASSO5   STAG2;POMT1;SMARCAD1;AASDHPPT;OAZ1            Val-1 AUC 0.759 [%95 GA 0.500–0.975] (n=6/27)
+  TTEST5   DGCR6L;OAZ1;STAG2;ACACB;SMARCAD1              Val-1 AUC 0.784 [%95 GA 0.543–0.975] (n=6/27)
+
+C. KİLİTLİ MODELLER (Discovery + Validation-1, 101 kadın; filtre sonrası 6707 gen)
+  MOGAFS   STAG2 (-1.56), CRTC2 (+1.22), MYLIP (-1.01), SFMBT1 (-1.07)
+  LASSO5   STAG2 (-1.08), OSBPL8 (-0.63), XRN1 (-0.44), POMT1 (-0.35), PRKAR2A (-0.60)
+  TTEST5   STAG2 (-0.94), STRN4 (+0.56), OSBPL8 (-0.74), OAZ1 (+0.27), STARD8 (+0.29)
+  kilit dosyası SHA-256: b140fe7507fefec6…  (4267 küme değerlendirildi; Pareto 33 çözüm)

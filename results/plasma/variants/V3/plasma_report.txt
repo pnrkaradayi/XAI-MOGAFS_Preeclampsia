@@ -1,0 +1,23 @@
+Discovery: 68 kadın (23 PE), Validation-1: 33 (6 PE); 7032 özellik (7 bileşim)
+Gen evreni: all; varyant: bileşim=True, kararlılık=True, hafta eşlik=True; Ayarlar: {'K': 200, 'max_k': 5, 'pop_size': 100, 'n_gen': 60, 'tol': 0.03, 'outer_folds': 5, 'outer_repeats': 3, 'seed': 2026, 'min_expr': 1.0, 'min_frac': 0.5}
+Hafta dilimi 13–20 oranı: Discovery PE 0.43 / kontrol 0.20; Val-1 PE 0.50 / kontrol 0.30
+Süre: 282 sn
+
+A. DISCOVERY İÇ İÇE CV (dış 5 kat x 3 tekrar) — PE vs kontrol
+  MOGAFS   havuzlanmış dış AUC 0.741 (tekrarlar 0.770, 0.721, 0.732; 1. tekrar %95 GA 0.637–0.879); ort. 5.0 özellik
+           en sık seçilenler: RN7SL230P×13, RN7SL736P×11, IGHG1×5, RN7SL128P×3, RN7SL573P×3, RN7SL674P×3, HIP1R×2, MAGI2-AS3×2
+  LASSO5   havuzlanmış dış AUC 0.710 (tekrarlar 0.701, 0.700, 0.729; 1. tekrar %95 GA 0.572–0.830); ort. 5.0 özellik
+           en sık seçilenler: RN7SL230P×12, STAG2×9, DYM×5, SMARCAD1×3, AASDHPPT×3, OSBPL1A×3, RN7SL753P×3, RN7SL381P×3
+  TTEST5   havuzlanmış dış AUC 0.822 (tekrarlar 0.824, 0.824, 0.817; 1. tekrar %95 GA 0.707–0.922); ort. 5.0 özellik
+           en sık seçilenler: RN7SL230P×15, RN7SL736P×12, RN7SL128P×12, RN7SL674P×10, RN7SL767P×8, RN7SL5P×3, RN7SL752P×3, RN7SL753P×3
+
+B. İÇ DOĞRULAMA — Discovery'de kurulan model, Validation-1'de
+  MOGAFS   RN7SL736P;RN7SL128P;RN7SL767P;IGHG1;NEK6      Val-1 AUC 0.833 [%95 GA 0.691–0.957] (n=6/27)
+  LASSO5   RN7SL230P;STAG2;RNA5-8SP6;SMARCAD1;RN7SL736P  Val-1 AUC 0.907 [%95 GA 0.784–0.994] (n=6/27)
+  TTEST5   RN7SL230P;RN7SL736P;RN7SL128P;RN7SL674P;RN7SL767P Val-1 AUC 0.907 [%95 GA 0.796–0.994] (n=6/27)
+
+C. KİLİTLİ MODELLER (Discovery + Validation-1, 101 kadın; filtre sonrası 7032 özellik)
+  MOGAFS   RN7SL230P (+1.04), RN7SL736P (+0.74), STAG2 (-0.99), MYLIP (-1.10), HIP1R (+1.14)  [hafta eşlik katsayısı -0.03]
+  LASSO5   RN7SL230P (+0.79), RN7SL493P (+0.37), STAG2 (-0.71), OSBPL8 (-0.69), RN7SL564P (+0.36)  [hafta eşlik katsayısı +0.47]
+  TTEST5   RN7SL230P (+0.82), RN7SL674P (+0.24), RN7SL736P (+0.48), RN7SL128P (+0.05), RN7SL573P (+0.38)  [hafta eşlik katsayısı +0.42]
+  kilit dosyası SHA-256: 71b9aedcab837909…  (4554 küme değerlendirildi; Pareto 175 çözüm)

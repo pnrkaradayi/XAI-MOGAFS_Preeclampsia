@@ -1,0 +1,79 @@
+======================================================================
+GSE142974 — ÖZGÜLLÜK 0 (VDAART tam kan, GPL6244)
+======================================================================
+  matris: 33297 prob x 24 örnek; değer aralığı 2.84–14.14
+  [TAMAM] kadın sayısı: 24 (beklenen 24)
+  [TAMAM] kadın başına tek örnek: True (beklenen True)
+  [TAMAM] sPTB: 8 (beklenen 8)
+  [TAMAM] normal: 16 (beklenen 16)
+  [TAMAM] GSE85307 ile ortak kadın: 0 (beklenen 0)
+  kan alımı: 11.14–18.86 hf (GSE85307: 10.00–18.86)
+  Normal: doğum haftası 37.1–41.2, kan alımı medyan 14.4
+  sPTB: doğum haftası 21.0–31.4, kan alımı medyan 14.2
+  GSE85307 ile prob kümesi aynı: True; medyan ifade GSE85307 6.81 / GSE142974 6.27
+
+======================================================================
+GSE108497 — ÖZGÜLLÜK 3 (tam kan, GPL10558 Illumina HT-12)
+======================================================================
+  [TAMAM] örnek sayısı: 512 (beklenen 512)
+  [TAMAM] kadın sayısı: 158 (beklenen 158)
+  grup etiketi kadın içinde tutarsız: 0; kadın başına örnek maks 5
+  aynı kadın + aynı zaman noktasında birden çok örnek: 0
+  [TAMAM] HC_P (kadın): 43 (beklenen 43)
+  [TAMAM] SLE_P_NC (kadın): 46 (beklenen 46)
+  [TAMAM] SLE_P_PE (kadın): 24 (beklenen 24)
+  [TAMAM] SLE_P_OC (kadın): 22 (beklenen 22)
+  [TAMAM] HC_NP (kadın): 23 (beklenen 23)
+
+  Parti (batch) x grup — örnek sayısı:
+batch      1   2   3    4  Top
+group                         
+HC_NP     10   1  12    0   23
+HC_P      26  19  32   87  164
+SLE_P_NC  31  12   1  151  195
+SLE_P_OC   7  10   0   44   61
+SLE_P_PE  12  14   0   43   69
+Top       86  56  45  325  512
+
+  <24 hf (zaman noktası 1–2), kadının en erken örneği:
+tp          1   2  Top
+group                 
+HC_P       38   4   42
+SLE_P_NC   45   1   46
+SLE_P_OC   18   3   21
+SLE_P_PE   21   2   23
+Top       122  10  132
+  [TAMAM] HC_P <24 hf örneği olan kadın: 42 (beklenen 42)
+  [TAMAM] SLE_P_NC <24 hf örneği olan kadın: 46 (beklenen 46)
+  [TAMAM] SLE_P_OC <24 hf örneği olan kadın: 21 (beklenen 21)
+  [TAMAM] SLE_P_PE <24 hf örneği olan kadın: 23 (beklenen 23)
+  zaman noktası 1 hafta aralığı: 6.1–15.4 (medyan 11.4)
+  eğitim penceresi (10–18.9 hf) içinde: {'SLE_P_NC': 32, 'HC_P': 29, 'SLE_P_PE': 16, 'SLE_P_OC': 16}
+
+  Sonlanım bayrakları (<24 hf örneği olan kadınlar, değer=1 sayısı):
+          pe  iugr  sga  fd  nnd  pl_insuff
+group                                      
+HC_P       0     0    0   0    0          0
+SLE_P_NC   0     0    0   0    0          0
+SLE_P_OC   0     5   12   8    1          3
+SLE_P_PE  23     2    3   1    2          0
+  PE başlangıcı (36 hf öncesi/sonrası): {'Before': 19, 'After': 4}
+  SLE_P_OC içinde FGR veya SGA: 14 / 21; hiçbir bayrağı olmayan: 0
+
+  GSE108497_normalized_data.txt.gz: 510 çip x 47323 prob
+  GSE108497_9269325029_J_and_K_normalized.txt.gz: 2 çip x 47319 prob
+  ortak prob: 47319 (yalnız ana dosyada 4, yalnız J/K dosyasında 0)
+  [TAMAM] anotasyondaki örneklerin ifade verisinde bulunan: 512 (beklenen 512)
+  ifade verisinde olup anotasyonda olmayan çip: 0
+  birleşik matris: 47319 prob x 512 çip; değer aralığı -70.6–50652.4; negatif değer oranı 0.301
+  J/K çiplerinin medyan yoğunluğu [6.199999809265137, 5.699999809265137] / diğer çipler medyanı 6.5 (aynı ölçekte mi kontrolü)
+  NOT: değerler log ölçeğinde değil (arka plan çıkarılmış ham yoğunluk). Kohort içinde offset + log2 + normalizasyon gerekecek; dış test seti olduğu için eğitimden bağımsız yapılabilir.
+  erken manifest notu taşıyan örnek: 512
+
+======================================================================
+MÜKERRER KONTROLÜ (yeni seriler x mevcut seriler, GSM kesişimi)
+======================================================================
+  GSE142974: GSE85307 0, GSE149440 0, GSE59491 0, GSE192902 0
+  GSE108497: GSE85307 0, GSE149440 0, GSE59491 0, GSE192902 0
+
+SONUÇ: 17/17 kontrol tuttu.

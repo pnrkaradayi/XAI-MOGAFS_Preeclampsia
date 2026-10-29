@@ -1,0 +1,14 @@
+######## GSE181750  (60 örnek)
+!Series_title = RNA-seq for paired maternal blood, cord blood, and placenta
+!Series_overall_design = RNA-seq for maternal blood
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181750/suppl/GSE181750_allreads_featurecounts.readcounts.ann.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181750/suppl/GSE181750_allreads_featurecounts.readcounts_ann_rpkm.txt.gz
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE181nnn/GSE181750/suppl/GSE181750_allreads_featurecounts.readcounts_ann_tpm.txt.gz
+!Series_platform_id = GPL18573
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA753285
+!Series_relation = SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP331830
+!Sample_source_name_ch1: {'Trimester 1 Maternal Blood Leukocytes': 60}
+!Sample_platform_id: {'GPL18573': 60}
+!Sample_molecule_ch1: {'total RNA': 60}
+!Sample_title örnek: ai09166 | aq04898 | au02019 | bc07966 | bd09479 | bi07249
+  [cell type] n_değer=1: {'First trimester maternal blood leukocytes': 60}
